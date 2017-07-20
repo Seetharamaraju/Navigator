@@ -1,0 +1,3334 @@
+id: 4d-1.0.r1487/0
+type: file
+pred: 4d-1.0.r1311/10897
+count: 10
+text: 1399 0 114 107681 4c3b183d13b3ebebc6f4e8710b7c41a6 0486008b8bb2b158c39e833fc721541c847aa4e6 1486-167/_s
+cpath: /trunk/app/helpers/application_helper.rb
+copyroot: 0 /
+
+PLAIN
+K 24
+administration_helper.rb
+V 21
+file 46-1.0.r707/9372
+K 23
+alert_configs_helper.rb
+V 23
+file 48-1.0.r1/27252458
+K 15
+alert_helper.rb
+V 23
+file 49-1.0.r1/27252672
+K 19
+analytics_helper.rb
+V 23
+file 4a-1.0.r1/27252878
+K 24
+app_exceptions_helper.rb
+V 23
+file 4b-1.0.r1/27253093
+K 19
+app_users_helper.rb
+V 23
+file 4c-1.0.r1/27253308
+K 21
+application_helper.rb
+V 19
+file 4d-1.0.r1487/0
+K 24
+auto_amendment_helper.rb
+V 23
+file 4e-1.0.r1/27253737
+K 23
+chart_configs_helper.rb
+V 23
+file 4f-1.0.r1/27253952
+K 25
+contract_intake_helper.rb
+V 23
+file 4g-1.0.r1/27254166
+K 24
+contract_model_helper.rb
+V 23
+file 4h-1.0.r1/27254382
+K 25
+contract_models_helper.rb
+V 23
+file 4i-1.0.r1/27254601
+K 26
+contract_request_helper.rb
+V 23
+file 4j-1.0.r1/27254820
+K 25
+contract_upload_helper.rb
+V 23
+file 4k-1.0.r1/27255038
+K 19
+contracts_helper.rb
+V 23
+file 4l-1.0.r1311/11141
+K 36
+contracts_mass_action_jobs_helper.rb
+V 23
+file 4m-1.0.r1/27255466
+K 3
+ctl
+V 22
+dir 4n-1.0.r1/27256236
+K 18
+customer_helper.rb
+V 23
+file 4s-1.0.r1/27256379
+K 23
+customer_task_helper.rb
+V 23
+file 4t-1.0.r1/27256592
+K 28
+customer_team_mgmt_helper.rb
+V 23
+file 4u-1.0.r1/27256806
+K 34
+customer_user_management_helper.rb
+V 21
+file 4v-1.0.r1233/131
+K 23
+customer_view_helper.rb
+V 22
+file 4w-1.0.r989/10796
+K 20
+data_audit_helper.rb
+V 23
+file 4x-1.0.r1/27257467
+K 20
+data_entry_helper.rb
+V 23
+file 4y-1.0.r1/27257680
+K 25
+data_extraction_helper.rb
+V 23
+file 4z-1.0.r1/27257895
+K 21
+data_import_helper.rb
+V 23
+file 50-1.0.r1/27258116
+K 30
+data_management_jobs_helper.rb
+V 23
+file 51-1.0.r1/27258330
+K 38
+data_management_term_configs_helper.rb
+V 23
+file 52-1.0.r1/27258551
+K 23
+data_mappings_helper.rb
+V 23
+file 53-1.0.r1/27258780
+K 42
+derived_data_element_definitions_helper.rb
+V 23
+file 54-1.0.r1/27258993
+K 24
+document_audit_helper.rb
+V 23
+file 55-1.0.r1/27259229
+K 36
+document_exception_details_helper.rb
+V 23
+file 56-1.0.r1/27259444
+K 29
+document_exceptions_helper.rb
+V 23
+file 57-1.0.r1445/14066
+K 46
+document_intake_email_configurations_helper.rb
+V 23
+file 58-1.0.r1/27259897
+K 43
+document_intake_notification_rule_helper.rb
+V 23
+file 59-1.0.r1/27260136
+K 26
+exception_groups_helper.rb
+V 23
+file 5a-1.0.r1/27260370
+K 18
+feedback_helper.rb
+V 23
+file 5b-1.0.r1/27260587
+K 22
+file_uploads_helper.rb
+V 23
+file 5c-1.0.r1/27260795
+K 20
+gatepasses_helper.rb
+V 23
+file 5d-1.0.r1/27261010
+K 2
+hp
+V 22
+dir 5e-1.0.r1/27261763
+K 21
+integration_helper.rb
+V 23
+file 5j-1.0.r1/27261905
+K 15
+login_helper.rb
+V 23
+file 5k-1.0.r1/27262116
+K 29
+meta_deta_criterias_helper.rb
+V 23
+file 5l-1.0.r1/27262321
+K 20
+milestones_helper.rb
+V 23
+file 5m-1.0.r1/27262541
+K 17
+release_helper.rb
+V 23
+file 5n-1.0.r1/27262752
+K 23
+remote_link_renderer.rb
+V 23
+file 5o-1.0.r1/27262960
+K 18
+reporter_helper.rb
+V 23
+file 5p-1.0.r1/27263176
+K 19
+reporting_helper.rb
+V 22
+file 5q-1.0.r989/11036
+K 12
+restful_apis
+V 22
+dir 5r-1.0.r1/27263598
+K 15
+rules_helper.rb
+V 23
+file 5s-1.0.r1/27263694
+K 29
+salesforce_accounts_helper.rb
+V 23
+file 5t-1.0.r1/27263900
+K 43
+salesforce_pramata_field_mappings_helper.rb
+V 23
+file 5u-1.0.r1/27264123
+K 16
+sample_helper.rb
+V 23
+file 5v-1.0.r1/27264361
+K 3
+se2
+V 22
+dir 5w-1.0.r1/27265109
+K 25
+snapshot_config_helper.rb
+V 23
+file 61-1.0.r1/27265252
+K 14
+sort_helper.rb
+V 23
+file 62-1.0.r1/27265470
+K 18
+sso_auth_helper.rb
+V 27
+file 4-171.1-883.r883/15933
+K 14
+tags_helper.rb
+V 23
+file 63-1.0.r1/27265677
+K 15
+tasks_helper.rb
+V 23
+file 64-1.0.r1/27265882
+K 19
+team_mgmt_helper.rb
+V 23
+file 65-1.0.r1/27266087
+K 28
+transaction_review_helper.rb
+V 23
+file 66-1.0.r1/27266300
+K 26
+transaction_view_helper.rb
+V 23
+file 67-1.0.r1/27266518
+K 22
+usage_report_helper.rb
+V 23
+file 68-1.0.r1/27266737
+K 14
+user_helper.rb
+V 23
+file 69-1.0.r1/27266955
+K 20
+user_roles_helper.rb
+V 23
+file 6a-1.0.r1/27267163
+K 14
+view_helper.rb
+V 23
+file 6b-1.0.r1/27267374
+END
+ENDREP
+id: 45-1.0.r1487/4047
+type: dir
+pred: 45-1.0.r1445/18127
+count: 18
+text: 1487 238 3796 3796 7805e85ecfe31cccbff1e5e745bd73c7
+cpath: /trunk/app/helpers
+copyroot: 0 /
+
+id: 5-274.1-405.r1487/4213
+type: file
+pred: 5-274.1-405.r651/40752
+count: 6
+text: 1389 1534 161 1191 da722d55e3cb481f4113a461c2e76976 53ca923beeb6fc006d4bca933eb8b85409708d22 1486-167/_l
+cpath: /trunk/app/views/contracts/_non_std_amended_dropdown.html.erb
+copyroot: 405 /trunk/app/views/contracts/_non_std_amended_dropdown.html.erb
+
+id: 6-248.3-405.r1487/4546
+type: file
+pred: 6-248.3-405.r1311/40610
+count: 10
+text: 1412 0 297 7386 7007a4bf90dee5054da5e74da88fa6ae f6dadf9595460bf831573f6bf863d517bd5742bd 1486-167/_q
+cpath: /trunk/app/views/contracts/contract_detail.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail.html.erb
+
+id: 6-356.5-405.r1487/4858
+type: file
+pred: 6-356.5-405.r651/42691
+count: 3
+text: 1389 2630 27 780 85f92ee1627ac0c816579bae00757122 9211dacb732d73cdce393a49c3779849e4394b30 1486-167/_m
+cpath: /trunk/app/views/contracts/contract_detail_templates/_alert_info_key_term.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates/_alert_info_key_term.html.erb
+
+id: 6-620.4-651.r1487/5231
+type: file
+pred: 6-620.4-651.r1311/40919
+count: 5
+text: 1399 139 71 2214 e707e20ad7fdca855c55dd3881b2de6c 747643d59bbdb466e27b90a91055878d2dfba3e9 1486-167/_v
+cpath: /trunk/app/views/contracts/contract_detail_templates/_citation_tooltip_partial.html
+copyroot: 651 /trunk/app/views/contracts/contract_detail_templates/_citation_tooltip_partial.html
+
+id: 6-282.7-405.r1487/5607
+type: file
+pred: 6-282.7-405.r651/43808
+count: 3
+text: 1389 900 225 295 86a4718c78ef6c02613783ad9b338ccd 0971b002dfd3271caf6f6c46c89e8f82f87c9312 1486-167/_10
+cpath: /trunk/app/views/contracts/contract_detail_templates/_company_group_link.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates/_company_group_link.html.erb
+
+id: 9-247.4-405.r1487/5979
+type: file
+pred: 9-247.4-405.r651/44177
+count: 3
+text: 1389 2966 313 590 096bb15c16ad62d536ae4774ecb34e8b 5527ce52c73f236e9783ddd25e6a72e8aafa75fb 1486-167/_p
+cpath: /trunk/app/views/contracts/contract_detail_templates/_contract_pdf_link.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates
+
+id: 8-368.9-405.r1487/6321
+type: file
+pred: 8-368.9-405.r654/378
+count: 4
+text: 1389 303 298 1257 302cd594a8ff8e439d4c2450d3182362 c1f8d93ec879bad9589658d8bf0dbbc15fc44cbe 1486-167/_b
+cpath: /trunk/app/views/contracts/contract_detail_templates/_customer_editable_key_term_actions.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates/_customer_editable_key_term_actions.html.erb
+
+id: b-247.4-405.r1487/6723
+type: file
+pred: b-247.4-405.r1311/41297
+count: 7
+text: 1398 221 75 4799 f832fc9956836c0175d14e6da550d643 924612dd6aa133b5fc219fcdcbcacb2e580c73a1 1486-167/_j
+cpath: /trunk/app/views/contracts/contract_detail_templates/_data_grid_key_term.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates
+
+id: c-247.4-405.r1487/7066
+type: file
+pred: c-247.4-405.r651/45643
+count: 3
+text: 1389 3303 61 588 452bffe0eb1ea267d64c9fc6b7977cca c039e8230eef5537f645e2fa1145d731f57bf13f 1486-167/_o
+cpath: /trunk/app/views/contracts/contract_detail_templates/_file_term_link.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates
+
+id: 6-415.1-454.r1487/7404
+type: file
+pred: 6-415.1-454.r651/45979
+count: 3
+text: 1389 1151 357 446 fa87d4bd6619c0927dd443f37e2dbe7b ec1490a6e7f796f80185896312a4d7e38ca89659 1486-167/_k
+cpath: /trunk/app/views/contracts/contract_detail_templates/_link_term_template.html.erb
+copyroot: 454 /trunk/app/views/contracts/contract_detail_templates/_link_term_template.html.erb
+
+id: d-247.4-405.r1487/7776
+type: file
+pred: d-247.4-405.r1311/41639
+count: 8
+text: 1397 713 69 2868 809067a2caf12af91bd51b6dbd081253 4b54ec969f8957e01e168d51add4727dfc863067 1486-167/_11
+cpath: /trunk/app/views/contracts/contract_detail_templates/_regular_key_term.html.erb
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates
+
+PLAIN
+K 29
+_alert_info_key_term.html.erb
+V 27
+file 6-356.5-405.r1487/4858
+K 25
+_amended_tooltip.html.erb
+V 23
+file 6-367.6-405.r687/0
+K 30
+_citation_tooltip_partial.html
+V 27
+file 6-620.4-651.r1487/5231
+K 28
+_company_group_link.html.erb
+V 27
+file 6-282.7-405.r1487/5607
+K 27
+_contract_pdf_link.html.erb
+V 27
+file 9-247.4-405.r1487/5979
+K 36
+_customer_editable_key_term.html.erb
+V 23
+file 6-368.8-405.r654/0
+K 44
+_customer_editable_key_term_actions.html.erb
+V 27
+file 8-368.9-405.r1487/6321
+K 28
+_data_grid_key_term.html.erb
+V 27
+file b-247.4-405.r1487/6723
+K 24
+_file_term_link.html.erb
+V 27
+file c-247.4-405.r1487/7066
+K 28
+_link_term_template.html.erb
+V 27
+file 6-415.1-454.r1487/7404
+K 30
+_non_standard_tooltip.html.erb
+V 27
+file 8-367.a-405.r651/46349
+K 26
+_regular_key_term.html.erb
+V 27
+file d-247.4-405.r1487/7776
+END
+ENDREP
+id: 8-247.4-405.r1487/8950
+type: dir
+pred: 8-247.4-405.r1311/42813
+count: 10
+text: 1487 8118 819 819 74caa18ba916398767e7276984ca7a0b
+cpath: /trunk/app/views/contracts/contract_detail_templates
+copyroot: 405 /trunk/app/views/contracts/contract_detail_templates
+
+PLAIN
+K 38
+_add_affiliated_company_group.html.erb
+V 23
+file w2-1.0.r1/27526835
+K 29
+_add_company_group_2.html.erb
+V 23
+file w4-1.0.r1/27527075
+K 23
+_all_contracts.html.erb
+V 23
+file w5-1.0.r1/27527305
+K 23
+_assign_status.html.erb
+V 23
+file w6-1.0.r1/27527528
+K 18
+_citation.html.erb
+V 28
+file 5-784.2-798.r1314/15897
+K 24
+_contracts_list.html.erb
+V 23
+file w7-1.0.r1/27527752
+K 27
+_dispaly_contracts.html.erb
+V 23
+file w8-1.0.r1/27527977
+K 31
+_display_contract_list.html.erb
+V 23
+file w9-1.0.r1/27528207
+K 34
+_display_file_folder_list.html.erb
+V 23
+file wa-1.0.r1/27528442
+K 25
+_expand_children.html.erb
+V 23
+file wb-1.0.r1/27528678
+K 25
+_files_by_folder.html.erb
+V 23
+file wc-1.0.r1/27528903
+K 26
+_filter_contracts.html.erb
+V 23
+file wd-1.0.r1/27529130
+K 30
+_filter_pontus_number.html.erb
+V 23
+file we-1.0.r1/27529358
+K 14
+_form.html.erb
+V 23
+file wf-1.0.r1/27529589
+K 23
+_get_resources.html.erb
+V 23
+file wg-1.0.r1/27529805
+K 22
+_get_statuses.html.erb
+V 23
+file wh-1.0.r1/27530030
+K 25
+_group_contracts.html.erb
+V 23
+file wi-1.0.r1/27530254
+K 23
+_hide_children.html.erb
+V 23
+file wj-1.0.r1/27530481
+K 31
+_list_error_statistics.html.erb
+V 23
+file wk-1.0.r1/27530705
+K 18
+_listview.html.erb
+V 23
+file wl-1.0.r1/27530939
+K 34
+_non_std_amended_dropdown.html.erb
+V 27
+file 5-274.1-405.r1487/4213
+K 39
+_non_std_amended_dropdown_beta.html.erb
+V 27
+file 5-591.1-651.r651/41082
+K 21
+_not_allowed.html.erb
+V 27
+file 5-492.0-599.r599/30824
+K 30
+_show_accuracy_report.html.erb
+V 22
+file wm-1.0.r776/34334
+K 31
+_show_children_folders.html.erb
+V 23
+file wn-1.0.r1/27531392
+K 31
+_show_company_groups_2.html.erb
+V 23
+file wo-1.0.r1/27531625
+K 31
+_show_contracts_status.html.erb
+V 23
+file wp-1.0.r1/27531858
+K 27
+_show_error_report.html.erb
+V 23
+file wq-1.0.r1/27532091
+K 32
+_show_qaers_filter_form.html.erb
+V 23
+file wr-1.0.r1/27532320
+K 35
+_show_term_level_qa_report.html.erb
+V 23
+file ws-1.0.r1/27532552
+K 19
+_templates.html.erb
+V 27
+file 7-247.2-405.r651/41431
+K 24
+_templates_beta.html.erb
+V 27
+file 7-591.2-651.r651/41731
+K 24
+contract_detail.html.erb
+V 27
+file 6-248.3-405.r1487/4546
+K 29
+contract_detail_beta.html.erb
+V 27
+file 8-591.3-651.r864/24209
+K 25
+contract_detail_templates
+V 26
+dir 8-247.4-405.r1487/8950
+K 30
+contract_detail_templates_beta
+V 25
+dir 9-591.5-651.r687/2544
+K 13
+edit.html.erb
+V 23
+file wt-1.0.r1/27532788
+K 13
+list.html.erb
+V 23
+file wu-1.0.r1/27533002
+K 12
+new.html.erb
+V 23
+file wv-1.0.r1/27533212
+END
+ENDREP
+id: w1-1.0.r1487/11640
+type: dir
+pred: w1-1.0.r1314/18626
+count: 19
+text: 1487 9212 2415 2415 56f3e8be03e62098657db034bb9a89d0
+cpath: /trunk/app/views/contracts
+copyroot: 0 /
+
+id: 5-1366.0-1367.r1487/11816
+type: file
+pred: 5-1366.0-1367.r1367/7431
+count: 2
+text: 1389 0 276 11021 5456cd985c56cfc6608cd67ff39a6f4c e5fa5bb1fd386bafc85ec8fcea0e21256d573694 1486-167/_u
+cpath: /trunk/app/views/customer_view/_show_left_nav_new.html.erb
+copyroot: 1367 /trunk/app/views/customer_view/_show_left_nav_new.html.erb
+
+PLAIN
+K 39
+_action_category_collapse_link.html.erb
+V 23
+file zw-1.0.r1/27563705
+K 37
+_action_category_expand_link.html.erb
+V 23
+file zy-1.0.r1/27563949
+K 24
+_action_request.html.erb
+V 23
+file zz-1.0.r1/27564190
+K 30
+_actions_for_requests.html.erb
+V 24
+file 100-1.0.r1/27564419
+K 21
+_add_comment.html.erb
+V 24
+file 101-1.0.r1/27564655
+K 18
+_add_term.html.erb
+V 24
+file 102-1.0.r1/27564882
+K 24
+_ajax_edit_term.html.erb
+V 24
+file 103-1.0.r1/27565108
+K 21
+_also_notify.html.erb
+V 24
+file 104-1.0.r1/27565340
+K 28
+_amendments_details.html.erb
+V 24
+file 105-1.0.r1/27565566
+K 29
+_audit_trail_request.html.erb
+V 24
+file 106-1.0.r1/27565800
+K 33
+_back_to_email_list_link.html.erb
+V 24
+file 107-1.0.r1/27566037
+K 25
+_compare_details.html.erb
+V 24
+file 108-1.0.r1/27566276
+K 25
+_compare_display.html.erb
+V 23
+file 109-1.0.r775/35103
+K 26
+_compare_metadata.html.erb
+V 24
+file 10a-1.0.r1/27566742
+K 21
+_compare_pdf.html.erb
+V 24
+file 10b-1.0.r1/27566974
+K 28
+_contract_alert_add.html.erb
+V 23
+file 10c-1.0.r774/37653
+K 32
+_contract_alert_details.html.erb
+V 23
+file 10d-1.0.r774/37910
+K 25
+_contract_alerts.html.erb
+V 22
+file 10e-1.0.r1234/631
+K 27
+_contract_document.html.erb
+V 18
+file 10f-1.0.r63/0
+K 37
+_contract_document_family_v2.html.erb
+V 22
+file 10g-1.0.r410/7929
+K 24
+_contract_email.html.erb
+V 24
+file 10h-1.0.r1/27568385
+K 29
+_contract_email_list.html.erb
+V 24
+file 10i-1.0.r1/27568615
+K 30
+_contract_execsummary.html.erb
+V 23
+file 10j-1.0.r989/43843
+K 34
+_contract_execsummary_pdf.html.erb
+V 24
+file 10k-1.0.r1/27569088
+K 30
+_contract_family_tree.html.erb
+V 24
+file 10l-1.0.r1/27569330
+K 34
+_contract_family_tree_pdf.html.erb
+V 24
+file 10m-1.0.r1/27569567
+K 28
+_contract_key_terms.html.erb
+V 23
+file 10n-1.0.r405/45146
+K 32
+_contract_key_terms_all.html.erb
+V 24
+file 10o-1.0.r1/27570043
+K 35
+_contract_key_terms_master.html.erb
+V 24
+file 10p-1.0.r1/27570282
+K 32
+_contract_key_terms_pdf.html.erb
+V 24
+file 10q-1.0.r1/27570523
+K 31
+_contract_non_standard.html.erb
+V 24
+file 10r-1.0.r1/27570763
+K 35
+_contract_non_standard_pdf.html.erb
+V 24
+file 10s-1.0.r1/27571002
+K 27
+_contract_note_add.html.erb
+V 24
+file 10t-1.0.r1/27571244
+K 24
+_contract_notes.html.erb
+V 24
+file 10u-1.0.r1/27571479
+K 28
+_contract_notes_pdf.html.erb
+V 24
+file 10v-1.0.r1/27571708
+K 37
+_contract_related_email_list.html.erb
+V 24
+file 10w-1.0.r1/27571942
+K 34
+_contract_request_details.html.erb
+V 24
+file 10x-1.0.r1/27572185
+K 31
+_contract_summary_pdf_dummy.erb
+V 24
+file 10y-1.0.r1/27572426
+K 21
+_delete_term.html.erb
+V 24
+file 10z-1.0.r1/27572664
+K 22
+_display_grid.html.erb
+V 24
+file 110-1.0.r1/27572892
+K 28
+_document_type_link.html.erb
+V 24
+file 111-1.0.r1/27573120
+K 22
+_draft_upload.html.erb
+V 24
+file 112-1.0.r1/27573354
+K 27
+_draft_upload_link.html.erb
+V 24
+file 113-1.0.r1/27573582
+K 19
+_edit_term.html.erb
+V 24
+file 114-1.0.r1/27573815
+K 34
+_email_attachment_details.html.erb
+V 24
+file 115-1.0.r1/27574041
+K 34
+_email_attachment_summary.html.erb
+V 24
+file 116-1.0.r1/27574282
+K 30
+_email_header_details.html.erb
+V 24
+file 117-1.0.r1/27574521
+K 27
+_email_header_info.html.erb
+V 24
+file 118-1.0.r1/27574757
+K 25
+_email_meta_info.html.erb
+V 24
+file 119-1.0.r1/27574990
+K 39
+_email_summary_in_conversation.html.erb
+V 24
+file 11a-1.0.r1/27575221
+K 21
+_export_form.html.erb
+V 24
+file 11b-1.0.r1/27575466
+K 23
+_export_to_pdf.html.erb
+V 24
+file 11c-1.0.r1/27575694
+K 22
+_header_image.html.erb
+V 24
+file 11d-1.0.r1/27575922
+K 24
+_key_terms_tree.html.erb
+V 24
+file 11e-1.0.r1/27576147
+K 26
+_link_default_tab.html.erb
+V 24
+file 11f-1.0.r1/27576372
+K 26
+_my_document_form.html.erb
+V 24
+file 11g-1.0.r1/27576605
+K 26
+_my_document_link.html.erb
+V 24
+file 11h-1.0.r1/27576837
+K 26
+_new_draft_upload.html.erb
+V 24
+file 11i-1.0.r1/27577070
+K 31
+_new_draft_upload_link.html.erb
+V 23
+file 11j-1.0.r774/38169
+K 21
+_new_header_image.erb
+V 24
+file 11k-1.0.r1/27577539
+K 34
+_new_past_uploaded_drafts.html.erb
+V 24
+file 11l-1.0.r1/27577766
+K 31
+_new_show_draft_upload.html.erb
+V 24
+file 11m-1.0.r1/27578008
+K 21
+_not_allowed.html.erb
+V 24
+file 11n-1.0.r1/27578246
+K 30
+_past_uploaded_drafts.html.erb
+V 24
+file 11o-1.0.r1/27578473
+K 43
+_related_questions_request_summary.html.erb
+V 24
+file 11p-1.0.r1/27578710
+K 47
+_render_data_elements_for_amended_term.html.erb
+V 24
+file 11q-1.0.r1/27578960
+K 30
+_request_summary_page.html.erb
+V 24
+file 11r-1.0.r1/27579213
+K 32
+_show_action_email_list.html.erb
+V 24
+file 11s-1.0.r1/27579450
+K 26
+_show_action_form.html.erb
+V 24
+file 11t-1.0.r1/27579690
+K 39
+_show_action_links_for_ce_term.html.erb
+V 24
+file 11u-1.0.r1/27579923
+K 26
+_show_action_list.html.erb
+V 24
+file 11v-1.0.r1/27580168
+K 35
+_show_action_list_category.html.erb
+V 24
+file 11w-1.0.r1/27580402
+K 26
+_show_alerts_link.html.erb
+V 24
+file 11x-1.0.r1/27580644
+K 29
+_show_all_whose_desk.html.erb
+V 24
+file 11y-1.0.r1/27580876
+K 29
+_show_amending_terms.html.erb
+V 24
+file 11z-1.0.r1/27581111
+K 38
+_show_amendment_data_elements.html.erb
+V 24
+file 120-1.0.r1/27581348
+K 42
+_show_amendment_data_elements_pdf.html.erb
+V 24
+file 121-1.0.r1/27581594
+K 34
+_show_audit_trail_details.html.erb
+V 24
+file 122-1.0.r1/27581843
+K 33
+_show_children_contracts.html.erb
+V 24
+file 123-1.0.r1/27582083
+K 36
+_show_children_contracts_sf.html.erb
+V 24
+file 124-1.0.r1/27582320
+K 23
+_show_contract.html.erb
+V 24
+file 125-1.0.r1/27582564
+K 41
+_show_contract_action_email_list.html.erb
+V 24
+file 126-1.0.r1/27582795
+K 29
+_show_contract_email.html.erb
+V 24
+file 127-1.0.r1/27583044
+K 34
+_show_contract_email_list.html.erb
+V 24
+file 128-1.0.r1/27583280
+K 29
+_show_contract_notes.html.erb
+V 24
+file 129-1.0.r1/27583521
+K 38
+_show_contract_request_status.html.erb
+V 24
+file 12a-1.0.r1/27583758
+K 36
+_show_current_status_action.html.erb
+V 24
+file 12b-1.0.r1/27584003
+K 33
+_show_data_dropdown_edit.html.erb
+V 24
+file 12c-1.0.r1/27584244
+K 28
+_show_data_elements.html.erb
+V 24
+file 12d-1.0.r1/27584482
+K 35
+_show_data_elements_master.html.erb
+V 24
+file 12e-1.0.r1/27584718
+K 32
+_show_data_elements_pdf.html.erb
+V 24
+file 12f-1.0.r1/27584961
+K 32
+_show_document_versions.html.erb
+V 24
+file 12g-1.0.r1/27585200
+K 27
+_show_draft_upload.html.erb
+V 24
+file 12h-1.0.r1/27585438
+K 33
+_show_email_conversation.html.erb
+V 24
+file 12i-1.0.r1/27585672
+K 28
+_show_email_details.html.erb
+V 24
+file 12j-1.0.r1/27585911
+K 41
+_show_email_details_without_hide.html.erb
+V 24
+file 12k-1.0.r1/27586146
+K 29
+_show_email_headings.html.erb
+V 24
+file 12l-1.0.r1/27586395
+K 24
+_show_grid_data.html.erb
+V 24
+file 12m-1.0.r1/27586629
+K 27
+_show_grid_headers.html.erb
+V 24
+file 12n-1.0.r1/27586860
+K 23
+_show_left_nav.html.erb
+V 23
+file 12o-1.0.r1367/7176
+K 27
+_show_left_nav_new.html.erb
+V 30
+file 5-1366.0-1367.r1487/11816
+K 34
+_show_only_amending_terms.html.erb
+V 24
+file 12p-1.0.r1/27587325
+K 32
+_show_related_contracts.html.erb
+V 24
+file 12q-1.0.r1/27587568
+K 36
+_show_related_contracts_pdf.html.erb
+V 24
+file 12r-1.0.r1/27587807
+K 37
+_show_related_email_headings.html.erb
+V 24
+file 12s-1.0.r1/27588049
+K 28
+_show_request_title.html.erb
+V 24
+file 12t-1.0.r1/27588291
+K 19
+_show_term.html.erb
+V 24
+file 12u-1.0.r1/27588524
+K 52
+_show_transaction_assosciated_with_contract.html.erb
+V 24
+file 12v-1.0.r1/27588749
+K 45
+_show_transaction_children_contracts.html.erb
+V 24
+file 12w-1.0.r1/27589007
+K 31
+_show_transaction_tree.html.erb
+V 24
+file 12x-1.0.r1/27589257
+K 19
+_site_tour.html.erb
+V 18
+file 4-4.0.r6/4896
+K 33
+_update_alert_date_types.html.erb
+V 24
+file 12y-1.0.r1/27589495
+K 26
+_version_document.html.erb
+V 24
+file 12z-1.0.r1/27589735
+K 26
+_view_term_audits.html.erb
+V 24
+file 130-1.0.r1/27589969
+K 20
+_whose_desk.html.erb
+V 24
+file 131-1.0.r1/27590201
+K 29
+compare_convert_to_excel.rxml
+V 24
+file 132-1.0.r1/27590427
+K 17
+contract.html.erb
+V 24
+file 133-1.0.r1/27590663
+K 21
+convert_to_excel.rxml
+V 24
+file 134-1.0.r1/27590881
+K 23
+pramata_number.html.erb
+V 27
+file 5-243.1-278.r278/41263
+K 20
+show_alerts.html.erb
+V 24
+file 135-1.0.r1/27591108
+END
+ENDREP
+id: zv-1.0.r1487/20004
+type: dir
+pred: zv-1.0.r1367/15628
+count: 23
+text: 1487 12147 7844 7844 9707eb8c1e9ec56f8cb2532b7ce26df0
+cpath: /trunk/app/views/customer_view
+copyroot: 0 /
+
+id: 5-780.3-798.r1487/20185
+type: file
+pred: 5-780.3-798.r1311/56314
+count: 5
+text: 1402 0 477 2166 7820cdf26d8dab5f708c31f958c46c03 db90c2a35553a3f28e07fc9ee04af0e0bacef884 1486-167/_z
+cpath: /trunk/app/views/reporting/_citation_tooltip_partial.html.erb
+copyroot: 798 /trunk/app/views/reporting/_citation_tooltip_partial.html.erb
+
+PLAIN
+K 32
+_add_additional_columns.html.erb
+V 23
+file 1jc-1.0.r989/55875
+K 41
+_add_additional_columns_enhanced.html.erb
+V 27
+file 5-175.2-278.r405/56903
+K 21
+_add_columns.html.erb
+V 24
+file 1je-1.0.r1/27752181
+K 18
+_add_term.html.erb
+V 24
+file 1jf-1.0.r1/27752405
+K 35
+_add_to_search_list_button.html.erb
+V 24
+file 1jg-1.0.r1/27752625
+K 29
+_additional_grid_div.html.erb
+V 24
+file 1jh-1.0.r1/27752862
+K 31
+_advanced_options_link.html.erb
+V 24
+file 1ji-1.0.r1/27753091
+K 42
+_all_data_element_selected_values.html.erb
+V 24
+file 1jj-1.0.r1/27753324
+K 24
+_all_data_elems.html.erb
+V 24
+file 1jk-1.0.r1/27753570
+K 23
+_amending_term.html.erb
+V 24
+file 1jl-1.0.r1/27753798
+K 31
+_change_set_alert_link.html.erb
+V 24
+file 1jm-1.0.r1/27754023
+K 27
+_chart_and_metrics.html.erb
+V 23
+file 1jn-1.0.r412/32809
+K 34
+_citation_tooltip_partial.html.erb
+V 28
+file 5-780.3-798.r1487/20185
+K 20
+_close_form.html.erb
+V 24
+file 1jo-1.0.r1/27754486
+K 31
+_collapsed_term_values.html.erb
+V 24
+file 1jp-1.0.r1/27754708
+K 35
+_confirm_create_new_report.html.erb
+V 24
+file 1jq-1.0.r1/27754943
+K 27
+_correct_data_type.html.erb
+V 24
+file 1jr-1.0.r1/27755179
+K 27
+_create_new_folder.html.erb
+V 24
+file 1js-1.0.r1/27755410
+K 27
+_create_new_report.html.erb
+V 24
+file 1jt-1.0.r1/27755640
+K 29
+_create_report_alert.html.erb
+V 24
+file 1ju-1.0.r1/27755866
+K 34
+_criteria_selected_values.html.erb
+V 24
+file 1jv-1.0.r1/27756099
+K 22
+_customer_tip.html.erb
+V 24
+file 1jw-1.0.r1/27756337
+K 22
+_data_boolean.html.erb
+V 24
+file 1jx-1.0.r1/27756561
+K 19
+_data_date.html.erb
+V 24
+file 1jy-1.0.r1/27756786
+K 22
+_data_decimal.html.erb
+V 24
+file 1jz-1.0.r1/27757008
+K 35
+_data_element_select_links.html.erb
+V 24
+file 1k0-1.0.r1/27757233
+K 29
+_data_elements_links.html.erb
+V 24
+file 1k1-1.0.r1/27757471
+K 36
+_data_grid_selection_header.html.erb
+V 24
+file 1k2-1.0.r1/27757703
+K 22
+_data_integer.html.erb
+V 24
+file 1k3-1.0.r1/27757942
+K 29
+_data_integer_pontus.html.erb
+V 24
+file 1k4-1.0.r1/27758167
+K 34
+_data_string_autocomplete.html.erb
+V 24
+file 1k5-1.0.r1/27758399
+K 28
+_data_string_search.html.erb
+V 24
+file 1k6-1.0.r1/27758636
+K 20
+_date_range.html.erb
+V 24
+file 1k7-1.0.r1/27758867
+K 29
+_default_check_boxes.html.erb
+V 24
+file 1k8-1.0.r1/27759090
+K 25
+_defualt_folders.html.erb
+V 24
+file 1k9-1.0.r1/27759321
+K 27
+_demo_test_reports.html.erb
+V 24
+file 1ka-1.0.r1/27759547
+K 17
+_display.html.erb
+V 23
+file 1kb-1.0.r989/56458
+K 46
+_display_data_element_selected_values.html.erb
+V 24
+file 1kc-1.0.r1/27759997
+K 37
+_display_data_element_values.html.erb
+V 24
+file 1kd-1.0.r1/27760247
+K 40
+_display_dataelement_selections.html.erb
+V 24
+file 1ke-1.0.r1/27760486
+K 32
+_display_lifecycle_type.html.erb
+V 24
+file 1kf-1.0.r1/27760729
+K 24
+_display_report.html.erb
+V 22
+file 1kg-1.0.r895/7088
+K 30
+_display_report_error.html.erb
+V 24
+file 1kh-1.0.r1/27761192
+K 31
+_display_reports_array.html.erb
+V 24
+file 1ki-1.0.r1/27761421
+K 43
+_each_data_element_selected_values.html.erb
+V 24
+file 1kj-1.0.r1/27761656
+K 27
+_edit_data_element.html.erb
+V 24
+file 1kk-1.0.r1/27761901
+K 21
+_edit_folder.html.erb
+V 24
+file 1kl-1.0.r1/27762130
+K 32
+_edit_folders_of_report.html.erb
+V 24
+file 1km-1.0.r1/27762354
+K 25
+_expand_collapse.html.erb
+V 24
+file 1kn-1.0.r1/27762590
+K 32
+_expand_collapse_column.html.erb
+V 24
+file 1ko-1.0.r1/27762817
+K 30
+_expanded_term_values.html.erb
+V 24
+file 1kp-1.0.r1/27763052
+K 30
+_export_excel_options.html.erb
+V 23
+file 1kq-1.0.r989/56700
+K 23
+_export_report.html.erb
+V 24
+file 1kr-1.0.r1/27763520
+K 35
+_filter_result_add_columns.html.erb
+V 24
+file 1ks-1.0.r1/27763746
+K 19
+_find_term.html.erb
+V 24
+file 1kt-1.0.r1/27763983
+K 21
+_folder_info.html.erb
+V 24
+file 1ku-1.0.r1/27764206
+K 21
+_folder_name.html.erb
+V 24
+file 1kv-1.0.r1/27764429
+K 20
+_folder_row.html.erb
+V 24
+file 1kw-1.0.r1/27764648
+K 26
+_folder_selection.html.erb
+V 24
+file 1kx-1.0.r1/27764871
+K 21
+_folder_tree.html.erb
+V 24
+file 1ky-1.0.r1/27765098
+K 39
+_fts_expand_collapse_fragments.html.erb
+V 24
+file 1kz-1.0.r1/27765320
+K 14
+_info.html.erb
+V 24
+file 1l0-1.0.r1/27765561
+K 29
+_input_string_search.html.erb
+V 24
+file 1l1-1.0.r1/27765779
+K 24
+_insert_new_tag.html.erb
+V 24
+file 1l2-1.0.r1/27766006
+K 24
+_keyword_search.html.erb
+V 24
+file 1l3-1.0.r1/27766232
+K 32
+_link_create_new_report.html.erb
+V 19
+file 1l4-1.0.r339/0
+K 35
+_link_for_another_criteria.html.erb
+V 24
+file 1l5-1.0.r1/27766693
+K 33
+_link_for_clear_criteria.html.erb
+V 24
+file 1l6-1.0.r1/27766930
+K 34
+_link_for_generate_report.html.erb
+V 22
+file 1l7-1.0.r5/254528
+K 21
+_minus_image.html.erb
+V 24
+file 1l8-1.0.r1/27767400
+K 26
+_minus_image_link.html.erb
+V 24
+file 1l9-1.0.r1/27767622
+K 20
+_model_info.html.erb
+V 24
+file 1la-1.0.r1/27767848
+K 30
+_model_selection_list.html.erb
+V 24
+file 1lb-1.0.r1/27768071
+K 19
+_my_alerts.html.erb
+V 24
+file 1lc-1.0.r1/27768302
+K 20
+_my_reports.html.erb
+V 24
+file 1ld-1.0.r1/27768525
+K 25
+_no_select_model.html.erb
+V 24
+file 1le-1.0.r1/27768747
+K 22
+_pdf_contents.html.erb
+V 24
+file 1lf-1.0.r1/27768972
+K 20
+_plus_image.html.erb
+V 24
+file 1lg-1.0.r1/27769197
+K 27
+_regenerate_report.html.erb
+V 24
+file 1lh-1.0.r1/27769418
+K 31
+_render_defualt_folder.html.erb
+V 24
+file 1li-1.0.r1/27769646
+K 38
+_report_folder_search_results.html.erb
+V 24
+file 1lj-1.0.r1/27769879
+K 30
+_reports_by_alphabets.html.erb
+V 24
+file 1lk-1.0.r1/27770119
+K 25
+_reports_by_tags.html.erb
+V 24
+file 1ll-1.0.r1/27770353
+K 27
+_reports_in_folder.html.erb
+V 24
+file 1lm-1.0.r1/27770580
+K 24
+_schedule_alert.html.erb
+V 24
+file 1ln-1.0.r1/27770808
+K 16
+_search.html.erb
+V 24
+file 1lo-1.0.r1/27771034
+K 34
+_search_criteria_collapse.html.erb
+V 24
+file 1lp-1.0.r1/27771254
+K 26
+_search_term_info.html.erb
+V 24
+file 1lq-1.0.r1/27771491
+K 29
+_select_all_non_text.html.erb
+V 24
+file 1lr-1.0.r1/27771719
+K 25
+_select_category.html.erb
+V 24
+file 1ls-1.0.r1/27771950
+K 32
+_select_deselect_folder.html.erb
+V 24
+file 1lt-1.0.r1/27772177
+K 35
+_select_lifecycle_document.html.erb
+V 24
+file 1lu-1.0.r1/27772411
+K 22
+_select_model.html.erb
+V 24
+file 1lv-1.0.r1/27772649
+K 29
+_select_report_level.html.erb
+V 24
+file 1lw-1.0.r1/27772875
+K 28
+_select_report_type.html.erb
+V 24
+file 1lx-1.0.r1/27773106
+K 25
+_selected_values.html.erb
+V 24
+file 1ly-1.0.r1/27773336
+K 26
+_set_report_alert.html.erb
+V 24
+file 1lz-1.0.r1/27773564
+K 23
+_show_add_term.html.erb
+V 24
+file 1m0-1.0.r1/27773793
+K 38
+_show_categorized_sorted_data.html.erb
+V 24
+file 1m1-1.0.r1/27774019
+K 23
+_show_citation.html.erb
+V 24
+file 1m2-1.0.r1/27774258
+K 28
+_show_citation_link.html.erb
+V 24
+file 1m3-1.0.r1/27774482
+K 28
+_show_each_category.html.erb
+V 24
+file 1m4-1.0.r1/27774712
+K 23
+_show_each_row.html.erb
+V 23
+file 1m5-1.0.r798/44354
+K 29
+_show_each_trans_row.html.erb
+V 23
+file 1m6-1.0.r598/35154
+K 29
+_show_folder_options.html.erb
+V 24
+file 1m7-1.0.r1/27775403
+K 22
+_show_keyword.html.erb
+V 24
+file 1m8-1.0.r1/27775635
+K 34
+_show_keyword_search_link.html.erb
+V 24
+file 1m9-1.0.r1/27775859
+K 18
+_show_pdf.html.erb
+V 24
+file 1ma-1.0.r1/27776095
+K 29
+_show_report_options.html.erb
+V 24
+file 1mb-1.0.r1152/36461
+K 41
+_show_selected_data_element_vals.html.erb
+V 24
+file 1mc-1.0.r1/27776544
+K 19
+_site_tour.html.erb
+V 24
+file 1md-1.0.r1/27776789
+K 22
+_sort_folders.html.erb
+V 24
+file 1me-1.0.r1/27777010
+K 23
+_spare_reports.html.erb
+V 24
+file 1mf-1.0.r1/27777235
+K 34
+_term_values_for_contract.html.erb
+V 24
+file 1mg-1.0.r1311/56649
+K 39
+_term_values_for_contract_beta.html.erb
+V 28
+file 7-780.4-798.r1311/56911
+K 28
+_term_values_for_tx.html.erb
+V 24
+file 1mh-1.0.r1/27777699
+K 20
+_title_info.html.erb
+V 24
+file 1mi-1.0.r1314/18803
+K 23
+_update_folder.html.erb
+V 24
+file 1mj-1.0.r1/27778153
+K 28
+_update_folder_test.html.erb
+V 24
+file 1mk-1.0.r1/27778380
+K 26
+_update_folder_tr.html.erb
+V 24
+file 1ml-1.0.r1/27778612
+K 24
+_update_non_std.html.erb
+V 24
+file 1mm-1.0.r1/27778839
+K 27
+_update_select_all.html.erb
+V 24
+file 1mn-1.0.r1/27779065
+K 33
+_update_term_not_present.html.erb
+V 24
+file 1mo-1.0.r1/27779295
+K 21
+_user_filter.html.erb
+V 24
+file 1mp-1.0.r1/27779531
+K 20
+export_to_excel.rxml
+V 24
+file 1mq-1.0.r1/27779753
+K 23
+report_builder.html.erb
+V 24
+file 1mr-1.0.r1/27779977
+K 41
+report_builder_for_company_group.html.erb
+V 24
+file 1ms-1.0.r1/27780198
+K 20
+show_report.html.erb
+V 24
+file 1mt-1.0.r1/27780436
+K 17
+tooltip_templates
+V 26
+dir 5-885.0-989.r989/58265
+END
+ENDREP
+id: 1jb-1.0.r1487/28725
+type: dir
+pred: 1jb-1.0.r1314/27261
+count: 23
+text: 1487 20517 8195 8195 172e68e501df72b38467d7f437bbb8ba
+cpath: /trunk/app/views/reporting
+copyroot: 0 /
+
+PLAIN
+K 14
+administration
+V 21
+dir i3-1.0.r707/38281
+K 5
+alert
+V 22
+dir ia-1.0.r1/27397699
+K 13
+alert_configs
+V 22
+dir jj-1.0.r1/27402920
+K 9
+analytics
+V 22
+dir k2-1.0.r1/27411999
+K 14
+app_exceptions
+V 19
+dir ky-1.0.r76/7728
+K 9
+app_users
+V 22
+dir l8-1.0.r1/27417550
+K 14
+auto_amendment
+V 22
+dir lk-1.0.r1/27417995
+K 13
+chart_configs
+V 22
+dir ln-1.0.r1/27418699
+K 21
+contract_audit_errors
+V 22
+dir lr-1.0.r1/27420042
+K 15
+contract_intake
+V 22
+dir lx-1.0.r1/27423701
+K 14
+contract_model
+V 22
+dir mb-1.0.r1/27486471
+K 29
+contract_model_data_dropdowns
+V 22
+dir s3-1.0.r1/27486973
+K 28
+contract_model_data_elements
+V 22
+dir s6-1.0.r1/27487483
+K 30
+contract_model_term_categories
+V 22
+dir s9-1.0.r1/27489854
+K 25
+contract_model_term_types
+V 22
+dir si-1.0.r1/27490624
+K 27
+contract_model_term_updates
+V 22
+dir sm-1.0.r1/27491114
+K 15
+contract_models
+V 22
+dir sp-1.0.r1/27492728
+K 16
+contract_request
+V 21
+dir sw-1.0.r335/14172
+K 15
+contract_upload
+V 21
+dir vr-1.0.r775/34091
+K 9
+contracts
+V 22
+dir w1-1.0.r1487/11640
+K 26
+contracts_mass_action_jobs
+V 22
+dir ww-1.0.r1/27536267
+K 30
+contracts_mass_action_notifier
+V 22
+dir x1-1.0.r1/27537052
+K 31
+contracts_mass_action_undo_jobs
+V 22
+dir x5-1.0.r1/27537526
+K 3
+ctl
+V 21
+dir x8-1.0.r278/41102
+K 8
+customer
+V 22
+dir yc-1.0.r1311/47912
+K 13
+customer_task
+V 22
+dir z7-1.0.r1/27558454
+K 18
+customer_team_mgmt
+V 22
+dir zb-1.0.r1/27561339
+K 24
+customer_user_management
+V 22
+dir zm-1.0.r1233/28403
+K 13
+customer_view
+V 22
+dir zv-1.0.r1487/20004
+K 10
+data_audit
+V 23
+dir 136-1.0.r1/27602120
+K 10
+data_entry
+V 23
+dir 13i-1.0.r1/27649194
+K 15
+data_extraction
+V 23
+dir 17u-1.0.r1/27656298
+K 11
+data_import
+V 23
+dir 18j-1.0.r1/27657984
+K 20
+data_management_jobs
+V 23
+dir 18q-1.0.r1/27659843
+K 28
+data_management_term_configs
+V 23
+dir 18y-1.0.r1/27662910
+K 13
+data_mappings
+V 23
+dir 19a-1.0.r1/27665277
+K 9
+data_maps
+V 23
+dir 19k-1.0.r1/27665701
+K 17
+delayed_job_admin
+V 23
+dir 19n-1.0.r1/27666430
+K 32
+derived_data_element_definitions
+V 23
+dir 19r-1.0.r1/27673645
+K 14
+document_audit
+V 23
+dir 1ag-1.0.r1/27674106
+K 26
+document_exception_details
+V 23
+dir 1aj-1.0.r1/27675999
+K 19
+document_exceptions
+V 21
+dir 1ar-1.0.r1422/738
+K 36
+document_intake_email_configurations
+V 23
+dir 1b0-1.0.r1/27681143
+K 29
+document_intake_notifications
+V 23
+dir 1bb-1.0.r1/27681945
+K 22
+document_intake_report
+V 23
+dir 1bf-1.0.r1/27682816
+K 13
+email_configs
+V 23
+dir 1bj-1.0.r1/27683565
+K 16
+exception_groups
+V 23
+dir 1bn-1.0.r1/27684820
+K 18
+execution_requests
+V 23
+dir 1bt-1.0.r1/27685540
+K 8
+feedback
+V 21
+dir 1bx-1.0.r674/8099
+K 9
+file_sync
+V 23
+dir 1c6-1.0.r1/27688179
+K 12
+file_uploads
+V 22
+dir 1c9-1.0.r161/10362
+K 16
+full_text_search
+V 23
+dir 1cm-1.0.r1/27691538
+K 10
+gatepasses
+V 23
+dir 1cn-1.0.r1/27691637
+K 6
+groups
+V 23
+dir 1co-1.0.r1/27694817
+K 10
+helloadmin
+V 23
+dir 1d1-1.0.r1/27698490
+K 2
+hp
+V 23
+dir 1df-1.0.r1/27705981
+K 11
+integration
+V 22
+dir 1e6-1.0.r278/50195
+K 8
+job_mgmt
+V 23
+dir 1ec-1.0.r1/27708908
+K 7
+layouts
+V 23
+dir 1ej-1.0.r1445/21210
+K 5
+login
+V 23
+dir 1gs-1.0.r1385/32865
+K 19
+meta_deta_criterias
+V 23
+dir 1h5-1.0.r1/27733636
+K 10
+milestones
+V 23
+dir 1hb-1.0.r1/27734105
+K 8
+notifier
+V 23
+dir 1he-1.0.r1/27734846
+K 18
+ocr_server_configs
+V 23
+dir 1hi-1.0.r1/27735605
+K 9
+ocr_stats
+V 23
+dir 1hm-1.0.r1/27736056
+K 7
+release
+V 23
+dir 1hp-1.0.r1/27736489
+K 8
+reporter
+V 23
+dir 1hs-1.0.r1/27751797
+K 9
+reporting
+V 23
+dir 1jb-1.0.r1487/28725
+K 14
+request_wizard
+V 23
+dir 1mu-1.0.r1/27789311
+K 15
+role_categories
+V 23
+dir 1my-1.0.r1/27789784
+K 5
+rules
+V 23
+dir 1n1-1.0.r1/27797789
+K 22
+salesforce_application
+V 23
+dir 1nv-1.0.r1/27798258
+K 20
+salesforce_envelopes
+V 23
+dir 1ny-1.0.r1/27799043
+K 24
+salesforce_opportunities
+V 22
+dir 1o2-1.0.r278/63613
+K 33
+salesforce_pramata_field_mappings
+V 23
+dir 1oa-1.0.r1/27801908
+K 6
+sample
+V 23
+dir 1oe-1.0.r1/27804221
+K 7
+sampler
+V 23
+dir 1oo-1.0.r1/27804669
+K 3
+se2
+V 23
+dir 1or-1.0.r1/27816154
+K 8
+searcher
+V 23
+dir 1pv-1.0.r1/27820459
+K 23
+security_administration
+V 23
+dir 1qc-1.0.r1/27823295
+K 9
+send_mail
+V 23
+dir 1qn-1.0.r1/27835501
+K 21
+send_test_report_mail
+V 23
+dir 1rt-1.0.r1/27835958
+K 6
+shared
+V 23
+dir 1rw-1.0.r1385/34265
+K 14
+simple_captcha
+V 28
+dir 4-842.0-1318.r1318/13498
+K 15
+snapshot_config
+V 23
+dir 1se-1.0.r1/27844772
+K 8
+sso_auth
+V 26
+dir 7-162.3-883.r1208/8493
+K 4
+tags
+V 23
+dir 1st-1.0.r1/27845980
+K 5
+tasks
+V 23
+dir 1sz-1.0.r1/27851319
+K 9
+team_mgmt
+V 23
+dir 1tk-1.0.r1/27888377
+K 12
+training_set
+V 23
+dir 1x0-1.0.r1/27889745
+K 21
+training_set_contract
+V 23
+dir 1x6-1.0.r1/27891178
+K 18
+training_set_users
+V 23
+dir 1xc-1.0.r1/27904681
+K 18
+transaction_review
+V 21
+dir 1yk-1.0.r76/30331
+K 16
+transaction_view
+V 21
+dir 1yt-1.0.r76/32179
+K 12
+usage_report
+V 22
+dir 1z8-1.0.r775/46228
+K 4
+user
+V 23
+dir 20d-1.0.r1194/47305
+K 10
+user_roles
+V 23
+dir 22e-1.0.r1/27945235
+K 4
+view
+V 23
+dir 22j-1.0.r1118/19196
+END
+ENDREP
+id: i2-1.0.r1487/33716
+type: dir
+pred: i2-1.0.r1445/26199
+count: 74
+text: 1487 28904 4799 4799 2354cd7fb7ddfb36c55a50ee91161a42
+cpath: /trunk/app/views
+copyroot: 0 /
+
+PLAIN
+K 4
+apis
+V 21
+dir a-1.0.r1/27216895
+K 11
+controllers
+V 20
+dir f-1.0.r1477/8091
+K 7
+helpers
+V 21
+dir 45-1.0.r1487/4047
+K 5
+metal
+V 22
+dir 6c-1.0.r1/27271772
+K 6
+models
+V 22
+dir 6f-1.0.r1442/23580
+K 5
+views
+V 22
+dir i2-1.0.r1487/33716
+END
+ENDREP
+id: 9-1.0.r1487/34133
+type: dir
+pred: 9-1.0.r1477/8511
+count: 122
+text: 1487 33883 237 237 2fd4acfc0c81590d0816cb1261b44539
+cpath: /trunk/app
+copyroot: 0 /
+
+id: b-262.e-405.r1487/34290
+type: file
+pred: b-262.e-405.r1311/109452
+count: 11
+text: 1485 2250 27 15818 a2b985aaf9eb3cb9944e1dd7c43ca408 24b0eba9abe511d56aef6a2d0741904a1a3d69b3 1486-167/_i
+cpath: /trunk/lib/pramata/api/contract_util.rb
+copyroot: 405 /trunk/lib/pramata/api/contract_util.rb
+
+PLAIN
+K 16
+contract_util.rb
+V 28
+file b-262.e-405.r1487/34290
+K 18
+data_extraction.rb
+V 24
+file 3bo-1.0.r1/28409550
+END
+ENDREP
+id: 3bn-1.0.r1487/34710
+type: dir
+pred: 3bn-1.0.r1311/109874
+count: 11
+text: 1487 34583 114 114 6c8892f9e328dd718d913d21a56e3096
+cpath: /trunk/lib/pramata/api
+copyroot: 0 /
+
+PLAIN
+K 9
+amendment
+V 23
+dir 3bb-1.0.r1/28409398
+K 3
+api
+V 23
+dir 3bn-1.0.r1487/34710
+K 8
+cache.rb
+V 24
+file 3bq-1.0.r1/28409982
+K 5
+clone
+V 23
+dir 3br-1.0.r1/28410464
+K 20
+condition_evaluation
+V 23
+dir 3bu-1.0.r1/28411723
+K 8
+data_map
+V 23
+dir 3c0-1.0.r1/28412152
+K 18
+data_normalization
+V 23
+dir 3c3-1.0.r1/28412592
+K 10
+derivation
+V 23
+dir 3c6-1.0.r1/28417585
+K 18
+document_family.rb
+V 22
+file 3cr-1.0.r372/9639
+K 12
+exception.rb
+V 24
+file 3cs-1.0.r1/28417953
+K 18
+extraction_date.rb
+V 24
+file 3ct-1.0.r1/28418160
+K 16
+file_download.rb
+V 24
+file 3cu-1.0.r1/28418372
+K 16
+get_file_info.rb
+V 24
+file 3cv-1.0.r1/28418582
+K 9
+lifecycle
+V 23
+dir 3cw-1.0.r1/28419067
+K 12
+lifecycle.rb
+V 24
+file 3cz-1.0.r1/28419217
+K 14
+load_config.rb
+V 24
+file 3d0-1.0.r1/28419424
+K 20
+md5_key_generator.rb
+V 24
+file 3d1-1.0.r1/28419633
+K 8
+mysql.rb
+V 27
+file 4-22.6-278.r278/167256
+K 18
+reporting_cache.rb
+V 24
+file 3d2-1.0.r1/28419847
+K 19
+salesforce_cache.rb
+V 24
+file 3d3-1.0.r1/28420059
+K 31
+salesforce_session_key_cache.rb
+V 24
+file 3d4-1.0.r1/28420273
+K 24
+salesforce_soql_cache.rb
+V 24
+file 3d5-1.0.r1/28420497
+K 38
+salesforce_special_conditions_cache.rb
+V 24
+file 3d6-1.0.r1/28420715
+K 12
+sso_login.rb
+V 27
+file 7-125.b-883.r1063/7976
+END
+ENDREP
+id: 3ba-1.0.r1487/36120
+type: dir
+pred: 3ba-1.0.r1311/111285
+count: 19
+text: 1487 34884 1223 1223 00c45b198e8689f389091996d0bf1689
+cpath: /trunk/lib/pramata
+copyroot: 0 /
+
+PLAIN
+K 12
+TruvenHealth
+V 23
+dir 36k-1.0.r1/28375412
+K 4
+acts
+V 23
+dir 36p-1.0.r1/28375818
+K 9
+api_files
+V 23
+dir 36s-1.0.r1/28379280
+K 14
+api_request.rb
+V 24
+file 376-1.0.r1/28379424
+K 32
+auto_extraction_configuration.rb
+V 24
+file 377-1.0.r1/28379626
+K 35
+auto_extraction_response_handler.rb
+V 24
+file 378-1.0.r1/28379845
+K 24
+auto_extraction_utils.rb
+V 24
+file 379-1.0.r1/28380069
+K 15
+backend_jobs.rb
+V 24
+file 37a-1.0.r1/28380281
+K 14
+background_job
+V 23
+dir 37b-1.0.r1/28381146
+K 15
+common_utils.rb
+V 24
+file 37g-1.0.r1/28381295
+K 19
+contract_actions.rb
+V 24
+file 37h-1.0.r1/28381496
+K 26
+contract_family_builder.rb
+V 24
+file 37i-1.0.r1/28381703
+K 17
+contract_files.rb
+V 24
+file 37j-1.0.r1/28381918
+K 3
+ctl
+V 23
+dir 37k-1.0.r1/28382861
+K 13
+custom_events
+V 21
+dir 37q-1.0.r670/1088
+K 26
+custom_in_place_editing.rb
+V 24
+file 38j-1.0.r1/28388096
+K 14
+data_cipher.rb
+V 24
+file 38k-1.0.r1/28388308
+K 18
+data_extraction.rb
+V 24
+file 38l-1.0.r1/28388506
+K 17
+database_utils.rb
+V 24
+file 38m-1.0.r1/28388707
+K 13
+date_utils.rb
+V 24
+file 38n-1.0.r1/28388909
+K 18
+document_import.rb
+V 24
+file 38o-1.0.r1/28389107
+K 27
+elastic_search_utilities.rb
+V 24
+file 38p-1.0.r1/28389314
+K 21
+expression_evaluation
+V 23
+dir 38q-1.0.r1/28391747
+K 19
+filter_contracts.rb
+V 24
+file 390-1.0.r1/28391903
+K 12
+fts_index.rb
+V 24
+file 391-1.0.r1/28392111
+K 12
+fusioncharts
+V 23
+dir 392-1.0.r1/28395012
+K 22
+fusioncharts_helper.rb
+V 24
+file 39f-1.0.r1/28395157
+K 10
+generators
+V 23
+dir 39g-1.0.r1/28396417
+K 33
+generic_platform_configuration.rb
+V 24
+file 39o-1.0.r1/28396560
+K 2
+hp
+V 23
+dir 39p-1.0.r1/28397515
+K 14
+html_format.rb
+V 24
+file 39v-1.0.r1/28397650
+K 9
+intake.rb
+V 23
+file 39w-1.0.r707/43732
+K 21
+intake_post_processes
+V 23
+dir 39x-1.0.r1/28398921
+K 11
+integration
+V 23
+dir 3a2-1.0.r1/28400393
+K 14
+levenshtein.rb
+V 24
+file 3aa-1.0.r1/28400537
+K 7
+locales
+V 23
+dir 3ab-1.0.r1/28405917
+K 15
+mass_actions.rb
+V 24
+file 3b5-1.0.r1/28406059
+K 24
+ocr_controller_server.rb
+V 23
+file 3b6-1.0.r41/116164
+K 13
+parse_html.rb
+V 24
+file 3b7-1.0.r1/28406475
+K 16
+pdf_convertor.rb
+V 24
+file 3b8-1.0.r1/28406674
+K 12
+pdf_utils.rb
+V 24
+file 3b9-1.0.r1/28406877
+K 7
+pramata
+V 23
+dir 3ba-1.0.r1487/36120
+K 21
+pramata_cas_filter.rb
+V 24
+file 3d7-1.0.r1/28422232
+K 22
+process_novelis_xml.rb
+V 24
+file 3d8-1.0.r1/28422441
+K 18
+remote_download.rb
+V 24
+file 3d9-1.0.r1/28422652
+K 16
+remote_intake.rb
+V 24
+file 3da-1.0.r1/28422855
+K 16
+report_export.rb
+V 25
+file 3db-1.0.r1311/111457
+K 16
+require_files.rb
+V 24
+file 3dc-1.0.r1/28423262
+K 10
+salesforce
+V 23
+dir 3dd-1.0.r1/28425569
+K 13
+salesforce.rb
+V 24
+file 3dp-1.0.r1/28425714
+K 10
+sampler.rb
+V 24
+file 3dq-1.0.r1/28425916
+K 3
+se2
+V 23
+dir 3dr-1.0.r1/28426853
+K 26
+search_indexed_document.rb
+V 23
+file 3dx-1.0.r161/17571
+K 27
+secondary_authentication.rb
+V 24
+file 3dy-1.0.r1/28427202
+K 6
+sla.rb
+V 24
+file 3dz-1.0.r1/28427417
+K 5
+tasks
+V 23
+dir 3e0-1.0.r405/175725
+K 13
+term_cache.rb
+V 24
+file 3ez-1.0.r1/28436648
+K 29
+user_assignment_algorithms.rb
+V 24
+file 3f0-1.0.r1/28436847
+K 8
+yaml2csv
+V 23
+dir 3f1-1.0.r1/28440013
+END
+ENDREP
+id: 36j-1.0.r1487/39338
+type: dir
+pred: 36j-1.0.r1311/114738
+count: 32
+text: 1487 36292 3033 3033 e2054b1e30a22087e9456edbdd920c1b
+cpath: /trunk/lib
+copyroot: 0 /
+
+id: 4yf-1.0.r1487/39502
+type: file
+pred: 4yf-1.0.r1311/114903
+count: 8
+text: 1389 2680 129 182029 d0bebc4d3c6473a37d6d0ea017e11363 73fcec31f499a220bd7ab7ffff4e6fadd8a95d12 1486-167/_n
+cpath: /trunk/public/javascripts/application.js
+copyroot: 0 /
+
+id: e-235.i-405.r1487/39749
+type: file
+pred: e-235.i-405.r1311/115150
+count: 10
+text: 1485 0 2224 13512 bac51cd97df94ab0079ff2882da2afaf 38b5ecf1ece4612d81fd42105f770ee3db2f9c90 1486-167/_6
+cpath: /trunk/public/javascripts/pramata/handlebar/helper.js
+copyroot: 405 /trunk/public/javascripts/pramata/handlebar
+
+PLAIN
+K 9
+helper.js
+V 28
+file e-235.i-405.r1487/39749
+K 14
+helper_beta.js
+V 28
+file h-620.e-651.r989/179819
+END
+ENDREP
+id: c-235.i-405.r1487/40178
+type: dir
+pred: c-235.i-405.r1311/115578
+count: 10
+text: 1487 40059 106 106 67606de40fda4e56ece7312031079b05
+cpath: /trunk/public/javascripts/pramata/handlebar
+copyroot: 405 /trunk/public/javascripts/pramata/handlebar
+
+id: 8-288.j-405.r1487/40425
+type: file
+pred: 8-288.j-405.r1315/986
+count: 13
+text: 1411 0 101 27035 f3d722e242fb6e8e9c6d7e59dd391e3e 32c929b9e062dec54b4102837f2e518162430986 1486-167/_e
+cpath: /trunk/public/javascripts/pramata/navigator/key_term/contract_detail.js
+copyroot: 405 /trunk/public/javascripts/pramata/navigator/key_term
+
+PLAIN
+K 18
+contract_detail.js
+V 28
+file 8-288.j-405.r1487/40425
+K 23
+contract_detail_beta.js
+V 27
+file t-591.f-651.r864/36730
+END
+ENDREP
+id: 6-288.j-405.r1487/40895
+type: dir
+pred: 6-288.j-405.r1315/1455
+count: 16
+text: 1487 40758 124 124 2c7b549987c489bfc04701dd84dad656
+cpath: /trunk/public/javascripts/pramata/navigator/key_term
+copyroot: 405 /trunk/public/javascripts/pramata/navigator/key_term
+
+id: d-780.e-798.r1487/41158
+type: file
+pred: d-780.e-798.r1311/116567
+count: 6
+text: 1399 234 595 7155 9a33fdca562d20df73ec4b0ab0e4d5b6 f9cad49c241ff13dcacd742e65094915b2f5a70d 1486-167/_x
+cpath: /trunk/public/javascripts/pramata/navigator/reporting/citation_tooltip.js
+copyroot: 798 /trunk/public/javascripts/pramata/navigator/reporting
+
+PLAIN
+K 19
+citation_tooltip.js
+V 28
+file d-780.e-798.r1487/41158
+K 12
+reporting.js
+V 29
+file h-885.7-989.r1311/116904
+END
+ENDREP
+id: b-780.e-798.r1487/41626
+type: dir
+pred: b-780.e-798.r1311/117380
+count: 6
+text: 1487 41497 116 116 0ebcb62f5fc2d4e66d5e63bd3c6aaac5
+cpath: /trunk/public/javascripts/pramata/navigator/reporting
+copyroot: 798 /trunk/public/javascripts/pramata/navigator/reporting
+
+PLAIN
+K 8
+key_term
+V 27
+dir 6-288.j-405.r1487/40895
+K 9
+reporting
+V 27
+dir b-780.e-798.r1487/41626
+K 12
+site_tour.js
+V 20
+file n-5.0.r5/425203
+END
+ENDREP
+id: 4-2.0.r1487/42046
+type: dir
+pred: 4-2.0.r1315/1872
+count: 17
+text: 1487 41892 141 141 f62d392c85becb37c6500e5573092b00
+cpath: /trunk/public/javascripts/pramata/navigator
+copyroot: 0 /
+
+PLAIN
+K 8
+alert.js
+V 24
+file 8cu-1.0.r1/30464027
+K 9
+common.js
+V 24
+file 8cw-1.0.r1/30464244
+K 13
+data_entry.js
+V 24
+file 8cx-1.0.r1/30464462
+K 18
+document_family.js
+V 24
+file 8cy-1.0.r1292/23793
+K 22
+document_family_lib.js
+V 24
+file 8cz-1.0.r1/30464915
+K 25
+document_family_simple.js
+V 24
+file 8d0-1.0.r1292/24048
+K 9
+handlebar
+V 27
+dir c-235.i-405.r1487/40178
+K 16
+moment_helper.js
+V 21
+file 8d1-1.0.r604/281
+K 9
+navigator
+V 21
+dir 4-2.0.r1487/42046
+K 10
+salesforce
+V 23
+dir 8d2-1.0.r1/30470955
+K 13
+salesforce.js
+V 24
+file 8dq-1.0.r1/30471123
+K 10
+sampler.js
+V 24
+file 8dr-1.0.r1/30471345
+K 9
+team_mgmt
+V 23
+dir 8ds-1.0.r1/30472147
+K 12
+team_mgmt.js
+V 24
+file 8dw-1.0.r1/30472314
+END
+ENDREP
+id: 8ct-1.0.r1487/42929
+type: dir
+pred: 8ct-1.0.r1315/2755
+count: 25
+text: 1487 42235 681 681 d46f056540e823739a6dbffaaa99b2ee
+cpath: /trunk/public/javascripts/pramata
+copyroot: 0 /
+
+PLAIN
+K 10
+DataTables
+V 23
+dir 4kh-1.0.r1/29134846
+K 14
+Epoch_calender
+V 23
+dir 4y5-1.0.r1/29136491
+K 15
+FusionCharts.js
+V 24
+file 4yb-1.0.r1/29136655
+K 8
+adapters
+V 23
+dir 4yc-1.0.r1/29137181
+K 14
+application.js
+V 24
+file 4yf-1.0.r1487/39502
+K 12
+bootstrap.js
+V 24
+file 4yg-1.0.r1/29137556
+K 16
+bootstrap.min.js
+V 24
+file 4yh-1.0.r1/29137773
+K 6
+chosen
+V 23
+dir 4yi-1.0.r1/29140192
+K 8
+ckeditor
+V 23
+dir 4yr-1.0.r1/29272443
+K 14
+ckeditor_4.1.3
+V 23
+dir 5db-1.0.r1/29388741
+K 15
+contract_upload
+V 23
+dir 5qf-1.0.r1/29390002
+K 11
+controls.js
+V 24
+file 5ql-1.0.r1/29390167
+K 16
+cookiesupport.js
+V 24
+file 5qm-1.0.r1/29390381
+K 12
+dark-blue.js
+V 24
+file 5qn-1.0.r1/29390598
+K 13
+dark-green.js
+V 24
+file 5qo-1.0.r1/29390813
+K 18
+data_extraction.js
+V 24
+file 5qp-1.0.r1/29391029
+K 38
+document_intake_email_configuration.js
+V 24
+file 5qq-1.0.r1/29391250
+K 6
+dom.js
+V 24
+file 5qr-1.0.r1/29391490
+K 11
+dragdrop.js
+V 24
+file 5qs-1.0.r1/29391700
+K 10
+easyXDM.js
+V 24
+file 5qt-1.0.r1/29391915
+K 18
+easyXDM.pramata.js
+V 24
+file 5qu-1.0.r1/29392130
+K 6
+editor
+V 23
+dir 5qv-1.0.r1/29537597
+K 10
+effects.js
+V 24
+file 659-1.0.r1/29537753
+K 19
+enhanced_reports.js
+V 28
+file 8-175.8-278.r989/179217
+K 8
+eolas.js
+V 24
+file 65a-1.0.r1/29537967
+K 12
+exporting.js
+V 24
+file 65b-1.0.r1/29538176
+K 7
+ext-2.1
+V 23
+dir 65c-1.0.r1/30446355
+K 16
+ext-all-debug.js
+V 24
+file 8al-1.0.r1/30446512
+K 10
+ext-all.js
+V 24
+file 8am-1.0.r1/30446735
+K 11
+ext-base.js
+V 24
+file 8an-1.0.r1/30446952
+K 14
+faqtoid-master
+V 21
+dir 8ao-1.0.r5/424292
+K 11
+fastinit.js
+V 24
+file 8as-1.0.r1/30447898
+K 12
+fckconfig.js
+V 24
+file 8at-1.0.r1/30448112
+K 12
+fckeditor.js
+V 24
+file 8au-1.0.r1/30448327
+K 13
+fckstyles.xml
+V 24
+file 8av-1.0.r1/30448542
+K 16
+fcktemplates.xml
+V 24
+file 8aw-1.0.r1/30448757
+K 9
+fsmenu.js
+V 24
+file 8ax-1.0.r1/30448976
+K 17
+general_filter.js
+V 24
+file 8ay-1.0.r1/30449189
+K 7
+gray.js
+V 24
+file 8az-1.0.r1/30449408
+K 4
+grid
+V 23
+dir 8b0-1.0.r1/30449892
+K 7
+grid.js
+V 24
+file 8b3-1.0.r1/30450044
+K 11
+grid_filter
+V 23
+dir 8b4-1.0.r1/30458014
+K 20
+handlebars-v3.0.0.js
+V 24
+file 8c1-1.0.r1/30458173
+K 12
+handsontable
+V 23
+dir 8c2-1.0.r1/30459020
+K 19
+highcharts-4.0.4.js
+V 24
+file 8c6-1.0.r1/30459182
+K 13
+highcharts.js
+V 24
+file 8c7-1.0.r1/30459407
+K 12
+html5shiv.js
+V 24
+file 8c8-1.0.r1/30459625
+K 7
+i18n.js
+V 24
+file 8c9-1.0.r1/30459841
+K 8
+intro.js
+V 20
+file 3-3.0.r5/424476
+K 20
+jquery-1.11.1.min.js
+V 24
+file 8ca-1.0.r1/30460051
+K 19
+jquery-2.1.1.min.js
+V 24
+file 8cb-1.0.r1/30460274
+K 22
+jquery.fileDownload.js
+V 24
+file 8cc-1.0.r1/30460497
+K 8
+json2.js
+V 24
+file 8cd-1.0.r1/30460723
+K 19
+jstree-3.3.1.min.js
+V 23
+file 4-24.0-28.r28/8491
+K 13
+jstree.min.js
+V 24
+file 8ce-1.0.r1/30460935
+K 7
+layouts
+V 23
+dir 8cf-1.0.r1/30461703
+K 11
+messages.js
+V 24
+file 8cj-1.0.r651/214558
+K 11
+metagrid.js
+V 24
+file 8ck-1.0.r1/30462075
+K 7
+misc.js
+V 24
+file 8cl-1.0.r1/30462290
+K 13
+moment.min.js
+V 24
+file 8cm-1.0.r1/30462500
+K 26
+navigator_piwik_tracker.js
+V 24
+file 8cn-1.0.r1/30462718
+K 9
+panels.js
+V 24
+file 8co-1.0.r1/30462946
+K 22
+pontus_contract_nav.js
+V 24
+file 8cp-1.0.r1/30463154
+K 14
+pontus_tree.js
+V 24
+file 8cq-1.0.r1/30463378
+K 20
+pontus_validation.js
+V 24
+file 8cr-1.0.r1/30463592
+K 11
+popupDiv.js
+V 24
+file 8cs-1.0.r1/30463815
+K 7
+pramata
+V 23
+dir 8ct-1.0.r1487/42929
+K 12
+prototype.js
+V 24
+file 8dx-1.0.r1/30473301
+K 8
+qtip2.js
+V 24
+file 8dy-1.0.r798/180523
+K 11
+qtip_lib.js
+V 24
+file 8dz-1.0.r1/30473733
+K 19
+render_highchart.js
+V 24
+file 8e0-1.0.r1/30473945
+K 12
+reporting.js
+V 24
+file 8e1-1.0.r1/30474166
+K 10
+respond.js
+V 24
+file 8e2-1.0.r1/30474381
+K 13
+salesforce.js
+V 24
+file 8e3-1.0.r1/30474594
+K 17
+salesforce_lib.js
+V 24
+file 8e4-1.0.r1/30474809
+K 27
+salesforce_opportunities.js
+V 24
+file 8e5-1.0.r1/30475027
+K 8
+skies.js
+V 24
+file 8e6-1.0.r1/30475257
+K 14
+streamlined.js
+V 24
+file 8e7-1.0.r1/30475466
+K 20
+tablecolumnresize.js
+V 24
+file 8e8-1.0.r1/30475682
+K 11
+tablekit.js
+V 24
+file 8e9-1.0.r1/30475905
+K 12
+tablesort.js
+V 24
+file 8ea-1.0.r1/30476120
+K 9
+team_mgmt
+V 23
+dir 8eb-1.0.r1/30476628
+K 7
+tinymce
+V 23
+dir 8ee-1.0.r1/30575798
+K 10
+tooltip.js
+V 24
+file 8qe-1.0.r1/30575955
+K 10
+tracker.js
+V 24
+file 8qf-1.0.r651/218066
+K 8
+training
+V 23
+dir 8qg-1.0.r1/30576673
+K 4
+tree
+V 23
+dir 8qj-1.0.r1/30577360
+K 7
+tree.js
+V 24
+file 8qn-1.0.r1/30577512
+K 7
+util.js
+V 24
+file 8qo-1.0.r1/30577721
+K 12
+uxvismode.js
+V 24
+file 8qp-1.0.r1/30577931
+K 4
+x.js
+V 24
+file 8qq-1.0.r1/30578146
+K 11
+xmltoken.js
+V 24
+file 8qr-1.0.r1/30578353
+K 7
+xthf.js
+V 24
+file 8qs-1.0.r1/30578567
+END
+ENDREP
+id: 4kg-1.0.r1487/47584
+type: dir
+pred: 4kg-1.0.r1315/7410
+count: 34
+text: 1487 43112 4459 4459 dd27b84a37df91518f3b4b10762f819a
+cpath: /trunk/public/javascripts
+copyroot: 0 /
+
+PLAIN
+K 9
+.htaccess
+V 24
+file 3fn-1.0.r1/28443738
+K 8
+404.html
+V 24
+file 3fp-1.0.r1/28443937
+K 8
+500.html
+V 24
+file 3fq-1.0.r1/28444133
+K 12
+FusionCharts
+V 23
+dir 3fr-1.0.r1/28463912
+K 15
+PramataLogo.png
+V 24
+file 3h7-1.0.r1/28464130
+K 26
+access_denied_msg_ESI.html
+V 24
+file 3h8-1.0.r1/28464392
+K 7
+applets
+V 20
+dir 3h9-1.0.r101/355
+K 12
+dispatch.cgi
+V 24
+file 3hc-1.0.r1/28465162
+K 13
+dispatch.fcgi
+V 24
+file 3hd-1.0.r1/28465363
+K 11
+dispatch.rb
+V 24
+file 3he-1.0.r1/28465565
+K 13
+downtime.html
+V 24
+file 3hf-1.0.r1/28465765
+K 11
+favicon.ico
+V 24
+file 3hg-1.0.r1/28466033
+K 12
+formtest.htm
+V 24
+file 3hh-1.0.r1/28466290
+K 11
+googiespell
+V 23
+dir 3hi-1.0.r1/28470118
+K 6
+images
+V 23
+dir 3hv-1.0.r883/226941
+K 11
+javascripts
+V 23
+dir 4kg-1.0.r1487/47584
+K 16
+jumploader_z.jar
+V 22
+file 8qt-1.0.r84/47306
+K 7
+overlib
+V 23
+dir 8qu-1.0.r1/30583859
+K 11
+ploader.gif
+V 24
+file 8qx-1.0.r1/30584068
+K 14
+pramata_hd.png
+V 24
+file 8qy-1.0.r1/30584393
+K 16
+pramata_logo.png
+V 24
+file 8qz-1.0.r1/30584724
+K 20
+pramata_new_logo.png
+V 24
+file 8r0-1.0.r1/30585054
+K 13
+redirect.html
+V 24
+file 8r1-1.0.r1/30585319
+K 10
+robots.txt
+V 24
+file 8r2-1.0.r1/30585521
+K 22
+routing_error.html.erb
+V 24
+file 8r3-1.0.r1/30585719
+K 12
+spinner.html
+V 24
+file 8r4-1.0.r1/30585930
+K 11
+stylesheets
+V 23
+dir 8r5-1.0.r1314/36724
+K 3
+w3c
+V 23
+dir 92m-1.0.r1/30721622
+END
+ENDREP
+id: 3fm-1.0.r1487/49106
+type: dir
+pred: 3fm-1.0.r1315/8931
+count: 45
+text: 1487 47761 1332 1332 148d9d126776324951c494c3e364ec4a
+cpath: /trunk/public
+copyroot: 0 /
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 21
+dir 9-1.0.r1487/34133
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 23
+dir 24j-1.0.r1482/15850
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 24
+dir 2dg-1.0.r1477/108074
+K 3
+doc
+V 23
+dir 365-1.0.r989/173634
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 23
+dir 36j-1.0.r1487/39338
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 23
+dir 3fm-1.0.r1487/49106
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 23
+dir 92z-1.0.r1414/10575
+K 4
+spec
+V 24
+dir 9k8-1.0.r1311/134895
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 26
+dir 2-495.1-626.r674/14108
+K 6
+vendor
+V 24
+dir 9wa-1.0.r1318/125803
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 1902
+/branches/ae_development:33-40
+/branches/dev:13,15-18,24-27,30,32,47-48,50-51,53,57,67-68,73-74,80-92,96,104-116,119,122,124-128,130-136,147,149,153-158,160,162-164,170-174,177-178,182-183,186-187,190-191,193-195,198-199,201,203-205,216-217,220,223-225,228,232-233,236-237,250,252-253,255-256,263-270,272,284,298-304,306-327,329-332,341-349,360,365-366,393,395-397,402,406,414,421,429-430,433-434,440-446,486,488-489,491-507,509-511,514-520,522-531,534-536,539,546-560,562-568,576-590,595-597,600,602,608-610,612-619,622-624,629,643-647,661-662,667-672,682-685,700-705,709-743,745-767,769,812-813,818,827-828,830-833,836-838,840-842,844,851,853,871,875-877,882,936-937,958,965,976-980,985-986,990,1010,1014-1016,1018-1019,1022-1023,1026,1030,1036,1039,1046,1048,1053-1058,1071,1091-1092,1096-1098,1103-1104,1108,1111-1112,1122-1123,1171,1173,1180,1190,1202,1209,1229-1231,1235,1237-1238,1240-1241,1253,1255-1257,1275,1409-1410,1435,1437,1440,1453,1466-1469,1471-1472
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659,675-678,686,688,690-697,768,770-771,780-793,795-797,801,808,814-817,819,821-823,847,860-863,872,879-881,884-885,897-913,916-917,923,928-932,935,938-947,949-951,953,956-957,962,981,987,1007,1064,1099,1109-1110,1113-1117,1119,1139,1155-1156,1158,1165-1169,1172,1174-1177,1185,1187,1192,1195,1201,1204,1226,1239,1245,1260,1281-1282,1285,1287,1290,1307,1361,1366,1370,1374-1378,1389,1391-1393,1395-1402,1411-1412,1485
+/branches/se_dev_patches:887-889,894
+END
+ENDREP
+id: 0-1.0.r1487/52361
+type: dir
+pred: 0-1.0.r1482/17160
+count: 221
+text: 1487 49271 1131 1131 3442caae344397be6d0c1c641f06cdf4
+props: 1487 50415 1933 0 652534fc7ba333ea2c8140a04eb341cd
+cpath: /trunk
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 8
+branches
+V 23
+dir 0-11.0.r1486/172769
+K 4
+tags
+V 20
+dir 0-7.0.r1478/5400
+K 5
+trunk
+V 21
+dir 0-1.0.r1487/52361
+END
+ENDREP
+id: 0.0.r1487/52733
+type: dir
+pred: 0.0.r1486/173075
+count: 1487
+text: 1487 52602 118 118 bcdd3e47001ea90815039a47a4d2aedd
+cpath: /
+copyroot: 0 /
+minfo-cnt: 70
+
+0-1.0.t1486-167 modify-dir false true /trunk
+
+4d-1.0.t1486-167 modify-file true false /trunk/app/helpers/application_helper.rb
+
+5-274.1-405.t1486-167 modify-file true false /trunk/app/views/contracts/_non_std_amended_dropdown.html.erb
+
+6-248.3-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail.html.erb
+
+6-356.5-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_alert_info_key_term.html.erb
+
+6-620.4-651.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_citation_tooltip_partial.html
+
+6-282.7-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_company_group_link.html.erb
+
+9-247.4-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_contract_pdf_link.html.erb
+
+8-368.9-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_customer_editable_key_term_actions.html.erb
+
+b-247.4-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_data_grid_key_term.html.erb
+
+c-247.4-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_file_term_link.html.erb
+
+6-415.1-454.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_link_term_template.html.erb
+
+d-247.4-405.t1486-167 modify-file true false /trunk/app/views/contracts/contract_detail_templates/_regular_key_term.html.erb
+
+5-1366.0-1367.t1486-167 modify-file true false /trunk/app/views/customer_view/_show_left_nav_new.html.erb
+
+5-780.3-798.t1486-167 modify-file true false /trunk/app/views/reporting/_citation_tooltip_partial.html.erb
+
+b-262.e-405.t1486-167 modify-file true false /trunk/lib/pramata/api/contract_util.rb
+
+4yf-1.0.t1486-167 modify-file true false /trunk/public/javascripts/application.js
+
+e-235.i-405.t1486-167 modify-file true false /trunk/public/javascripts/pramata/handlebar/helper.js
+
+8-288.j-405.t1486-167 modify-file true false /trunk/public/javascripts/pramata/navigator/key_term/contract_detail.js
+
+d-780.e-798.t1486-167 modify-file true false /trunk/public/javascripts/pramata/navigator/reporting/citation_tooltip.js
+
+
+52733 52894

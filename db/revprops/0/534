@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-25T06:45:45.545567Z
+K 7
+svn:log
+V 228
+#32288 Use Case #33190 Comments:Restricting SSO user from resetting their password using `forgot password` link in Pramata. Also moved the code to find whether a user is sso enabled from application helper to the app user model.
+END

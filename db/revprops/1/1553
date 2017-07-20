@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-04-13T07:44:42.817886Z
+K 7
+svn:log
+V 81
+#PA-221 (FTS) comments: Escape single quote and change img html tag to rails tag.
+END

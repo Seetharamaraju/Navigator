@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-29T15:03:54.890497Z
+K 7
+svn:log
+V 101
+#34937 comments : Fix term alerts by deleting deleted contract term's alert (term alert phase1 issue)
+END

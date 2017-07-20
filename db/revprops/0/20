@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-07T06:47:13.684155Z
+K 7
+svn:log
+V 160
+Code Merge from Navigator Dev to Navigator Trunk. Revisions: 15-18. No conflicts.
+This merge is for bringing the script for enabling FTS for all the user roles.
+END

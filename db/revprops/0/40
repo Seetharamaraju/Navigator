@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+midhun
+K 8
+svn:date
+V 27
+2016-06-10T09:15:08.561613Z
+K 7
+svn:log
+V 59
+#31375: Modified remove inconsistency to handle ocr_quality
+END

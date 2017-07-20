@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-23T15:48:01.924805Z
+K 7
+svn:log
+V 39
+#32288 : Update namespace of ruby-saml.
+END

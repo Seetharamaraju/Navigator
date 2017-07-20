@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-02T07:26:27.488322Z
+K 7
+svn:log
+V 83
+#35654 comment: Add 8 default columns to reporting for ncr prod and cert instances.
+END

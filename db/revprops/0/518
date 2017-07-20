@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-23T13:47:22.109792Z
+K 7
+svn:log
+V 78
+#33140 comments : Fix 1 SQL issue(Action :get_most_searched_terms_chart_data).
+END

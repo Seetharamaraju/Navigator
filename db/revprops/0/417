@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-10T06:02:43.886700Z
+K 7
+svn:log
+V 201
+#32930 Comments:Fixing the user creation issue by moving the set_parameters, set_parameters_for_new_user, set_parameters_for_customer_user, set_parameters_for_new_customer_user to the protected section
+END

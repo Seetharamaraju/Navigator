@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-04-28T06:32:48.584510Z
+K 7
+svn:log
+V 115
+PA-218 Comments: Fixed the issue with the referrer becoming not nil in case of a request sent by firefox for Truven
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-10-02T06:15:04.369277Z
+K 7
+svn:log
+V 105
+Merged Commit #33669 navigator/branches/se_dev revision 804 Fixed the production key for AppServiceToken 
+END

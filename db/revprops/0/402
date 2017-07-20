@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-08T07:40:45.264106Z
+K 7
+svn:log
+V 66
+#32660 Comments: Fixed 1 SQL injection in create_simplerules_entry
+END

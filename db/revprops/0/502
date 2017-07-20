@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-22T11:17:01.727450Z
+K 7
+svn:log
+V 83
+#33140 Comments:Fixed 2 Command injection in (Conversion) copy_to_ocr_folder method
+END

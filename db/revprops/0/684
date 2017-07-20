@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-09-16T12:55:45.809834Z
+K 7
+svn:log
+V 99
+#33311 comments : Add a condition to execute ignore_document method for blacklisting the documents.
+END

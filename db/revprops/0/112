@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-07-06T11:10:32.945089Z
+K 7
+svn:log
+V 136
+#32193 comments: Fix 3 sql issue by commenting the unreachable code (add_contract_status_value_to_hash, add_data_element_value_to_hash).
+END

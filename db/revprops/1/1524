@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-03-30T08:20:45.938114Z
+K 7
+svn:log
+V 66
+#comments : Reject the is_dirty column from reporting and CG view.
+END

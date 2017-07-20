@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-17T13:00:15.571317Z
+K 7
+svn:log
+V 62
+#36003 comments: Write a script to activate sso to bulk users.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-20T14:23:55.697136Z
+K 7
+svn:log
+V 134
+#36110 comments : Capture and send mail about report alert error details if report export raises any exception while exporting report.
+END

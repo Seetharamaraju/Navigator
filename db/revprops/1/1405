@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-20T09:17:11.108654Z
+K 7
+svn:log
+V 126
+Comments: Getting all the contracts where entry is not 1 in the contracts simplerule table, instead of selected intake source.
+END

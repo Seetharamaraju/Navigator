@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+vipul
+K 8
+svn:date
+V 27
+2016-06-28T15:06:35.834473Z
+K 7
+svn:log
+V 77
+#31985 Comments: Adding script to reliable stop delayed job. Changing message
+END

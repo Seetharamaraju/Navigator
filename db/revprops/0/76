@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-27T14:13:46.846970Z
+K 7
+svn:log
+V 183
+Code Merge from Navigator Dev to Trunk. Revisions: 13,67-68,73. No Conflicts.
+Following are the changes:
+> SFTP file permission fix
+> 10 Security Fixes
+> Piwik Double quotes issue fix
+END

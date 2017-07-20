@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-09-01T10:28:16.703289Z
+K 7
+svn:log
+V 150
+#32288 #33315 Comments: Moved the SAML attributes for user information as configuration and changed the code accordingly to fetch those configurations
+END

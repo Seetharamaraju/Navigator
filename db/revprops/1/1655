@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-07-12T13:16:33.834683Z
+K 7
+svn:log
+V 100
+PA-283 Comments: Added the method for the recipient also changed the sfdc config ofr CTL demo folder
+END

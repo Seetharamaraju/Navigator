@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-17T06:25:19.754153Z
+K 7
+svn:log
+V 156
+#34606 Comments: Removing the users having email address with any of the blacklisted domain present in the app setting user_mgmt_black_domain from the list.
+END

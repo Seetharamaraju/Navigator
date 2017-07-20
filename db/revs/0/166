@@ -1,0 +1,64 @@
+id: 0-1.0-166.r166/0
+type: dir
+pred: 0-1.0-23.r165/51102
+count: 36
+text: 165 50017 1072 1072 ee51dfaaa964960bae45a14ebe80a29a
+cpath: /branches/se_prototype
+copyfrom: 165 /branches/se_dev
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 22
+dir 0-1.0-12.r164/6552
+K 6
+se_dev
+V 23
+dir 0-1.0-23.r165/51102
+K 12
+se_prototype
+V 20
+dir 0-1.0-166.r166/0
+END
+ENDREP
+id: 0-11.0.r166/373
+type: dir
+pred: 0-11.0.r165/51427
+count: 117
+text: 166 188 172 172 5e05e98d0a2740f1b942ec617b96716a
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 8
+branches
+V 19
+dir 0-11.0.r166/373
+K 4
+tags
+V 18
+dir 0-7.0.r129/878
+K 5
+trunk
+V 20
+dir 0-1.0.r161/22240
+END
+ENDREP
+id: 0.0.r166/662
+type: dir
+pred: 0.0.r165/51721
+count: 166
+text: 166 538 111 111 f6ac1ceec68b115b52aafc81590a81d6
+cpath: /
+copyroot: 0 /
+minfo-cnt: 11
+
+0-1._0.t165-4y add-dir false false /branches/se_prototype
+165 /branches/se_dev
+
+662 814

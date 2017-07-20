@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-09-14T16:31:23.789422Z
+K 7
+svn:log
+V 131
+#33311 comments : Whitelist the docusign envelope process based on erate documents by validate Opportunity vertical on Salesforce. 
+END

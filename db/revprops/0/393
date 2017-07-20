@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-08T06:19:53.828885Z
+K 7
+svn:log
+V 65
+#32573 comments : Remove opened attribute of the jstree's states.
+END

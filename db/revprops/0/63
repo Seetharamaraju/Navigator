@@ -1,0 +1,15 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-15T09:05:55.162667Z
+K 7
+svn:log
+V 206
+Code Merge from Dev to Trunk. Revisions: 47-48,50,53,57
+Use Cases: 31651 Improve messaging in navigator for users with non-customer roles,31652 Quick Search Tooltip, 31656 Citation +1 issue Fix
+No conflicts
+END

@@ -1,0 +1,1270 @@
+PLAIN
+K 28
+administration_controller.rb
+V 22
+file g-1.0.r1/27217032
+K 27
+alert_configs_controller.rb
+V 24
+file i-1.0-12.r1138/1211
+K 19
+alert_controller.rb
+V 22
+file j-1.0.r1/27217480
+K 30
+alert_recipients_controller.rb
+V 22
+file k-1.0.r1/27217697
+K 23
+analytics_controller.rb
+V 22
+file l-1.0.r1/27217921
+K 3
+api
+V 23
+dir m-1.0-12.r1011/2833
+K 28
+app_exceptions_controller.rb
+V 22
+file p-1.0.r1/27218597
+K 23
+app_users_controller.rb
+V 22
+file q-1.0-12.r313/581
+K 25
+application_controller.rb
+V 24
+file r-1.0-12.r1257/2102
+K 28
+auto_amendment_controller.rb
+V 22
+file s-1.0.r1/27219265
+K 27
+chart_configs_controller.rb
+V 22
+file t-1.0.r1/27219490
+K 35
+contract_audit_errors_controller.rb
+V 22
+file u-1.0.r1/27219714
+K 37
+contract_exception_flag_controller.rb
+V 22
+file v-1.0.r1/27219946
+K 29
+contract_intake_controller.rb
+V 23
+file w-1.0-12.r955/2699
+K 28
+contract_model_controller.rb
+V 22
+file x-1.0-12.r975/341
+K 43
+contract_model_data_dropdowns_controller.rb
+V 22
+file y-1.0.r1/27220634
+K 42
+contract_model_data_elements_controller.rb
+V 22
+file z-1.0.r1/27220873
+K 44
+contract_model_term_categories_controller.rb
+V 23
+file 10-1.0.r1/27221110
+K 39
+contract_model_term_types_controller.rb
+V 23
+file 11-1.0.r1/27221350
+K 41
+contract_model_term_updates_controller.rb
+V 23
+file 12-1.0.r1/27221587
+K 29
+contract_models_controller.rb
+V 23
+file 13-1.0.r1/27221824
+K 30
+contract_request_controller.rb
+V 24
+file 14-1.0-12.r1343/418
+K 29
+contract_upload_controller.rb
+V 23
+file 15-1.0-12.r1298/48
+K 23
+contracts_controller.rb
+V 25
+file 16-1.0-12.r1317/5788
+K 3
+ctl
+V 22
+dir 19-1.0.r1/27224366
+K 22
+customer_controller.rb
+V 25
+file 1g-1.0-12.r1317/6059
+K 27
+customer_task_controller.rb
+V 23
+file 1h-1.0.r1/27224735
+K 38
+customer_user_management_controller.rb
+V 23
+file 1j-1.0-12.r1300/71
+K 27
+customer_view_controller.rb
+V 24
+file 1k-1.0-12.r1347/697
+K 24
+data_audit_controller.rb
+V 23
+file 1l-1.0.r1/27225657
+K 29
+data_extraction_controller.rb
+V 23
+file 1n-1.0.r1/27226107
+K 25
+data_import_controller.rb
+V 23
+file 1o-1.0.r1/27226336
+K 34
+data_management_jobs_controller.rb
+V 23
+file 1p-1.0.r1/27226561
+K 42
+data_management_term_configs_controller.rb
+V 23
+file 1q-1.0.r1/27226793
+K 27
+data_mappings_controller.rb
+V 23
+file 1r-1.0.r1/27227033
+K 23
+data_maps_controller.rb
+V 23
+file 1s-1.0.r1/27227258
+K 31
+delayed_job_admin_controller.rb
+V 23
+file 1t-1.0.r1/27227478
+K 33
+delayed_job_monitor_controller.rb
+V 23
+file 1u-1.0-12.r270/345
+K 46
+derived_data_element_definitions_controller.rb
+V 23
+file 1v-1.0.r1/27227938
+K 28
+document_audit_controller.rb
+V 23
+file 1w-1.0.r1/27228184
+K 40
+document_exception_details_controller.rb
+V 23
+file 1x-1.0-12.r717/296
+K 33
+document_exceptions_controller.rb
+V 24
+file 1y-1.0-12.r1030/227
+K 29
+document_intake_controller.rb
+V 24
+file 1z-1.0-12.r1010/291
+K 50
+document_intake_email_configurations_controller.rb
+V 23
+file 20-1.0-12.r961/518
+K 43
+document_intake_notifications_controller.rb
+V 23
+file 21-1.0.r1/27229358
+K 36
+document_intake_report_controller.rb
+V 24
+file 22-1.0-12.r1141/751
+K 22
+docusign_controller.rb
+V 24
+file 23-1.0-12.r1140/592
+K 27
+email_configs_controller.rb
+V 23
+file 24-1.0-12.r1354/76
+K 30
+exception_groups_controller.rb
+V 23
+file 25-1.0.r1/27230278
+K 32
+execution_requests_controller.rb
+V 23
+file 26-1.0-12.r763/133
+K 22
+feedback_controller.rb
+V 23
+file 27-1.0-12.r731/588
+K 23
+file_sync_controller.rb
+V 23
+file 28-1.0.r1/27230957
+K 26
+file_uploads_controller.rb
+V 23
+file 29-1.0.r1/27231177
+K 30
+full_text_search_controller.rb
+V 23
+file 2a-1.0.r1/27231402
+K 12
+fusioncharts
+V 22
+dir 2b-1.0.r1/27231944
+K 24
+gatepasses_controller.rb
+V 23
+file 2e-1.0.r1/27232100
+K 21
+graylog_controller.rb
+V 23
+file 2f-1.0.r1/27232321
+K 20
+groups_controller.rb
+V 23
+file 2g-1.0.r1/27232539
+K 24
+helloadmin_controller.rb
+V 23
+file 2h-1.0.r1/27232759
+K 2
+hp
+V 22
+dir 2i-1.0.r1/27234424
+K 25
+integration_controller.rb
+V 23
+file 2q-1.0-12.r926/660
+K 22
+job_mgmt_controller.rb
+V 23
+file 2r-1.0.r1/27234797
+K 23
+lifecycle_controller.rb
+V 23
+file 2s-1.0.r1/27235017
+K 19
+login_controller.rb
+V 25
+file 2t-1.0-12.r1312/1156
+K 33
+meta_deta_criterias_controller.rb
+V 23
+file 2u-1.0.r1/27235458
+K 24
+milestones_controller.rb
+V 23
+file 2v-1.0.r1/27235689
+K 24
+monitoring_controller.rb
+V 26
+file 4-1202.0-12.r1349/292
+K 28
+ocr_automation_controller.rb
+V 22
+file 2w-1.0-12.r52/257
+K 32
+ocr_server_configs_controller.rb
+V 23
+file 2x-1.0.r1/27236137
+K 23
+ocr_stats_controller.rb
+V 23
+file 2y-1.0.r1/27236367
+K 27
+pdf_convertor_controller.rb
+V 23
+file 2z-1.0.r1/27236588
+K 21
+release_controller.rb
+V 23
+file 30-1.0.r1/27236813
+K 22
+reporter_controller.rb
+V 23
+file 31-1.0.r1/27237031
+K 23
+reporting_controller.rb
+V 25
+file 32-1.0-12.r1097/1810
+K 28
+request_wizard_controller.rb
+V 23
+file 33-1.0.r1/27237476
+K 12
+restful_apis
+V 22
+dir 34-1.0.r1/27237701
+K 29
+role_categories_controller.rb
+V 23
+file 35-1.0.r1/27237801
+K 19
+rules_controller.rb
+V 23
+file 36-1.0.r1/27238027
+K 10
+salesforce
+V 22
+dir 37-1.0.r1/27238547
+K 36
+salesforce_application_controller.rb
+V 23
+file 3a-1.0-12.r926/927
+K 34
+salesforce_envelopes_controller.rb
+V 23
+file 3b-1.0.r1/27238937
+K 38
+salesforce_opportunities_controller.rb
+V 23
+file 3c-1.0.r1/27239170
+K 47
+salesforce_pramata_field_mappings_controller.rb
+V 23
+file 3d-1.0.r1/27239405
+K 23
+saml_auth_controller.rb
+V 24
+file 3e-1.0-12.r871/2485
+K 20
+sample_controller.rb
+V 23
+file 3f-1.0.r1/27239871
+K 21
+sampler_controller.rb
+V 23
+file 3g-1.0.r1/27240087
+K 3
+se2
+V 22
+dir 3h-1.0.r1/27241458
+K 22
+searcher_controller.rb
+V 23
+file 3o-1.0.r1/27241605
+K 37
+security_administration_controller.rb
+V 23
+file 3p-1.0.r1/27241827
+K 8
+services
+V 25
+dir 4-768.0-834.r834/4258
+K 22
+services_controller.rb
+V 23
+file 3q-1.0.r1/27242063
+K 29
+snapshot_config_controller.rb
+V 23
+file 3r-1.0.r1/27242283
+K 22
+sso_auth_controller.rb
+V 24
+file 4-125.0-524.r1275/0
+K 18
+tags_controller.rb
+V 23
+file 3s-1.0.r1/27242510
+K 19
+tasks_controller.rb
+V 23
+file 3t-1.0.r1/27242724
+K 24
+tour_visit_controller.rb
+V 21
+file 3v-1.0.r5/204988
+K 32
+transaction_review_controller.rb
+V 23
+file 3z-1.0.r1/27244079
+K 30
+transaction_view_controller.rb
+V 23
+file 40-1.0-12.r13/1779
+K 26
+usage_report_controller.rb
+V 23
+file 41-1.0-12.r742/582
+K 18
+user_controller.rb
+V 25
+file 42-1.0-12.r1251/3663
+K 24
+user_roles_controller.rb
+V 23
+file 43-1.0-12.r343/565
+K 18
+view_controller.rb
+V 22
+file 44-1.0-12.r1129/0
+END
+ENDREP
+id: f-1.0-12.r1363/6314
+type: dir
+pred: f-1.0-12.r1362/6373
+count: 281
+text: 1363 0 6301 6301 8f32fd43adca20e6621411a165836339
+cpath: /branches/dev/app/controllers
+copyroot: 12 /branches/dev
+
+PLAIN
+K 24
+administration_helper.rb
+V 23
+file 46-1.0-12.r501/480
+K 23
+alert_configs_helper.rb
+V 23
+file 48-1.0.r1/27252458
+K 15
+alert_helper.rb
+V 23
+file 49-1.0.r1/27252672
+K 19
+analytics_helper.rb
+V 23
+file 4a-1.0.r1/27252878
+K 24
+app_exceptions_helper.rb
+V 23
+file 4b-1.0.r1/27253093
+K 19
+app_users_helper.rb
+V 23
+file 4c-1.0.r1/27253308
+K 21
+application_helper.rb
+V 26
+file 4d-1.0-12.r1317/13657
+K 24
+auto_amendment_helper.rb
+V 23
+file 4e-1.0.r1/27253737
+K 23
+chart_configs_helper.rb
+V 23
+file 4f-1.0.r1/27253952
+K 25
+contract_intake_helper.rb
+V 23
+file 4g-1.0.r1/27254166
+K 24
+contract_model_helper.rb
+V 23
+file 4h-1.0.r1/27254382
+K 25
+contract_models_helper.rb
+V 23
+file 4i-1.0.r1/27254601
+K 26
+contract_request_helper.rb
+V 23
+file 4j-1.0.r1/27254820
+K 25
+contract_upload_helper.rb
+V 23
+file 4k-1.0.r1/27255038
+K 19
+contracts_helper.rb
+V 26
+file 4l-1.0-12.r1317/13928
+K 3
+ctl
+V 22
+dir 4n-1.0.r1/27256236
+K 18
+customer_helper.rb
+V 23
+file 4s-1.0.r1/27256379
+K 23
+customer_task_helper.rb
+V 23
+file 4t-1.0.r1/27256592
+K 34
+customer_user_management_helper.rb
+V 24
+file 4v-1.0-12.r1173/966
+K 23
+customer_view_helper.rb
+V 26
+file 4w-1.0-12.r1037/13442
+K 20
+data_audit_helper.rb
+V 23
+file 4x-1.0.r1/27257467
+K 25
+data_extraction_helper.rb
+V 23
+file 4z-1.0.r1/27257895
+K 21
+data_import_helper.rb
+V 23
+file 50-1.0.r1/27258116
+K 30
+data_management_jobs_helper.rb
+V 23
+file 51-1.0.r1/27258330
+K 38
+data_management_term_configs_helper.rb
+V 23
+file 52-1.0.r1/27258551
+K 23
+data_mappings_helper.rb
+V 23
+file 53-1.0.r1/27258780
+K 42
+derived_data_element_definitions_helper.rb
+V 23
+file 54-1.0.r1/27258993
+K 24
+document_audit_helper.rb
+V 23
+file 55-1.0.r1/27259229
+K 36
+document_exception_details_helper.rb
+V 23
+file 56-1.0.r1/27259444
+K 29
+document_exceptions_helper.rb
+V 25
+file 57-1.0-12.r1015/8887
+K 46
+document_intake_email_configurations_helper.rb
+V 23
+file 58-1.0.r1/27259897
+K 43
+document_intake_notification_rule_helper.rb
+V 23
+file 59-1.0.r1/27260136
+K 26
+exception_groups_helper.rb
+V 23
+file 5a-1.0.r1/27260370
+K 18
+feedback_helper.rb
+V 23
+file 5b-1.0.r1/27260587
+K 22
+file_uploads_helper.rb
+V 23
+file 5c-1.0.r1/27260795
+K 20
+gatepasses_helper.rb
+V 23
+file 5d-1.0.r1/27261010
+K 2
+hp
+V 22
+dir 5e-1.0.r1/27261763
+K 21
+integration_helper.rb
+V 23
+file 5j-1.0.r1/27261905
+K 15
+login_helper.rb
+V 23
+file 5k-1.0.r1/27262116
+K 29
+meta_deta_criterias_helper.rb
+V 23
+file 5l-1.0.r1/27262321
+K 20
+milestones_helper.rb
+V 23
+file 5m-1.0.r1/27262541
+K 17
+release_helper.rb
+V 23
+file 5n-1.0.r1/27262752
+K 23
+remote_link_renderer.rb
+V 23
+file 5o-1.0.r1/27262960
+K 18
+reporter_helper.rb
+V 23
+file 5p-1.0.r1/27263176
+K 19
+reporting_helper.rb
+V 26
+file 5q-1.0-12.r1037/13707
+K 12
+restful_apis
+V 22
+dir 5r-1.0.r1/27263598
+K 15
+rules_helper.rb
+V 23
+file 5s-1.0.r1/27263694
+K 29
+salesforce_accounts_helper.rb
+V 23
+file 5t-1.0.r1/27263900
+K 43
+salesforce_pramata_field_mappings_helper.rb
+V 23
+file 5u-1.0.r1/27264123
+K 16
+sample_helper.rb
+V 23
+file 5v-1.0.r1/27264361
+K 3
+se2
+V 22
+dir 5w-1.0.r1/27265109
+K 25
+snapshot_config_helper.rb
+V 23
+file 61-1.0.r1/27265252
+K 14
+sort_helper.rb
+V 23
+file 62-1.0.r1/27265470
+K 18
+sso_auth_helper.rb
+V 26
+file 4-171.0-528.r557/1574
+K 14
+tags_helper.rb
+V 23
+file 63-1.0.r1/27265677
+K 15
+tasks_helper.rb
+V 23
+file 64-1.0.r1/27265882
+K 28
+transaction_review_helper.rb
+V 23
+file 66-1.0.r1/27266300
+K 26
+transaction_view_helper.rb
+V 23
+file 67-1.0.r1/27266518
+K 22
+usage_report_helper.rb
+V 23
+file 68-1.0.r1/27266737
+K 14
+user_helper.rb
+V 23
+file 69-1.0.r1/27266955
+K 20
+user_roles_helper.rb
+V 23
+file 6a-1.0.r1/27267163
+K 14
+view_helper.rb
+V 23
+file 6b-1.0.r1/27267374
+END
+ENDREP
+id: 45-1.0-12.r1363/10096
+type: dir
+pred: 45-1.0-12.r1362/10210
+count: 31
+text: 1363 6506 3577 3577 6eafa873f91904aaf0cae08822e8146d
+cpath: /branches/dev/app/helpers
+copyroot: 12 /branches/dev
+
+PLAIN
+K 14
+administration
+V 23
+dir i3-1.0-12.r501/5235
+K 5
+alert
+V 24
+dir ia-1.0-12.r1333/3221
+K 13
+alert_configs
+V 22
+dir jj-1.0.r1/27402920
+K 9
+analytics
+V 22
+dir k2-1.0.r1/27411999
+K 14
+app_exceptions
+V 22
+dir ky-1.0-12.r13/9598
+K 9
+app_users
+V 22
+dir l8-1.0.r1/27417550
+K 14
+auto_amendment
+V 22
+dir lk-1.0.r1/27417995
+K 13
+chart_configs
+V 22
+dir ln-1.0.r1/27418699
+K 21
+contract_audit_errors
+V 22
+dir lr-1.0.r1/27420042
+K 15
+contract_intake
+V 22
+dir lx-1.0.r1/27423701
+K 14
+contract_model
+V 22
+dir mb-1.0.r1/27486471
+K 29
+contract_model_data_dropdowns
+V 22
+dir s3-1.0.r1/27486973
+K 28
+contract_model_data_elements
+V 22
+dir s6-1.0.r1/27487483
+K 30
+contract_model_term_categories
+V 22
+dir s9-1.0.r1/27489854
+K 25
+contract_model_term_types
+V 22
+dir si-1.0.r1/27490624
+K 27
+contract_model_term_updates
+V 22
+dir sm-1.0.r1/27491114
+K 15
+contract_models
+V 22
+dir sp-1.0.r1/27492728
+K 16
+contract_request
+V 23
+dir sw-1.0-12.r216/7832
+K 15
+contract_upload
+V 22
+dir vr-1.0-12.r740/829
+K 9
+contracts
+V 25
+dir w1-1.0-12.r1317/48986
+K 3
+ctl
+V 24
+dir x8-1.0-12.r334/41383
+K 8
+customer
+V 25
+dir yc-1.0-12.r1317/51458
+K 13
+customer_task
+V 22
+dir z7-1.0.r1/27558454
+K 24
+customer_user_management
+V 25
+dir zm-1.0-12.r1173/29444
+K 13
+customer_view
+V 25
+dir zv-1.0-12.r1317/59757
+K 10
+data_audit
+V 23
+dir 136-1.0.r1/27602120
+K 15
+data_extraction
+V 23
+dir 17u-1.0.r1/27656298
+K 11
+data_import
+V 23
+dir 18j-1.0.r1/27657984
+K 20
+data_management_jobs
+V 23
+dir 18q-1.0.r1/27659843
+K 28
+data_management_term_configs
+V 23
+dir 18y-1.0.r1/27662910
+K 13
+data_mappings
+V 23
+dir 19a-1.0.r1/27665277
+K 9
+data_maps
+V 23
+dir 19k-1.0.r1/27665701
+K 17
+delayed_job_admin
+V 23
+dir 19n-1.0.r1/27666430
+K 32
+derived_data_element_definitions
+V 23
+dir 19r-1.0.r1/27673645
+K 14
+document_audit
+V 23
+dir 1ag-1.0.r1/27674106
+K 26
+document_exception_details
+V 23
+dir 1aj-1.0.r1/27675999
+K 19
+document_exceptions
+V 25
+dir 1ar-1.0-12.r1023/9672
+K 36
+document_intake_email_configurations
+V 23
+dir 1b0-1.0.r1/27681143
+K 29
+document_intake_notifications
+V 23
+dir 1bb-1.0.r1/27681945
+K 22
+document_intake_report
+V 23
+dir 1bf-1.0.r1/27682816
+K 13
+email_configs
+V 23
+dir 1bj-1.0.r1/27683565
+K 16
+exception_groups
+V 23
+dir 1bn-1.0.r1/27684820
+K 18
+execution_requests
+V 23
+dir 1bt-1.0.r1/27685540
+K 8
+feedback
+V 26
+dir 1bx-1.0-12.r668/405904
+K 9
+file_sync
+V 23
+dir 1c6-1.0.r1/27688179
+K 12
+file_uploads
+V 23
+dir 1c9-1.0-12.r160/970
+K 16
+full_text_search
+V 23
+dir 1cm-1.0.r1/27691538
+K 10
+gatepasses
+V 23
+dir 1cn-1.0.r1/27691637
+K 6
+groups
+V 23
+dir 1co-1.0.r1/27694817
+K 10
+helloadmin
+V 23
+dir 1d1-1.0.r1/27698490
+K 2
+hp
+V 23
+dir 1df-1.0.r1/27705981
+K 11
+integration
+V 25
+dir 1e6-1.0-12.r334/50556
+K 8
+job_mgmt
+V 23
+dir 1ec-1.0.r1/27708908
+K 7
+layouts
+V 25
+dir 1ej-1.0-12.r1326/3523
+K 5
+login
+V 25
+dir 1gs-1.0-12.r1294/9183
+K 19
+meta_deta_criterias
+V 23
+dir 1h5-1.0.r1/27733636
+K 10
+milestones
+V 23
+dir 1hb-1.0.r1/27734105
+K 8
+notifier
+V 23
+dir 1he-1.0.r1/27734846
+K 18
+ocr_server_configs
+V 23
+dir 1hi-1.0.r1/27735605
+K 9
+ocr_stats
+V 23
+dir 1hm-1.0.r1/27736056
+K 7
+release
+V 23
+dir 1hp-1.0.r1/27736489
+K 8
+reporter
+V 23
+dir 1hs-1.0.r1/27751797
+K 9
+reporting
+V 26
+dir 1jb-1.0-12.r1317/69481
+K 14
+request_wizard
+V 23
+dir 1mu-1.0.r1/27789311
+K 15
+role_categories
+V 23
+dir 1my-1.0.r1/27789784
+K 5
+rules
+V 23
+dir 1n1-1.0.r1/27797789
+K 22
+salesforce_application
+V 23
+dir 1nv-1.0.r1/27798258
+K 20
+salesforce_envelopes
+V 23
+dir 1ny-1.0.r1/27799043
+K 24
+salesforce_opportunities
+V 25
+dir 1o2-1.0-12.r334/64267
+K 33
+salesforce_pramata_field_mappings
+V 23
+dir 1oa-1.0.r1/27801908
+K 6
+sample
+V 23
+dir 1oe-1.0.r1/27804221
+K 7
+sampler
+V 23
+dir 1oo-1.0.r1/27804669
+K 3
+se2
+V 23
+dir 1or-1.0.r1/27816154
+K 8
+searcher
+V 23
+dir 1pv-1.0.r1/27820459
+K 23
+security_administration
+V 23
+dir 1qc-1.0.r1/27823295
+K 9
+send_mail
+V 23
+dir 1qn-1.0.r1/27835501
+K 21
+send_test_report_mail
+V 23
+dir 1rt-1.0.r1/27835958
+K 6
+shared
+V 26
+dir 1rw-1.0-12.r1294/10637
+K 14
+simple_captcha
+V 23
+dir 4-842.0-12.r842/314
+K 15
+snapshot_config
+V 23
+dir 1se-1.0.r1/27844772
+K 8
+sso_auth
+V 27
+dir 7-162.2-528.r1232/32293
+K 4
+tags
+V 23
+dir 1st-1.0.r1/27845980
+K 5
+tasks
+V 23
+dir 1sz-1.0.r1/27851319
+K 18
+transaction_review
+V 24
+dir 1yk-1.0-12.r13/18803
+K 16
+transaction_view
+V 24
+dir 1yt-1.0-12.r13/20749
+K 12
+usage_report
+V 24
+dir 1z8-1.0-12.r738/3163
+K 4
+user
+V 26
+dir 20d-1.0-12.r1161/46853
+K 10
+user_roles
+V 23
+dir 22e-1.0.r1/27945235
+K 4
+view
+V 26
+dir 22j-1.0-12.r1151/19650
+END
+ENDREP
+id: i2-1.0-12.r1363/14678
+type: dir
+pred: i2-1.0-12.r1362/37908
+count: 138
+text: 1363 10290 4375 4375 d3a4b9d536c928dde45274fce79baf22
+cpath: /branches/dev/app/views
+copyroot: 12 /branches/dev
+
+PLAIN
+K 4
+apis
+V 21
+dir a-1.0.r1/27216895
+K 11
+controllers
+V 23
+dir f-1.0-12.r1363/6314
+K 7
+helpers
+V 25
+dir 45-1.0-12.r1363/10096
+K 5
+metal
+V 22
+dir 6c-1.0.r1/27271772
+K 6
+models
+V 25
+dir 6f-1.0-12.r1362/33278
+K 5
+views
+V 25
+dir i2-1.0-12.r1363/14678
+END
+ENDREP
+id: 9-1.0-12.r1363/15135
+type: dir
+pred: 9-1.0-12.r1362/38364
+count: 547
+text: 1363 14872 250 250 63ff935a19368ff957da91c7f0303a99
+cpath: /branches/dev/app
+copyroot: 12 /branches/dev
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 24
+dir 9-1.0-12.r1363/15135
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 26
+dir 24j-1.0-12.r1323/11239
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 26
+dir 2dg-1.0-12.r1306/87982
+K 3
+doc
+V 27
+dir 365-1.0-12.r1037/180838
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 25
+dir 36j-1.0-12.r1359/4165
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 27
+dir 3fm-1.0-12.r1317/135293
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 25
+dir 92z-1.0-12.r1297/9924
+K 4
+spec
+V 27
+dir 9k8-1.0-12.r1317/140384
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 23
+dir 2-495.0-12.r672/563
+K 6
+vendor
+V 24
+dir 9wa-1.0-12.r844/2822
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+id: 0-1.0-12.r1363/16483
+type: dir
+pred: 0-1.0-12.r1362/39711
+count: 686
+text: 1363 15319 1151 1151 241b5baf8376e92919c6e82cf6e3b410
+props: 1317 141742 1269 0 8c83491dccabe698ada8030aef9f9089
+cpath: /branches/dev
+copyroot: 12 /branches/dev
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 24
+dir 0-1.0-12.r1363/16483
+K 6
+se_dev
+V 24
+dir 0-1.0-23.r1361/19921
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+END
+ENDREP
+id: 0-11.0.r1363/17045
+type: dir
+pred: 0-11.0.r1362/40272
+count: 1104
+text: 1363 16751 281 281 afac509f0838f4467bcf49d20ef0e340
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 5
+
+PLAIN
+K 8
+branches
+V 22
+dir 0-11.0.r1363/17045
+K 4
+tags
+V 20
+dir 0-7.0.r1357/4800
+K 5
+trunk
+V 20
+dir 0-1.0.r1358/8845
+END
+ENDREP
+id: 0.0.r1363/17347
+type: dir
+pred: 0.0.r1362/40574
+count: 1363
+text: 1363 17218 116 116 5d4aa47fb2ebb9a5f38b48a52d868f98
+cpath: /
+copyroot: 0 /
+minfo-cnt: 59
+
+1m-1.0.r1/27225881 delete-file false false /branches/dev/app/controllers/data_entry_controller.rb
+
+4y-1.0.r1/27257680 delete-file false false /branches/dev/app/helpers/data_entry_helper.rb
+
+13i-1.0.r1/27649194 delete-dir false false /branches/dev/app/views/data_entry
+
+
+17347 17507

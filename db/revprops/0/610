@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-09-08T15:34:25.190479Z
+K 7
+svn:log
+V 102
+#33186 comments: Add delayed_jobs initializer to set the default value(5) to priority in delayed jobs.
+END

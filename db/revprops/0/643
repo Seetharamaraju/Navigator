@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-09-14T08:51:57.103726Z
+K 7
+svn:log
+V 167
+#33311 Use Case:#33552, #33553 Comments: Added the Config and the code for whether to merge the docusign Document. Also Added the config for whitelisting the documents
+END

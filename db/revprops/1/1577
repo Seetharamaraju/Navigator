@@ -1,0 +1,26 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2017-04-19T10:04:26.790562Z
+K 7
+svn:log
+V 355
+Merged revision(s) 1444-1473 from branches/se_dev:
+Updating Assoc Table during Upload 
+........
+Code Merge from Dev to Trunk. Revisions: 1435,1437. Bugs: #36428, #36394
+........
+Adding specs for upload file post process
+........
+Adding Config for uat
+........
+comments : Add configuration files for HPE.
+........
+ Added COmcast UAT core service 
+........
+
+END

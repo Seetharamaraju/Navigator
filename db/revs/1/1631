@@ -1,0 +1,883 @@
+id: 8-288.1-1631.r1631/0
+type: file
+pred: 8-288.j-405.r1487/40425
+count: 14
+text: 1629 0 636 27045 78fb8c26856161409bd9fa12fec20a13 09329836f8f4c249a9d5268d281b22319df22074 1630-1a8/_a
+cpath: /branches/summer_2017_general/public/javascripts/pramata/navigator/key_term/contract_detail.js
+copyroot: 405 /trunk/public/javascripts/pramata/navigator/key_term
+
+PLAIN
+K 18
+contract_detail.js
+V 25
+file 8-288.1-1631.r1631/0
+K 23
+contract_detail_beta.js
+V 27
+file t-591.f-651.r864/36730
+END
+ENDREP
+id: 6-288.1-1631.r1631/489
+type: dir
+pred: 6-288.j-405.r1487/40895
+count: 17
+text: 1631 355 121 121 b6110fae2c4ce0a1be9e469d0fb53edb
+cpath: /branches/summer_2017_general/public/javascripts/pramata/navigator/key_term
+copyroot: 405 /trunk/public/javascripts/pramata/navigator/key_term
+
+id: d-780.0-1631.r1631/773
+type: file
+pred: d-780.e-798.r1487/41158
+count: 7
+text: 1629 660 245 7131 824f80e0c745a5ed84d8ceb5c6800551 50b869722b8bfc1d4cca49e74cbbb74ff0419d2a 1630-1a8/_8
+cpath: /branches/summer_2017_general/public/javascripts/pramata/navigator/reporting/citation_tooltip.js
+copyroot: 798 /trunk/public/javascripts/pramata/navigator/reporting
+
+PLAIN
+K 19
+citation_tooltip.js
+V 27
+file d-780.0-1631.r1631/773
+K 12
+reporting.js
+V 29
+file h-885.7-989.r1311/116904
+END
+ENDREP
+id: b-780.0-1631.r1631/1261
+type: dir
+pred: b-780.e-798.r1487/41626
+count: 7
+text: 1631 1133 115 115 87a8281bbc048d335a2b0de43eafeb5e
+cpath: /branches/summer_2017_general/public/javascripts/pramata/navigator/reporting
+copyroot: 798 /trunk/public/javascripts/pramata/navigator/reporting
+
+PLAIN
+K 10
+general.js
+V 31
+file 6-1544.2-1570.r1570/164028
+K 8
+key_term
+V 26
+dir 6-288.1-1631.r1631/489
+K 9
+reporting
+V 27
+dir b-780.0-1631.r1631/1261
+K 12
+site_tour.js
+V 20
+file n-5.0.r5/425203
+END
+ENDREP
+id: 4-2.0-1620.r1631/1754
+type: dir
+pred: 4-2.0.r1570/164575
+count: 19
+text: 1631 1548 193 193 1b8da58e62b1d0b797d22111b0709a65
+cpath: /branches/summer_2017_general/public/javascripts/pramata/navigator
+copyroot: 1620 /branches/summer_2017_general
+
+PLAIN
+K 8
+alert.js
+V 24
+file 8cu-1.0.r1/30464027
+K 9
+common.js
+V 24
+file 8cw-1.0.r1/30464244
+K 13
+data_entry.js
+V 24
+file 8cx-1.0.r1/30464462
+K 18
+document_family.js
+V 24
+file 8cy-1.0.r1292/23793
+K 22
+document_family_lib.js
+V 24
+file 8cz-1.0.r1/30464915
+K 25
+document_family_simple.js
+V 24
+file 8d0-1.0.r1292/24048
+K 9
+handlebar
+V 27
+dir c-235.i-405.r1487/40178
+K 16
+moment_helper.js
+V 21
+file 8d1-1.0.r604/281
+K 9
+navigator
+V 25
+dir 4-2.0-1620.r1631/1754
+K 10
+salesforce
+V 23
+dir 8d2-1.0.r1/30470955
+K 13
+salesforce.js
+V 24
+file 8dq-1.0.r1/30471123
+K 10
+sampler.js
+V 24
+file 8dr-1.0.r1/30471345
+K 9
+team_mgmt
+V 23
+dir 8ds-1.0.r1/30472147
+K 12
+team_mgmt.js
+V 24
+file 8dw-1.0.r1/30472314
+END
+ENDREP
+id: 8ct-1.0-1620.r1631/2700
+type: dir
+pred: 8ct-1.0.r1570/165462
+count: 27
+text: 1631 2002 685 685 56fce9eda02261c86cb8c4f8fed5c857
+cpath: /branches/summer_2017_general/public/javascripts/pramata
+copyroot: 1620 /branches/summer_2017_general
+
+PLAIN
+K 10
+DataTables
+V 23
+dir 4kh-1.0.r1/29134846
+K 14
+Epoch_calender
+V 23
+dir 4y5-1.0.r1/29136491
+K 15
+FusionCharts.js
+V 24
+file 4yb-1.0.r1/29136655
+K 8
+adapters
+V 23
+dir 4yc-1.0.r1/29137181
+K 14
+application.js
+V 25
+file 4yf-1.0.r1571/164391
+K 12
+bootstrap.js
+V 24
+file 4yg-1.0.r1/29137556
+K 16
+bootstrap.min.js
+V 24
+file 4yh-1.0.r1/29137773
+K 6
+chosen
+V 23
+dir 4yi-1.0.r1/29140192
+K 8
+ckeditor
+V 23
+dir 4yr-1.0.r1/29272443
+K 14
+ckeditor_4.1.3
+V 23
+dir 5db-1.0.r1/29388741
+K 15
+contract_upload
+V 24
+dir 5qf-1.0.r1570/163595
+K 11
+controls.js
+V 24
+file 5ql-1.0.r1/29390167
+K 16
+cookiesupport.js
+V 24
+file 5qm-1.0.r1/29390381
+K 12
+dark-blue.js
+V 24
+file 5qn-1.0.r1/29390598
+K 13
+dark-green.js
+V 24
+file 5qo-1.0.r1/29390813
+K 18
+data_extraction.js
+V 24
+file 5qp-1.0.r1/29391029
+K 38
+document_intake_email_configuration.js
+V 24
+file 5qq-1.0.r1/29391250
+K 6
+dom.js
+V 24
+file 5qr-1.0.r1/29391490
+K 11
+dragdrop.js
+V 24
+file 5qs-1.0.r1/29391700
+K 10
+easyXDM.js
+V 24
+file 5qt-1.0.r1/29391915
+K 18
+easyXDM.pramata.js
+V 24
+file 5qu-1.0.r1/29392130
+K 6
+editor
+V 23
+dir 5qv-1.0.r1/29537597
+K 10
+effects.js
+V 24
+file 659-1.0.r1/29537753
+K 19
+enhanced_reports.js
+V 28
+file 8-175.8-278.r989/179217
+K 8
+eolas.js
+V 24
+file 65a-1.0.r1/29537967
+K 12
+exporting.js
+V 24
+file 65b-1.0.r1/29538176
+K 7
+ext-2.1
+V 23
+dir 65c-1.0.r1/30446355
+K 16
+ext-all-debug.js
+V 24
+file 8al-1.0.r1/30446512
+K 10
+ext-all.js
+V 24
+file 8am-1.0.r1/30446735
+K 11
+ext-base.js
+V 24
+file 8an-1.0.r1/30446952
+K 14
+faqtoid-master
+V 21
+dir 8ao-1.0.r5/424292
+K 11
+fastinit.js
+V 24
+file 8as-1.0.r1/30447898
+K 12
+fckconfig.js
+V 24
+file 8at-1.0.r1/30448112
+K 12
+fckeditor.js
+V 24
+file 8au-1.0.r1/30448327
+K 13
+fckstyles.xml
+V 24
+file 8av-1.0.r1/30448542
+K 16
+fcktemplates.xml
+V 24
+file 8aw-1.0.r1/30448757
+K 9
+fsmenu.js
+V 24
+file 8ax-1.0.r1/30448976
+K 17
+general_filter.js
+V 24
+file 8ay-1.0.r1/30449189
+K 7
+gray.js
+V 24
+file 8az-1.0.r1/30449408
+K 4
+grid
+V 23
+dir 8b0-1.0.r1/30449892
+K 7
+grid.js
+V 24
+file 8b3-1.0.r1/30450044
+K 11
+grid_filter
+V 23
+dir 8b4-1.0.r1/30458014
+K 20
+handlebars-v3.0.0.js
+V 24
+file 8c1-1.0.r1/30458173
+K 12
+handsontable
+V 23
+dir 8c2-1.0.r1/30459020
+K 19
+highcharts-4.0.4.js
+V 24
+file 8c6-1.0.r1/30459182
+K 13
+highcharts.js
+V 24
+file 8c7-1.0.r1/30459407
+K 12
+html5shiv.js
+V 24
+file 8c8-1.0.r1/30459625
+K 7
+i18n.js
+V 24
+file 8c9-1.0.r1/30459841
+K 8
+intro.js
+V 20
+file 3-3.0.r5/424476
+K 20
+jquery-1.11.1.min.js
+V 24
+file 8ca-1.0.r1/30460051
+K 19
+jquery-2.1.1.min.js
+V 24
+file 8cb-1.0.r1/30460274
+K 22
+jquery.fileDownload.js
+V 24
+file 8cc-1.0.r1/30460497
+K 8
+json2.js
+V 24
+file 8cd-1.0.r1/30460723
+K 19
+jstree-3.3.1.min.js
+V 23
+file 4-24.0-28.r28/8491
+K 13
+jstree.min.js
+V 24
+file 8ce-1.0.r1/30460935
+K 7
+layouts
+V 23
+dir 8cf-1.0.r1/30461703
+K 11
+messages.js
+V 25
+file 8cj-1.0.r1570/163788
+K 11
+metagrid.js
+V 24
+file 8ck-1.0.r1/30462075
+K 7
+misc.js
+V 24
+file 8cl-1.0.r1/30462290
+K 13
+moment.min.js
+V 24
+file 8cm-1.0.r1/30462500
+K 26
+navigator_piwik_tracker.js
+V 25
+file 8cn-1.0.r1571/164640
+K 9
+panels.js
+V 24
+file 8co-1.0.r1/30462946
+K 22
+pontus_contract_nav.js
+V 24
+file 8cp-1.0.r1/30463154
+K 14
+pontus_tree.js
+V 24
+file 8cq-1.0.r1/30463378
+K 20
+pontus_validation.js
+V 24
+file 8cr-1.0.r1/30463592
+K 11
+popupDiv.js
+V 24
+file 8cs-1.0.r1/30463815
+K 7
+pramata
+V 27
+dir 8ct-1.0-1620.r1631/2700
+K 12
+prototype.js
+V 24
+file 8dx-1.0.r1/30473301
+K 8
+qtip2.js
+V 24
+file 8dy-1.0.r798/180523
+K 11
+qtip_lib.js
+V 24
+file 8dz-1.0.r1/30473733
+K 19
+render_highchart.js
+V 24
+file 8e0-1.0.r1/30473945
+K 12
+reporting.js
+V 25
+file 8e1-1.0.r1571/164896
+K 10
+respond.js
+V 24
+file 8e2-1.0.r1/30474381
+K 13
+salesforce.js
+V 24
+file 8e3-1.0.r1/30474594
+K 17
+salesforce_lib.js
+V 24
+file 8e4-1.0.r1/30474809
+K 27
+salesforce_opportunities.js
+V 24
+file 8e5-1.0.r1/30475027
+K 8
+skies.js
+V 24
+file 8e6-1.0.r1/30475257
+K 14
+streamlined.js
+V 24
+file 8e7-1.0.r1/30475466
+K 20
+tablecolumnresize.js
+V 24
+file 8e8-1.0.r1/30475682
+K 11
+tablekit.js
+V 24
+file 8e9-1.0.r1/30475905
+K 12
+tablesort.js
+V 24
+file 8ea-1.0.r1/30476120
+K 9
+team_mgmt
+V 23
+dir 8eb-1.0.r1/30476628
+K 7
+tinymce
+V 23
+dir 8ee-1.0.r1/30575798
+K 10
+tooltip.js
+V 24
+file 8qe-1.0.r1/30575955
+K 10
+tracker.js
+V 24
+file 8qf-1.0.r651/218066
+K 8
+training
+V 23
+dir 8qg-1.0.r1/30576673
+K 4
+tree
+V 23
+dir 8qj-1.0.r1/30577360
+K 7
+tree.js
+V 24
+file 8qn-1.0.r1/30577512
+K 7
+util.js
+V 24
+file 8qo-1.0.r1/30577721
+K 12
+uxvismode.js
+V 24
+file 8qp-1.0.r1/30577931
+K 4
+x.js
+V 24
+file 8qq-1.0.r1/30578146
+K 11
+xmltoken.js
+V 24
+file 8qr-1.0.r1/30578353
+K 7
+xthf.js
+V 25
+file 8qs-1.0-1582.r1594/0
+END
+ENDREP
+id: 4kg-1.0-1620.r1631/7424
+type: dir
+pred: 4kg-1.0-1582.r1594/4743
+count: 39
+text: 1631 2942 4469 4469 67d553565545c35f9983a9b3f6ef1dc2
+cpath: /branches/summer_2017_general/public/javascripts
+copyroot: 1620 /branches/summer_2017_general
+
+PLAIN
+K 9
+.htaccess
+V 24
+file 3fn-1.0.r1/28443738
+K 8
+404.html
+V 24
+file 3fp-1.0.r1/28443937
+K 8
+500.html
+V 24
+file 3fq-1.0.r1/28444133
+K 12
+FusionCharts
+V 23
+dir 3fr-1.0.r1/28463912
+K 15
+PramataLogo.png
+V 24
+file 3h7-1.0.r1/28464130
+K 26
+access_denied_msg_ESI.html
+V 24
+file 3h8-1.0.r1/28464392
+K 7
+applets
+V 20
+dir 3h9-1.0.r101/355
+K 12
+dispatch.cgi
+V 24
+file 3hc-1.0.r1/28465162
+K 13
+dispatch.fcgi
+V 24
+file 3hd-1.0.r1/28465363
+K 11
+dispatch.rb
+V 24
+file 3he-1.0.r1/28465565
+K 13
+downtime.html
+V 24
+file 3hf-1.0.r1/28465765
+K 11
+favicon.ico
+V 24
+file 3hg-1.0.r1/28466033
+K 12
+formtest.htm
+V 24
+file 3hh-1.0.r1/28466290
+K 11
+googiespell
+V 23
+dir 3hi-1.0.r1/28470118
+K 6
+images
+V 24
+dir 3hv-1.0.r1570/162721
+K 11
+javascripts
+V 27
+dir 4kg-1.0-1620.r1631/7424
+K 16
+jumploader_z.jar
+V 22
+file 8qt-1.0.r84/47306
+K 7
+overlib
+V 23
+dir 8qu-1.0.r1/30583859
+K 11
+ploader.gif
+V 24
+file 8qx-1.0.r1/30584068
+K 14
+pramata_hd.png
+V 24
+file 8qy-1.0.r1/30584393
+K 16
+pramata_logo.png
+V 24
+file 8qz-1.0.r1/30584724
+K 20
+pramata_new_logo.png
+V 24
+file 8r0-1.0.r1/30585054
+K 13
+redirect.html
+V 24
+file 8r1-1.0.r1/30585319
+K 10
+robots.txt
+V 24
+file 8r2-1.0.r1/30585521
+K 22
+routing_error.html.erb
+V 24
+file 8r3-1.0.r1/30585719
+K 12
+spinner.html
+V 24
+file 8r4-1.0.r1/30585930
+K 11
+stylesheets
+V 24
+dir 8r5-1.0.r1570/180049
+K 3
+w3c
+V 23
+dir 92m-1.0.r1/30721622
+END
+ENDREP
+id: 3fm-1.0-1620.r1631/9014
+type: dir
+pred: 3fm-1.0-1582.r1594/6306
+count: 50
+text: 1631 7663 1338 1338 b1dae3987f79f3015ca466e6f03ca2f7
+cpath: /branches/summer_2017_general/public
+copyroot: 1620 /branches/summer_2017_general
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 26
+dir 9-1.0-1620.r1630/14150
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 28
+dir 24j-1.0-1582.r1616/11812
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 29
+dir 2dg-1.0-1582.r1612/104632
+K 3
+doc
+V 23
+dir 365-1.0.r989/173634
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 27
+dir 36j-1.0-1620.r1626/3404
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 27
+dir 3fm-1.0-1620.r1631/9014
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 29
+dir 92z-1.0-1582.r1603/122733
+K 4
+spec
+V 24
+dir 9k8-1.0.r1573/132809
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 26
+dir 2-495.1-626.r674/14108
+K 6
+vendor
+V 24
+dir 9wa-1.0.r1318/125803
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 2218
+/branches/PA-217:1628-1629
+/branches/ae_development:33-40
+/branches/dev:13,15-18,24-27,30,32,47-48,50-51,53,57,67-68,73-74,80-92,96,104-116,119,122,124-128,130-136,147,149,153-158,160,162-164,170-174,177-178,182-183,186-187,190-191,193-195,198-199,201,203-205,216-217,220,223-225,228,232-233,236-237,250,252-253,255-256,263-270,272,284,298-304,306-327,329-332,341-349,360,365-366,393,395-397,402,406,414,421,429-430,433-434,440-446,486,488-489,491-507,509-511,514-520,522-531,534-536,539,546-560,562-568,576-590,595-597,600,602,608-610,612-619,622-624,629,643-647,661-662,667-672,682-685,700-705,709-743,745-767,769,812-813,818,827-828,830-833,836-838,840-842,844,851,853,871,875-877,882,936-937,958,965,976-980,985-986,990,1010,1014-1016,1018-1019,1022-1023,1026,1030,1036,1039,1046,1048,1053-1058,1071,1091-1092,1096-1098,1103-1104,1108,1111-1112,1122-1123,1171,1173,1180,1190,1202,1209,1229-1231,1235,1237-1238,1240-1241,1253,1255-1257,1275,1408-1410,1424,1435,1437,1440,1453-1455,1465-1469,1471-1472,1474,1479,1496-1497,1501,1504-1512,1516-1517,1521-1523,1525-1531,1534,1537-1538,1540,1550,1553-1555,1558-1559,1561-1562
+/branches/erfa:1536-1556
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659,675-678,686,688,690-697,768,770-771,780-793,795-797,801,808,814-817,819,821-823,847,860-863,872,879-881,884-885,897-913,916-917,923,928-932,935,938-947,949-951,953,956-957,962,981,987,1007,1064,1099,1109-1110,1113-1117,1119,1139,1155-1156,1158,1165-1169,1172,1174-1177,1185,1187,1192,1195,1201,1204,1226,1239,1245,1260,1281-1282,1285,1287,1290,1307,1361,1366,1370,1374-1378,1389,1391-1393,1395-1402,1411-1412,1444-1473,1485,1490
+/branches/se_dev_patches:887-889,894
+/branches/ui_facelift:1533-1567
+/trunk:1583,1585,1587,1589,1591,1593,1595,1597-1598,1600,1602,1605,1610-1611,1615,1619
+END
+ENDREP
+id: 0-1.0-1620.r1631/12676
+type: dir
+pred: 0-1.0-1620.r1630/17801
+count: 255
+text: 1631 9241 1160 1160 b8017999dab69cffed95a2f538eb0015
+props: 1631 10414 2249 0 cf69d8805a3e60bdd51cef7f8037630c
+cpath: /branches/summer_2017_general
+copyroot: 1620 /branches/summer_2017_general
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 6
+PA-217
+V 26
+dir 0-1.0-1618.r1629/11165
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 25
+dir 0-1.0-12.r1601/100940
+K 4
+erfa
+V 25
+dir 0-1.0-1535.r1556/6924
+K 2
+qa
+V 27
+dir 0-1.0-1514.r1515/108927
+K 6
+se_dev
+V 25
+dir 0-1.0-23.r1574/324020
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+K 19
+summer_2017_general
+V 26
+dir 0-1.0-1620.r1631/12676
+K 11
+ui_facelift
+V 25
+dir 0-1.0-1532.r1568/8417
+END
+ENDREP
+id: 0-11.0.r1631/13504
+type: dir
+pred: 0-11.0.r1630/18629
+count: 1269
+text: 1631 12980 511 511 7b547d71fb9dee14bddd2a61b44159e8
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 10
+
+PLAIN
+K 8
+branches
+V 22
+dir 0-11.0.r1631/13504
+K 17
+summer2017_qatags
+V 23
+dir 0-1625.0.r1625/2475
+K 4
+tags
+V 20
+dir 0-7.0.r1627/6180
+K 5
+trunk
+V 20
+dir 0-1.0.r1619/4683
+END
+ENDREP
+id: 0.0.r1631/13859
+type: dir
+pred: 0.0.r1630/18984
+count: 1631
+text: 1631 13678 168 168 6d7e45fb67ff2a1cf9f7dd6e061888f0
+cpath: /
+copyroot: 0 /
+minfo-cnt: 85
+
+0-1.0-1620.t1630-1a8 modify-dir false true /branches/summer_2017_general
+
+8-288._1.t1630-1a8 modify-file true false /branches/summer_2017_general/public/javascripts/pramata/navigator/key_term/contract_detail.js
+
+d-780._0.t1630-1a8 modify-file true false /branches/summer_2017_general/public/javascripts/pramata/navigator/reporting/citation_tooltip.js
+
+
+13859 14019

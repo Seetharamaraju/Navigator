@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-16T09:00:04.761136Z
+K 7
+svn:log
+V 81
+#31689 Comments: Fixed the File permission issue for file replace for SFTP intake
+END

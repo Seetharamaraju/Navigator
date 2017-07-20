@@ -1,0 +1,185 @@
+id: 4-495.2-626.r663/0
+type: file
+pred: 4-495.2-626.r626/60000
+count: 4
+text: 662 0 75514 370093 5e55ef02196d1012c146140da4f42dc4 719f59d6663e2098ea1d2e3ac78ec3ff6c239941 662-iw/_3
+cpath: /trunk/user_responsibility_document/customer_responsibility.pdf
+copyroot: 626 /trunk/user_responsibility_document/customer_responsibility.pdf
+
+PLAIN
+K 27
+customer_responsibility.pdf
+V 23
+file 4-495.2-626.r663/0
+END
+ENDREP
+id: 2-495.1-626.r663/410
+type: dir
+pred: 2-495.1-626.r626/60423
+count: 2
+text: 663 331 66 66 6843cbfefea684f7e1303db8f4298494
+cpath: /trunk/user_responsibility_document
+copyroot: 626 /trunk/user_responsibility_document
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 19
+dir 9-1.0.r656/8129
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 23
+dir 24j-1.0.r651/106958
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 23
+dir 2dg-1.0.r651/192529
+K 3
+doc
+V 23
+dir 365-1.0.r651/195269
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 21
+dir 36j-1.0.r660/4961
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 21
+dir 3fm-1.0.r658/7882
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 22
+dir 92z-1.0.r354/10427
+K 4
+spec
+V 23
+dir 9k8-1.0.r651/232208
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 24
+dir 2-495.1-626.r663/410
+K 6
+vendor
+V 23
+dir 9wa-1.0.r1/31080149
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 809
+/branches/ae_development:33-40
+/branches/dev:13,15-18,24-27,30,32,47-48,50-51,53,57,67-68,73-74,80-92,96,104-116,119,122,160,216-217,269-270,284,298-304,306-327,329-332,341-349,365-366,393,395-397,402,406,414,429-430,433-434,440-446,486,488,492-493,495,497-498,516,546,577,595-597,600,609-610,612,618-619,622-624,629,661-662
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659
+END
+ENDREP
+id: 0-1.0.r663/2614
+type: dir
+pred: 0-1.0.r660/7098
+count: 76
+text: 663 630 1119 1119 50e0a88731833cced3072d675f1b93c7
+props: 663 1762 839 0 410edcf3295b30180f40c30cbec8ef35
+cpath: /trunk
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 8
+branches
+V 21
+dir 0-11.0.r662/77785
+K 4
+tags
+V 19
+dir 0-7.0.r633/1980
+K 5
+trunk
+V 19
+dir 0-1.0.r663/2614
+END
+ENDREP
+id: 0.0.r663/2970
+type: dir
+pred: 0.0.r662/78081
+count: 663
+text: 663 2844 113 113 166357762b0d740471ade233cd7804e5
+cpath: /
+copyroot: 0 /
+minfo-cnt: 24
+
+0-1.0.t662-iw modify-dir false true /trunk
+
+4-495.2-626.t662-iw modify-file true false /trunk/user_responsibility_document/customer_responsibility.pdf
+
+
+2970 3124

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-07-12T15:03:57.631760Z
+K 7
+svn:log
+V 78
+#32288 : Add App configuration and sso configuration files for navigator demo.
+END

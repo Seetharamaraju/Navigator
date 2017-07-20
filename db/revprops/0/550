@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-31T13:02:19.253949Z
+K 7
+svn:log
+V 139
+#32288 Use Case:#33306 Comments:Disabled edit of role for sso user in the customer user management if Just In Time user creation is enabled
+END

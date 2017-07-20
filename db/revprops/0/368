@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-04T23:28:25.798801Z
+K 7
+svn:log
+V 85
+ #32856 comments: Added customer editable keyterms updation and handled data refresh 
+END

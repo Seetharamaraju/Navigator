@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+midhun
+K 8
+svn:date
+V 27
+2016-11-16T10:37:31.100803Z
+K 7
+svn:log
+V 64
+Modified reporting templates to handle data inconsistency issues
+END

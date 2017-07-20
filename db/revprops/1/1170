@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-21T10:05:06.430796Z
+K 7
+svn:log
+V 163
+#35403 Comments: Verifying the value is_alert_enabled of the conract before sending the alert. Also setting the alert inactive and  setting the send_email to false
+END

@@ -1,0 +1,1827 @@
+id: 24t-1.0-12.r1420/0
+type: file
+pred: 24t-1.0-12.r965/5051
+count: 3
+text: 483 798 86 3007 54e640e0c95c49c12797ff0a31aa23a5 3a2125b85b051c48b39d9e45c0013942d53a18c9 1419-14c/_g
+cpath: /branches/dev/config/appconfig.callaway.yml
+copyroot: 12 /branches/dev
+
+id: 24v-1.0-12.r1420/257
+type: file
+pred: 24v-1.0-12.r1317/75198
+count: 3
+text: 1413 221 23 2954 490680a6f16a794f5179521e8beea03b 0f7f37e6ab2ea348e222ed8b086663fbf5ca0c7a 1419-14c/_f
+cpath: /branches/dev/config/appconfig.cleanenergy.yml
+copyroot: 12 /branches/dev
+
+id: 24w-1.0-12.r1420/522
+type: file
+pred: 24w-1.0-12.r965/5567
+count: 5
+text: 1406 0 30 3463 89466b2964d7ed122990d241a1cd1b70 942bc9481e0fb65e7f144cf96fbf210d3d8688cb 1419-14c/_e
+cpath: /branches/dev/config/appconfig.comcast.yml
+copyroot: 12 /branches/dev
+
+id: 24z-1.0-12.r1420/779
+type: file
+pred: 24z-1.0-12.r1317/75464
+count: 11
+text: 1403 0 345 5646 0c42976eb5c35d4f7bb1376638b6fbbe b432e2530a7120a8bd1801320ae0fc15c0a27ae7 1419-14c/_6
+cpath: /branches/dev/config/appconfig.ctl.yml
+copyroot: 12 /branches/dev
+
+id: 255-1.0-12.r1420/1036
+type: file
+pred: 255-1.0-12.r965/6601
+count: 5
+text: 1413 0 19 2553 bc547b32a1a53c638f1beecfaf774896 aa972b5755710ce7db7c8b8f159c94994f8f5a67 1419-14c/_8
+cpath: /branches/dev/config/appconfig.demo.yml
+copyroot: 12 /branches/dev
+
+id: 257-1.0-12.r1420/1291
+type: file
+pred: 257-1.0-12.r965/6857
+count: 3
+text: 483 993 87 3218 de9ce8c13b49f67063a9d622d07ec639 386e94a4608c4c728664b446955b866f18868e74 1419-14c/_i
+cpath: /branches/dev/config/appconfig.edifecs.yml
+copyroot: 12 /branches/dev
+
+id: 259-1.0-12.r1420/1550
+type: file
+pred: 259-1.0-12.r965/7374
+count: 6
+text: 1406 55 89 3456 6f312438b8508cb10685ac5ce4e3ebd7 ac76775117861e11a513ea70b5ed4d8df6a08f0e 1419-14c/_h
+cpath: /branches/dev/config/appconfig.fic.yml
+copyroot: 12 /branches/dev
+
+id: 2-779.5-834.r1420/1805
+type: file
+pred: 2-779.5-834.r965/7628
+count: 4
+text: 1413 173 23 2949 9207758c3329b266c1b213d98718ff4c 921dfb9278eaef6608085d47e7c431badcb24e60 1419-14c/_p
+cpath: /branches/dev/config/appconfig.fidelity.yml
+copyroot: 834 /branches/dev/config/appconfig.fidelity.yml
+
+id: 25c-1.0-12.r1420/2099
+type: file
+pred: 25c-1.0-12.r965/7920
+count: 3
+text: 483 17591 81 3720 2e0d73d3b6f6d72657b4c487820c066c 2ad605a038ffae40c1c39d8d15de6e53d1dd2276 1419-14c/_n
+cpath: /branches/dev/config/appconfig.hp.yml
+copyroot: 12 /branches/dev
+
+id: 25f-1.0-12.r1420/2355
+type: file
+pred: 25f-1.0-12.r965/8174
+count: 4
+text: 606 1089 129 3070 8403582e09ef2e433df54aa3068121be 74d248bb43799fb7a8122e41b52e21ae01b93949 1419-14c/_d
+cpath: /branches/dev/config/appconfig.intelligrated.yml
+copyroot: 12 /branches/dev
+
+id: 25l-1.0-12.r1420/2622
+type: file
+pred: 25l-1.0-12.r965/8437
+count: 8
+text: 1406 172 20 3950 be585b9f0da042aae7e0fd321f2f94d6 1dd79e4c0d074ba6a55061695373bc6a0af93816 1419-14c/_5
+cpath: /branches/dev/config/appconfig.mckesson.yml
+copyroot: 12 /branches/dev
+
+id: 25o-1.0-12.r1420/2883
+type: file
+pred: 25o-1.0-12.r965/8950
+count: 3
+text: 483 20281 87 2974 8e8bd4735d3893c275f2bd906b2e2706 8223ff53fc77f278371645c8ddfdde82c6fdcf5f 1419-14c/_7
+cpath: /branches/dev/config/appconfig.medtronic.yml
+copyroot: 12 /branches/dev
+
+id: 2-1024.1-1037.r1420/3146
+type: file
+pred: 2-1024.1-1037.r1088/8493
+count: 3
+text: 1413 42 59 3150 30c13c59a2db16257d22a42f90c8bf9b 1e09da678e0c9f33e06de46a9f0bc24b3d01e31f 1419-14c/_j
+cpath: /branches/dev/config/appconfig.microsoft.yml
+copyroot: 1037 /branches/dev/config/appconfig.microsoft.yml
+
+id: 25s-1.0-12.r1420/3447
+type: file
+pred: 25s-1.0-12.r982/28240
+count: 5
+text: 927 0 60 3121 2a3f591d1ce553ad50de0750ca9e49e8 c768ce98a4a2b751c45fa2afab497c5adf6c1c3e 1419-14c/_4
+cpath: /branches/dev/config/appconfig.novelis.yml
+copyroot: 12 /branches/dev
+
+id: 250-1.1-1384.r1420/3705
+type: file
+pred: 250-1.1-1384.r1384/21947
+count: 6
+text: 1413 126 23 3079 7b1faaa4042616f1f1c4b1d782720370 106d49ec2f3664ce9eb7dd3462af7b2f9d7955b4 1419-14c/_b
+cpath: /branches/dev/config/appconfig.pramata.yml
+copyroot: 1384 /branches/dev/config/appconfig.pramata.yml
+
+id: 26c-1.0-12.r1420/4002
+type: file
+pred: 26c-1.0-12.r965/10492
+count: 7
+text: 1406 218 238 3392 930a08b29ceb0abf9f131a78bbade271 bce49350878d0905d0745614651bd947fdf58ae1 1419-14c/_c
+cpath: /branches/dev/config/appconfig.thomson.yml
+copyroot: 12 /branches/dev
+
+id: 26h-1.0-12.r1420/4264
+type: file
+pred: 26h-1.0-12.r965/11012
+count: 3
+text: 483 18155 65 3187 49eaa88e9bca4de71db353b26104ecb4 8021ec777470eef68ea1a195586700a227694164 1419-14c/_o
+cpath: /branches/dev/config/appconfig.valspar.yml
+copyroot: 12 /branches/dev
+
+PLAIN
+K 23
+alert_configuration.yml
+V 24
+file 24k-1.0.r1/27970547
+K 22
+appconfig.aberdeen.yml
+V 25
+file 24m-1.0-12.r965/4791
+K 22
+appconfig.actimize.yml
+V 26
+file 24n-1.0-12.r665/79298
+K 22
+appconfig.allergan.yml
+V 26
+file 24o-1.0-12.r665/79558
+K 20
+appconfig.apigee.yml
+V 26
+file 24p-1.0-12.r665/79818
+K 22
+appconfig.atricure.yml
+V 26
+file 24q-1.0-12.r665/80076
+K 19
+appconfig.avaya.yml
+V 26
+file 24r-1.0-12.r665/80335
+K 21
+appconfig.balance.yml
+V 26
+file 24s-1.0-12.r665/80592
+K 22
+appconfig.callaway.yml
+V 23
+file 24t-1.0-12.r1420/0
+K 19
+appconfig.cisco.yml
+V 25
+file 24u-1.0-12.r965/5311
+K 25
+appconfig.cleanenergy.yml
+V 25
+file 24v-1.0-12.r1420/257
+K 21
+appconfig.comcast.yml
+V 25
+file 24w-1.0-12.r1420/522
+K 23
+appconfig.contracts.yml
+V 25
+file 24x-1.0-12.r965/5825
+K 18
+appconfig.cpmc.yml
+V 26
+file 24y-1.0-12.r665/82152
+K 17
+appconfig.ctl.yml
+V 25
+file 24z-1.0-12.r1420/779
+K 23
+appconfig.datamodel.yml
+V 26
+file 251-1.0-12.r665/82923
+K 25
+appconfig.delivery.ci.yml
+V 26
+file 252-1.0-12.r665/83183
+K 18
+appconfig.dell.yml
+V 26
+file 253-1.0-12.r665/83446
+K 22
+appconfig.deloitte.yml
+V 26
+file 254-1.0-12.r665/83702
+K 18
+appconfig.demo.yml
+V 26
+file 255-1.0-12.r1420/1036
+K 30
+appconfig.duediligencedemo.yml
+V 26
+file 256-1.0-12.r665/84214
+K 21
+appconfig.edifecs.yml
+V 26
+file 257-1.0-12.r1420/1291
+K 20
+appconfig.embarq.yml
+V 25
+file 258-1.0-12.r965/7116
+K 17
+appconfig.fic.yml
+V 26
+file 259-1.0-12.r1420/1550
+K 22
+appconfig.fidelity.yml
+V 27
+file 2-779.5-834.r1420/1805
+K 27
+appconfig.financialdemo.yml
+V 26
+file 25a-1.0-12.r665/85254
+K 28
+appconfig.healthcaredemo.yml
+V 26
+file 25b-1.0-12.r665/85520
+K 16
+appconfig.hp.yml
+V 26
+file 25c-1.0-12.r1420/2099
+K 17
+appconfig.ibc.yml
+V 26
+file 25d-1.0-12.r665/86039
+K 22
+appconfig.indivior.yml
+V 26
+file 25e-1.0-12.r665/86295
+K 27
+appconfig.intelligrated.yml
+V 26
+file 25f-1.0-12.r1420/2355
+K 24
+appconfig.jackcooper.yml
+V 26
+file 25g-1.0-12.r665/86820
+K 17
+appconfig.jda.yml
+V 26
+file 25h-1.0-12.r665/87081
+K 17
+appconfig.jnj.yml
+V 26
+file 25i-1.0-12.r665/87337
+K 21
+appconfig.lockton.yml
+V 26
+file 25j-1.0-12.r665/87591
+K 31
+appconfig.manufacturingdemo.yml
+V 26
+file 25k-1.0-12.r665/87850
+K 22
+appconfig.mckesson.yml
+V 26
+file 25l-1.0-12.r1420/2622
+K 19
+appconfig.medco.yml
+V 25
+file 25m-1.0-12.r965/8696
+K 23
+appconfig.medcodemo.yml
+V 26
+file 25n-1.0-12.r665/88639
+K 23
+appconfig.medtronic.yml
+V 26
+file 25o-1.0-12.r1420/2883
+K 23
+appconfig.microsoft.yml
+V 29
+file 2-1024.1-1037.r1420/3146
+K 22
+appconfig.mischcon.yml
+V 26
+file 25p-1.0-12.r665/89162
+K 23
+appconfig.navigator.yml
+V 24
+file 3-126.0-12.r966/369
+K 17
+appconfig.ncr.yml
+V 27
+file 25q-1.0-12.r1384/21691
+K 21
+appconfig.ncrcert.yml
+V 30
+file 2-1184.0-1193.r1232/38281
+K 18
+appconfig.nike.yml
+V 26
+file 25r-1.0-12.r665/89676
+K 21
+appconfig.novelis.yml
+V 26
+file 25s-1.0-12.r1420/3447
+K 18
+appconfig.nybc.yml
+V 25
+file 25t-1.0-12.r965/9981
+K 24
+appconfig.perceptive.yml
+V 26
+file 25u-1.0-12.r665/90447
+K 20
+appconfig.pharma.yml
+V 26
+file 25v-1.0-12.r665/90709
+K 16
+appconfig.pm.yml
+V 26
+file 25w-1.0-12.r665/90967
+K 21
+appconfig.pramata.yml
+V 28
+file 250-1.1-1384.r1420/3705
+K 26
+appconfig.preferredone.yml
+V 26
+file 25x-1.0-12.r665/91221
+K 17
+appconfig.ptc.yml
+V 26
+file 25y-1.0-12.r665/91486
+K 19
+appconfig.qwest.yml
+V 26
+file 25z-1.0-12.r665/91742
+K 22
+appconfig.riverbed.yml
+V 26
+file 260-1.0-12.r665/91999
+K 18
+appconfig.sama.yml
+V 26
+file 261-1.0-12.r665/92257
+K 17
+appconfig.sap.yml
+V 26
+file 262-1.0-12.r665/92513
+K 17
+appconfig.se2.yml
+V 26
+file 263-1.0-12.r965/10237
+K 22
+appconfig.sepracor.yml
+V 26
+file 264-1.0-12.r665/93022
+K 20
+appconfig.softvu.yml
+V 26
+file 265-1.0-12.r665/93282
+K 26
+appconfig.softwaredemo.yml
+V 26
+file 266-1.0-12.r665/93540
+K 20
+appconfig.sprint.yml
+V 26
+file 267-1.0-12.r665/93805
+K 20
+appconfig.takeda.yml
+V 26
+file 268-1.0-12.r665/94064
+K 25
+appconfig.telecomdemo.yml
+V 26
+file 269-1.0-12.r665/94322
+K 22
+appconfig.teradata.yml
+V 26
+file 26a-1.0-12.r665/94585
+K 18
+appconfig.teva.yml
+V 26
+file 26b-1.0-12.r665/94845
+K 21
+appconfig.thomson.yml
+V 26
+file 26c-1.0-12.r1420/4002
+K 32
+appconfig.thomsonreutersdemo.yml
+V 26
+file 26d-1.0-12.r665/95363
+K 22
+appconfig.training.yml
+V 26
+file 26e-1.0-12.r965/10751
+K 22
+appconfig.trmarket.yml
+V 26
+file 26f-1.0-12.r665/95895
+K 17
+appconfig.tyr.yml
+V 26
+file 26g-1.0-12.r665/96156
+K 21
+appconfig.valspar.yml
+V 26
+file 26h-1.0-12.r1420/4264
+K 19
+appconfig.wpahs.yml
+V 26
+file 26i-1.0-12.r665/96670
+K 13
+appconfig.yml
+V 27
+file 26j-1.0-12.r1317/75724
+K 18
+appconfig.ynhh.yml
+V 26
+file 26k-1.0-12.r665/96928
+K 18
+appconfig.yume.yml
+V 26
+file 26l-1.0-12.r665/97184
+K 14
+application.rb
+V 24
+file 26m-1.0.r1/27985975
+K 18
+auto_amendment.yml
+V 24
+file 26n-1.0.r1/27986176
+K 19
+auto_extraction.yml
+V 24
+file 26o-1.0.r1/27986383
+K 7
+boot.rb
+V 24
+file 26p-1.0.r1/27986590
+K 12
+data_map.yml
+V 24
+file 26q-1.0.r1/27986787
+K 20
+database.core.ci.yml
+V 24
+file 26r-1.0.r1/27986988
+K 24
+database.delivery.ci.yml
+V 24
+file 26s-1.0.r1/27987198
+K 12
+database.yml
+V 25
+file 26t-1.0-12.r191/8919
+K 19
+dependent_terms.yml
+V 24
+file 26u-1.0.r1/27987611
+K 18
+document_audit.yml
+V 24
+file 26v-1.0.r1/27987818
+K 27
+document_intake_reports.yml
+V 24
+file 26w-1.0-12.r86/8241
+K 14
+environment.rb
+V 25
+file 26x-1.0-12.r1323/284
+K 12
+environments
+V 23
+dir 26y-1.0.r1/27989242
+K 27
+fic_lookup_table_intake.yml
+V 24
+file 273-1.0.r1/27989392
+K 20
+file_type_folder.yml
+V 24
+file 274-1.0.r1/27989608
+K 12
+initializers
+V 26
+dir 275-1.0-12.r1384/23006
+K 17
+intake.embarq.yml
+V 24
+file 27f-1.0.r1/27992170
+K 14
+intake.fic.yml
+V 24
+file 27g-1.0.r1/27992376
+K 10
+intake.yml
+V 24
+file 27h-1.0.r1/27992579
+K 27
+lifecycle_configuration.yml
+V 24
+file 27i-1.0.r1/27992778
+K 7
+locales
+V 26
+dir 27j-1.0-12.r1384/24779
+K 9
+log4r.yml
+V 25
+file 2a0-1.0-12.r397/9584
+K 25
+mail_fetcher.aberdeen.yml
+V 24
+file 2a1-1.0.r1/28009414
+K 25
+mail_fetcher.actimize.yml
+V 24
+file 2a2-1.0.r1/28009628
+K 25
+mail_fetcher.allergan.yml
+V 24
+file 2a3-1.0.r1/28009840
+K 23
+mail_fetcher.apigee.yml
+V 24
+file 2a4-1.0.r1/28010054
+K 25
+mail_fetcher.atricure.yml
+V 24
+file 2a5-1.0.r1/28010264
+K 22
+mail_fetcher.avaya.yml
+V 24
+file 2a6-1.0.r1/28010478
+K 24
+mail_fetcher.balance.yml
+V 24
+file 2a7-1.0.r1/28010689
+K 25
+mail_fetcher.callaway.yml
+V 24
+file 2a8-1.0.r1/28010901
+K 22
+mail_fetcher.cisco.yml
+V 24
+file 2a9-1.0.r1/28011115
+K 28
+mail_fetcher.cleanenergy.yml
+V 24
+file 2aa-1.0.r1/28011325
+K 24
+mail_fetcher.comcast.yml
+V 24
+file 2ab-1.0.r1/28011541
+K 26
+mail_fetcher.contracts.yml
+V 24
+file 2ac-1.0.r1/28011754
+K 21
+mail_fetcher.cpmc.yml
+V 24
+file 2ad-1.0.r1/28011967
+K 20
+mail_fetcher.ctl.yml
+V 24
+file 2ae-1.0.r1/28012177
+K 26
+mail_fetcher.datamodel.yml
+V 24
+file 2ag-1.0.r1/28012599
+K 21
+mail_fetcher.dell.yml
+V 24
+file 2ah-1.0.r1/28012813
+K 25
+mail_fetcher.deloitte.yml
+V 24
+file 2ai-1.0.r1/28013022
+K 21
+mail_fetcher.demo.yml
+V 24
+file 2aj-1.0.r1/28013236
+K 33
+mail_fetcher.duediligencedemo.yml
+V 24
+file 2ak-1.0.r1/28013446
+K 24
+mail_fetcher.edifecs.yml
+V 24
+file 2al-1.0.r1/28013667
+K 23
+mail_fetcher.embarq.yml
+V 24
+file 2am-1.0.r1/28013880
+K 20
+mail_fetcher.fic.yml
+V 24
+file 2an-1.0.r1/28014092
+K 25
+mail_fetcher.fidelity.yml
+V 27
+file 4-779.6-834.r834/65906
+K 31
+mail_fetcher.healthcaredemo.yml
+V 24
+file 2ao-1.0.r1/28014300
+K 19
+mail_fetcher.hp.yml
+V 24
+file 2ap-1.0.r1/28014520
+K 20
+mail_fetcher.ibc.yml
+V 24
+file 2aq-1.0.r1/28014728
+K 25
+mail_fetcher.indivior.yml
+V 24
+file 2ar-1.0.r1/28014937
+K 30
+mail_fetcher.intelligrated.yml
+V 24
+file 2as-1.0.r1/28015151
+K 27
+mail_fetcher.jackcooper.yml
+V 24
+file 2at-1.0.r1/28015370
+K 20
+mail_fetcher.jda.yml
+V 24
+file 2au-1.0.r1/28015585
+K 20
+mail_fetcher.jnj.yml
+V 24
+file 2av-1.0.r1/28015792
+K 24
+mail_fetcher.lockton.yml
+V 24
+file 2aw-1.0.r1/28016001
+K 25
+mail_fetcher.mckesson.yml
+V 24
+file 2ax-1.0.r1/28016214
+K 22
+mail_fetcher.medco.yml
+V 24
+file 2ay-1.0.r1/28016428
+K 26
+mail_fetcher.medcodemo.yml
+V 24
+file 2az-1.0.r1/28016638
+K 26
+mail_fetcher.medtronic.yml
+V 24
+file 2b0-1.0.r1/28016853
+K 26
+mail_fetcher.microsoft.yml
+V 30
+file 2-1025.2-1037.r1037/77853
+K 25
+mail_fetcher.mischcon.yml
+V 24
+file 2b1-1.0.r1/28017068
+K 20
+mail_fetcher.ncr.yml
+V 24
+file 2b2-1.0.r1/28017282
+K 21
+mail_fetcher.nike.yml
+V 24
+file 2b3-1.0.r1/28017491
+K 24
+mail_fetcher.novelis.yml
+V 24
+file 2b4-1.0.r1/28017701
+K 21
+mail_fetcher.nybc.yml
+V 24
+file 2b5-1.0.r1/28017913
+K 27
+mail_fetcher.perceptive.yml
+V 24
+file 2b6-1.0.r1/28018123
+K 23
+mail_fetcher.pharma.yml
+V 24
+file 2b7-1.0.r1/28018339
+K 19
+mail_fetcher.pm.yml
+V 24
+file 2b8-1.0.r1/28018550
+K 24
+mail_fetcher.pramata.yml
+V 29
+file 2af-1.2-1384.r1384/24976
+K 29
+mail_fetcher.preferredone.yml
+V 24
+file 2b9-1.0.r1/28018758
+K 20
+mail_fetcher.ptc.yml
+V 24
+file 2ba-1.0.r1/28018976
+K 22
+mail_fetcher.qwest.yml
+V 24
+file 2bb-1.0.r1/28019185
+K 25
+mail_fetcher.riverbed.yml
+V 24
+file 2bc-1.0.r1/28019395
+K 21
+mail_fetcher.sama.yml
+V 24
+file 2bd-1.0.r1/28019609
+K 20
+mail_fetcher.sap.yml
+V 24
+file 2be-1.0.r1/28019819
+K 25
+mail_fetcher.sepracor.yml
+V 24
+file 2bf-1.0.r1/28020028
+K 23
+mail_fetcher.softvu.yml
+V 24
+file 2bg-1.0.r1/28020241
+K 29
+mail_fetcher.softwaredemo.yml
+V 24
+file 2bh-1.0.r1/28020452
+K 23
+mail_fetcher.sprint.yml
+V 24
+file 2bi-1.0.r1/28020670
+K 23
+mail_fetcher.takeda.yml
+V 24
+file 2bj-1.0.r1/28020881
+K 28
+mail_fetcher.telecomdemo.yml
+V 24
+file 2bk-1.0.r1/28021092
+K 25
+mail_fetcher.teradata.yml
+V 24
+file 2bl-1.0.r1/28021308
+K 21
+mail_fetcher.teva.yml
+V 24
+file 2bm-1.0.r1/28021522
+K 24
+mail_fetcher.thomson.yml
+V 24
+file 2bn-1.0.r1/28021732
+K 25
+mail_fetcher.trmarket.yml
+V 24
+file 2bo-1.0.r1/28021944
+K 20
+mail_fetcher.tyr.yml
+V 24
+file 2bp-1.0.r1/28022157
+K 24
+mail_fetcher.valspar.yml
+V 24
+file 2bq-1.0.r1/28022365
+K 22
+mail_fetcher.wpahs.yml
+V 24
+file 2br-1.0.r1/28022577
+K 16
+mail_fetcher.yml
+V 24
+file 2bs-1.0.r1/28022788
+K 21
+mail_fetcher.ynhh.yml
+V 24
+file 2bt-1.0.r1/28022992
+K 21
+mail_fetcher.yume.yml
+V 24
+file 2bu-1.0.r1/28023202
+K 13
+microservices
+V 23
+dir 2bv-1.0.r1/28023977
+K 18
+ocr_controller.yml
+V 24
+file 2bz-1.0.r1/28024128
+K 9
+routes.rb
+V 27
+file 2c0-1.0-12.r1384/25269
+K 11
+sampler.yml
+V 24
+file 2c1-1.0.r1/28024534
+K 8
+services
+V 27
+dir a-768.7-834.r1384/30622
+K 16
+sfdc.comcast.yml
+V 25
+file 3-643.0-12.r1408/396
+K 12
+sfdc.ctl.yml
+V 23
+file 2c2-1.0-12.r1276/0
+K 11
+sfdc.hp.yml
+V 24
+file 2c3-1.0.r1/28024937
+K 20
+sfdc.hp_triggers.yml
+V 24
+file 2c4-1.0.r1/28025140
+K 17
+sfdc.mckesson.yml
+V 24
+file 2c5-1.0.r1/28025352
+K 12
+sfdc.se2.yml
+V 24
+file 2c6-1.0.r1/28025559
+K 21
+sfdc.truvenhealth.yml
+V 24
+file 2c7-1.0.r1/28025762
+K 21
+sfdc_consumer.ctl.yml
+V 24
+file 2c8-1.0.r1/28025974
+K 21
+sfdc_consumer.se2.yml
+V 24
+file 2c9-1.0.r1/28026185
+K 16
+sftp_details.yml
+V 24
+file 2ca-1.0.r1/28026393
+K 26
+special_conditions.ctl.yml
+V 24
+file 2cb-1.0.r1/28026595
+K 26
+special_conditions.se2.yml
+V 24
+file 2cc-1.0.r1/28026811
+K 3
+sso
+V 26
+dir 5-126.0-12.r1384/31307
+END
+ENDREP
+id: 24j-1.0-12.r1420/15241
+type: dir
+pred: 24j-1.0-12.r1408/11363
+count: 63
+text: 1420 4526 10702 10702 328a8078c69dfad531b3cabda2f8e68c
+cpath: /branches/dev/config
+copyroot: 12 /branches/dev
+
+id: 5-1375.1-1232.r1420/15434
+type: file
+pred: 5-1375.1-1232.r1375/946
+count: 1
+text: 1390 0 61 2218 fdb8c82fb53ab4956538ffa7757c46a0 ccbc0dbbe4f34842d1505fa82977f16e5af4841f 1419-14c/_m
+cpath: /branches/dev/script/ncr/others/activate_sso_to_bulk_users.rb
+copyroot: 1232 /branches/dev/script/ncr
+
+PLAIN
+K 29
+activate_sso_to_bulk_users.rb
+V 30
+file 5-1375.1-1232.r1420/15434
+END
+ENDREP
+id: a-1205.1-1232.r1420/15819
+type: dir
+pred: a-1205.1-1232.r1375/1298
+count: 2
+text: 1420 15731 75 75 b4e1349d1f8bbeb517186bc5dc117df5
+cpath: /branches/dev/script/ncr/others
+copyroot: 1232 /branches/dev/script/ncr
+
+PLAIN
+K 5
+daily
+V 29
+dir 6-1205.1-1232.r1253/32935
+K 6
+others
+V 29
+dir a-1205.1-1232.r1420/15819
+END
+ENDREP
+id: 5-1205.1-1232.r1420/16143
+type: dir
+pred: 5-1205.1-1232.r1375/1614
+count: 6
+text: 1420 16035 95 95 0163436b970eb9ba1c7735f6cc461e6f
+cpath: /branches/dev/script/ncr
+copyroot: 1232 /branches/dev/script/ncr
+
+id: 9ih-1.0-12.r1420/16352
+type: file
+pred: 9ih-1.0.r1/30854758
+count: 1
+text: 1414 0 1156 5381 d793d4182b6da979ede9c3061f373ff0 2387af6b4e4276aaeb48110156abe826d80f2eed 1419-14c/_a
+cpath: /branches/dev/script/session_cleanup
+copyroot: 12 /branches/dev
+
+PLAIN
+K 20
+13074_all_modules.rb
+V 24
+file 930-1.0.r1/30723338
+K 35
+24015_app_users_last_login_issue.rb
+V 24
+file 932-1.0.r1/30723547
+K 8
+8633.xls
+V 24
+file 933-1.0.r1/30723838
+K 14
+Clone_Contract
+V 24
+file 934-1.0.r1/30724094
+K 8
+actimize
+V 23
+dir 935-1.0.r1/30726058
+K 25
+add_deployment_details.rb
+V 24
+file 93e-1.0.r1/30726202
+K 15
+alert_engine.rb
+V 24
+file 93f-1.0.r1/30726415
+K 24
+audit_trail_migration.rb
+V 24
+file 93g-1.0.r1/30726620
+K 25
+auto_assignment_engine.rb
+V 24
+file 93h-1.0.r1/30726835
+K 36
+auto_extraction_monitoring_script.rb
+V 24
+file 93i-1.0.r1/30727050
+K 14
+background_job
+V 23
+dir 93j-1.0.r1/30727841
+K 26
+brakeman_summary_report.rb
+V 24
+file 93n-1.0.r1/30727993
+K 12
+breakpointer
+V 24
+file 93o-1.0.r1/30728210
+K 22
+bulk_api_query_test.rb
+V 24
+file 93p-1.0.r1/30728411
+K 8
+callaway
+V 23
+dir 93q-1.0.r1/30730557
+K 11
+centurylink
+V 23
+dir 941-1.0.r1/30731847
+K 27
+check_total_delayed_jobs.rb
+V 24
+file 948-1.0.r1/30731994
+K 34
+check_total_failed_delayed_jobs.rb
+V 24
+file 949-1.0.r1/30732211
+K 5
+cisco
+V 23
+dir 94a-1.0.r1/30732908
+K 35
+clean_contracts_simplerules_data.rb
+V 25
+file 94e-1.0-12.r1407/500
+K 43
+cleanup_docusign_contract_creation_issue.rb
+V 25
+file 94f-1.0-12.r75/10718
+K 9
+click.au3
+V 24
+file 94g-1.0.r1/30733508
+K 19
+code_improvement.rb
+V 24
+file 94h-1.0.r1/30733704
+K 7
+comcast
+V 23
+dir 94i-1.0.r1/30734936
+K 47
+company_group_contracts_and_account_mapping.csv
+V 24
+file 94q-1.0.r1/30735079
+K 13
+configuration
+V 26
+dir 94r-1.0-12.r1384/42990
+K 7
+console
+V 24
+file 94v-1.0.r1/30736110
+K 33
+contract_dummy_data_generation.rb
+V 24
+file 94w-1.0.r1/30736305
+K 28
+contract_term_soft_delete.rb
+V 24
+file 94x-1.0.r1/30736529
+K 29
+create_cache_for_reporting.rb
+V 24
+file 94y-1.0.r1/30736747
+K 27
+create_doc_server_config.rb
+V 24
+file 94z-1.0.r1/30736968
+K 18
+create_qa_users.rb
+V 24
+file 950-1.0.r1/30737183
+K 15
+create_roles.rb
+V 24
+file 951-1.0.r1/30737390
+K 39
+create_term_data_cache_for_snapshots.rb
+V 24
+file 952-1.0.r1/30737596
+K 3
+ctl
+V 23
+dir 953-1.0.r1/30756851
+K 34
+ctl_check_and_fix_intake_issues.rb
+V 24
+file 971-1.0.r1/30756992
+K 39
+ctl_download_pdf_from_doc_salesforce.rb
+V 24
+file 972-1.0.r1/30757216
+K 37
+ctl_exception_workflow_align_phase.rb
+V 24
+file 973-1.0.r1/30757446
+K 28
+ctl_mail_templates_config.rb
+V 24
+file 974-1.0.r1/30757673
+K 33
+ctl_sftp_download_pdf_from_doc.rb
+V 24
+file 975-1.0.r1/30757890
+K 37
+ctl_sftp_upload_doc_for_conversion.rb
+V 24
+file 976-1.0.r1/30758113
+K 37
+ctl_update_billing_account_mapping.rb
+V 24
+file 977-1.0.r1/30758341
+K 35
+ctl_update_deal_source_for_deals.rb
+V 24
+file 978-1.0.r1/30758568
+K 33
+ctl_word_to_pdf_ole_salesforce.rb
+V 24
+file 979-1.0.r1/30758793
+K 15
+ctl_wrod2pdf.rb
+V 24
+file 97a-1.0.r1/30759016
+K 9
+dbconsole
+V 24
+file 97b-1.0.r1/30759221
+K 29
+deactivate_non_active_user.rb
+V 27
+file 97c-1.0-12.r1251/35218
+K 11
+delayed_job
+V 24
+file 97d-1.0.r1/30759638
+K 41
+delayed_job_errors_notification_report.rb
+V 24
+file 97e-1.0.r1/30759838
+K 22
+delete_cloned_contract
+V 24
+file 97f-1.0.r1/30760070
+K 44
+delete_data_from_track_of_training_errors.rb
+V 24
+file 97g-1.0.r1/30760282
+K 32
+delete_duplicate_script_entry.rb
+V 24
+file 97h-1.0.r1/30760515
+K 25
+demo_session_cleanup.cron
+V 24
+file 97i-1.0.r1/30760737
+K 39
+derived_copy_to_child_fix_amendments.rb
+V 24
+file 97j-1.0.r1/30760949
+K 7
+destroy
+V 24
+file 97k-1.0.r1/30761178
+K 18
+drop_temp_table.rb
+V 24
+file 97l-1.0.r1/30761373
+K 18
+drop_term_cache.rb
+V 24
+file 97m-1.0.r1/30761580
+K 9
+dropdowns
+V 24
+file 97n-1.0.r1/30761787
+K 15
+email_engine.rb
+V 24
+file 97o-1.0.r1/30761984
+K 16
+email_fetcher.rb
+V 24
+file 97p-1.0.r1/30762189
+K 39
+enable_full_text_search_to_all_roles.rb
+V 22
+file 3-15.0-12.r18/362
+K 3
+esi
+V 23
+dir 97q-1.0.r1/30764039
+K 41
+export_app_settings_pre_db_restoration.rb
+V 24
+file 97z-1.0.r1/30764178
+K 10
+extraction
+V 24
+dir 980-1.0-12.r75/12446
+K 24
+fic_session_cleanup.cron
+V 24
+file 9bf-1.0.r1/30794542
+K 4
+fico
+V 23
+dir 9bg-1.0.r1/30797438
+K 21
+find_searchability.rb
+V 24
+file 9bs-1.0.r1/30797578
+K 22
+fts_indexing_engine.rb
+V 24
+file 9bt-1.0.r1/30797789
+K 8
+generate
+V 24
+file 9bu-1.0.r1/30798000
+K 7
+generic
+V 23
+dir 9bv-1.0.r1/30803793
+K 25
+get_fts_report_details.rb
+V 27
+file 3-1394.0-12.r1394/1129
+K 22
+get_ocr_stats_daily.rb
+V 24
+file 9ci-1.0.r1/30803936
+K 34
+get_pramata_active_user_details.rb
+V 24
+file 9cj-1.0.r1/30804147
+K 41
+get_pramata_active_users_with_comments.rb
+V 24
+file 9ck-1.0.r1/30804371
+K 29
+get_preprocess_information.rb
+V 25
+file g-34.6-52.r52/122429
+K 2
+hp
+V 23
+dir 9cl-1.0.r1/30805217
+K 42
+import_app_settings_post_db_restoration.rb
+V 24
+file 9cr-1.0.r1/30805355
+K 33
+index_documents_elastic_server.rb
+V 24
+file 9cs-1.0.r1/30805587
+K 22
+initialize_database.rb
+V 27
+file 9ct-1.0-12.r1267/26022
+K 25
+initialize_folder_info.rb
+V 23
+file 9cu-1.0-12.r68/112
+K 16
+intake_engine.rb
+V 24
+file 9cv-1.0.r1/30806239
+K 15
+intake_files.rb
+V 24
+file 9cw-1.0.r1/30806443
+K 13
+intelligrated
+V 23
+dir 9cx-1.0.r1/30807166
+K 16
+keyword_list.csv
+V 24
+file 9d2-1.0.r1/30807315
+K 7
+lockton
+V 23
+dir 9d3-1.0.r1/30808413
+K 15
+log_analyzer.rb
+V 24
+file 9d9-1.0.r1/30808556
+K 27
+mail_app_exception_stats.rb
+V 24
+file 9da-1.0.r1/30808761
+K 40
+map_is_ocred_flag_for_ocred_documents.rb
+V 23
+file 9db-1.0-12.r53/446
+K 8
+mckesson
+V 23
+dir 9dc-1.0.r1/30811191
+K 80
+migrate_text_availability_data_from_upload_file_preprocessees_to_upload_files.rb
+V 24
+file 9do-1.0.r1/30811337
+K 59
+migrate_user_module_avilability_for_api_navigator_upload.rb
+V 24
+file 9dp-1.0.r1/30811606
+K 15
+migrate_yaml.rb
+V 24
+file 9dq-1.0.r1/30811854
+K 26
+move_to_split_po_status.rb
+V 24
+file 9dr-1.0.r1/30812060
+K 17
+mysecondscript.rb
+V 24
+file 9ds-1.0.r1/30812276
+K 3
+ncr
+V 29
+dir 5-1205.1-1232.r1420/16143
+K 31
+new_user_mgmt_password_aging.rb
+V 24
+file 9dt-1.0.r1/30812481
+K 7
+novelis
+V 23
+dir 9du-1.0.r1/30816337
+K 4
+nybc
+V 23
+dir 9e9-1.0.r1/30819809
+K 6
+ocr.sh
+V 24
+file 9en-1.0.r1/30819949
+K 26
+ocr_analysis_sprint2.03.rb
+V 24
+file 9eo-1.0.r1/30820143
+K 17
+ocr_ee_manager.rb
+V 24
+file 9ep-1.0.r1/30820359
+K 19
+ocr_quality_scripts
+V 24
+dir 3-121.0-12.r121/5202
+K 12
+olderscripts
+V 23
+dir 9eq-1.0.r1/30831174
+K 18
+omniproc_close.au3
+V 24
+file 9fs-1.0.r1/30831392
+K 19
+omniproc_config.yml
+V 24
+file 9ft-1.0.r1/30831653
+K 18
+omniproc_start.au3
+V 24
+file 9fu-1.0.r1/30831926
+K 10
+pdf2tif.sh
+V 24
+file 9fv-1.0.r1/30832190
+K 11
+performance
+V 23
+dir 9fw-1.0.r1/30832916
+K 35
+piwik_vs_server_vs_client_report.rb
+V 24
+file 9g0-1.0.r1/30833063
+K 6
+plugin
+V 24
+file 9g1-1.0.r1/30833287
+K 33
+pramata_number_account_mapping.rb
+V 24
+file 9g2-1.0.r1/30833481
+K 27
+pramata_number_migration.rb
+V 24
+file 9g3-1.0.r1/30833705
+K 7
+process
+V 23
+dir 9g4-1.0.r1/30834427
+K 3
+ptc
+V 23
+dir 9g8-1.0.r1/30835093
+K 23
+qlikview_star_schema.rb
+V 24
+file 9gd-1.0.r1/30835232
+K 7
+queries
+V 23
+dir 9ge-1.0.r1/30836003
+K 19
+release_date_fix.rb
+V 24
+file 9gi-1.0.r1/30836148
+K 22
+report_alert_engine.rb
+V 24
+file 9gj-1.0.r1/30836356
+K 52
+report_criteria_selection_performance_measurement.rb
+V 24
+file 9gk-1.0.r1/30836567
+K 44
+report_generation_performance_measurement.rb
+V 24
+file 9gl-1.0.r1/30836810
+K 39
+run_tests_for_salesforce_pramata_job.rb
+V 24
+file 9gm-1.0.r1/30837044
+K 6
+runner
+V 24
+file 9gn-1.0.r1/30837273
+K 10
+salesforce
+V 23
+dir 9go-1.0.r1/30853792
+K 13
+script_lib.rb
+V 24
+file 9id-1.0.r1/30853940
+K 21
+script_lib_updated.rb
+V 24
+file 9ie-1.0.r1/30854144
+K 20
+seed_data_test_db.rb
+V 24
+file 9if-1.0.r1/30854354
+K 6
+server
+V 24
+file 9ig-1.0.r1/30854565
+K 15
+session_cleanup
+V 27
+file 9ih-1.0-12.r1420/16352
+K 18
+session_cleanup.sh
+V 24
+file 9ii-1.0.r1/30854963
+K 28
+sfdc_fix_ink2paper_issue2.rb
+V 24
+file 9ij-1.0.r1/30855169
+K 31
+sftp_bulk_download_ocr_files.rb
+V 24
+file 9ik-1.0.r1/30855387
+K 26
+sftp_download_ocr_files.rb
+V 24
+file 9il-1.0.r1/30855607
+K 29
+sftp_download_pdf_from_doc.rb
+V 24
+file 9im-1.0.r1/30855822
+K 33
+sftp_upload_doc_for_conversion.rb
+V 24
+file 9in-1.0.r1/30856041
+K 32
+sftp_upload_pdf_files_for_ocr.rb
+V 24
+file 9io-1.0.r1/30856265
+K 47
+sftp_upload_pdf_files_for_ocr_by_pramata_num.rb
+V 24
+file 9ip-1.0.r1/30856487
+K 27
+snapshot_dynamic_quaters.rb
+V 24
+file 9iq-1.0.r1/30856724
+K 4
+spec
+V 24
+file 9ir-1.0.r1/30856941
+K 23
+split_file_ocr_check.rb
+V 24
+file 9is-1.0.r1/30857133
+K 21
+start_alert_engine.sh
+V 24
+file 9it-1.0.r1/30857345
+K 22
+start_email_fetcher.sh
+V 24
+file 9iu-1.0.r1/30857555
+K 20
+stop_alert_engine.sh
+V 24
+file 9iv-1.0.r1/30857765
+K 19
+stop_delayed_job.sh
+V 22
+file 3-82.0-12.r92/207
+K 21
+stop_email_fetcher.sh
+V 24
+file 9iw-1.0.r1/30857973
+K 8
+sunovion
+V 23
+dir 9ix-1.0.r1/30860213
+K 40
+test_salesforce_pramata_field_mapping.rb
+V 24
+file 9j7-1.0.r1/30860357
+K 23
+test_salesforce_sync.rb
+V 24
+file 9j8-1.0.r1/30860589
+K 27
+test_snapshot_processing.rb
+V 24
+file 9j9-1.0.r1/30860803
+K 27
+thomson_security_updated.rb
+V 24
+file 9ja-1.0.r1/30861021
+K 11
+tiff2pdf.sh
+V 24
+file 9jb-1.0.r1/30861239
+K 41
+transition_customer_users_to_sso_users.rb
+V 27
+file 3-529.0-12.r1251/35484
+K 18
+truncate_tables.rb
+V 24
+file 9jc-1.0.r1/30861439
+K 12
+truvenhealth
+V 23
+dir 9jd-1.0.r1/30864665
+K 32
+update_cmtt_and_cmde_api_name.rb
+V 24
+file 3-284.0-12.r284/516
+K 23
+updating_our_company.rb
+V 24
+file 9jq-1.0.r1/30864815
+K 22
+upload_alert_script.rb
+V 24
+file 9jr-1.0.r1/30865028
+K 31
+upload_help_text_app_setting.rb
+V 24
+file 9js-1.0.r1/30865241
+K 30
+users_document_list_columns.rb
+V 24
+file 3-850.0-12.r850/876
+K 7
+valspar
+V 23
+dir 9jt-1.0.r1/30866899
+K 28
+valspar_session_cleanup.cron
+V 24
+file 9k1-1.0.r1/30867044
+K 5
+wpahs
+V 23
+dir 9k2-1.0.r1/30868075
+END
+ENDREP
+id: 92z-1.0-12.r1420/25987
+type: dir
+pred: 92z-1.0-12.r1407/10149
+count: 39
+text: 1420 16606 9368 9368 eaefab3c7b8c67dce9d16a4ba436cdfb
+cpath: /branches/dev/script
+copyroot: 12 /branches/dev
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 23
+dir 9-1.0-12.r1417/7160
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 26
+dir 24j-1.0-12.r1420/15241
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 26
+dir 2dg-1.0-12.r1306/87982
+K 3
+doc
+V 27
+dir 365-1.0-12.r1037/180838
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 25
+dir 36j-1.0-12.r1359/4165
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 27
+dir 3fm-1.0-12.r1317/135293
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 26
+dir 92z-1.0-12.r1420/25987
+K 4
+spec
+V 27
+dir 9k8-1.0-12.r1317/140384
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 23
+dir 2-495.0-12.r672/563
+K 6
+vendor
+V 24
+dir 9wa-1.0-12.r844/2822
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 1273
+/branches/ae_development:33-40
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659,675-678,686,688,690-697,768,770-771,780-793,795-797,801,808,814-817,819,821-823,847,860-863,872,879-881,884-885,897-913,916-917,923,928-932,935,938-947,949-951,953,956-957,962,981,987,1007,1064,1099,1109-1110,1113-1117,1119,1139,1155-1156,1158,1165-1169,1172,1174-1177,1185,1187,1192,1195,1201,1204,1226,1239,1245,1260,1281-1282,1285,1287,1290,1307,1361,1366,1370
+/branches/se_dev_patches:887-889,894
+/trunk:41-46,56,59,62,69,71-72,84-93,99-102,278-297,336-339,354-408,417-419,454-468,508-513,603-605,651-660,666,670-671,679-680,687,689,691,698,779-824,843,845-846,849,856-857,864,890-927,989-1032,1042-1060,1063-1068,1093-1094,1118-1120,1153-1162,1184,1186,1188-1189,1191,1196,1198,1205-1208,1216-1217,1227-1228,1234,1246,1283,1295-1316,1319-1371,1390-1414
+END
+ENDREP
+id: 0-1.0-12.r1420/28660
+type: dir
+pred: 0-1.0-12.r1419/1307
+count: 704
+text: 1420 26179 1151 1151 41b720228ca48980ce5e01b753c2a0c6
+props: 1420 27343 1304 0 b311767e6b1f149d9db6cd91d87c2f03
+cpath: /branches/dev
+copyroot: 12 /branches/dev
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 24
+dir 0-1.0-12.r1420/28660
+K 6
+se_dev
+V 23
+dir 0-1.0-23.r1412/9923
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+END
+ENDREP
+id: 0-11.0.r1420/29219
+type: dir
+pred: 0-11.0.r1419/1859
+count: 1143
+text: 1420 28926 280 280 df27a688c25b5b129b7dfe8dd591b45d
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 5
+
+PLAIN
+K 8
+branches
+V 22
+dir 0-11.0.r1420/29219
+K 4
+tags
+V 20
+dir 0-7.0.r1415/5085
+K 5
+trunk
+V 21
+dir 0-1.0.r1414/11884
+END
+ENDREP
+id: 0.0.r1420/29521
+type: dir
+pred: 0.0.r1419/2158
+count: 1420
+text: 1420 29391 117 117 b5ce1d9266b00039c43fe6f31794472b
+cpath: /
+copyroot: 0 /
+minfo-cnt: 64
+
+0-1.0-12.t1419-14c modify-dir false true /branches/dev
+
+24t-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.callaway.yml
+
+24v-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.cleanenergy.yml
+
+24w-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.comcast.yml
+
+24z-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.ctl.yml
+
+255-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.demo.yml
+
+257-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.edifecs.yml
+
+259-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.fic.yml
+
+2-779.5-834.t1419-14c modify-file true false /branches/dev/config/appconfig.fidelity.yml
+
+25c-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.hp.yml
+
+25f-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.intelligrated.yml
+
+25l-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.mckesson.yml
+
+25o-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.medtronic.yml
+
+2-1024.1-1037.t1419-14c modify-file true false /branches/dev/config/appconfig.microsoft.yml
+
+25s-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.novelis.yml
+
+250-1.1-1384.t1419-14c modify-file true false /branches/dev/config/appconfig.pramata.yml
+
+26c-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.thomson.yml
+
+26h-1.0-12.t1419-14c modify-file true false /branches/dev/config/appconfig.valspar.yml
+
+5-1375.1-1232.t1419-14c modify-file true false /branches/dev/script/ncr/others/activate_sso_to_bulk_users.rb
+
+9ih-1.0-12.t1419-14c modify-file true false /branches/dev/script/session_cleanup
+
+
+29521 29680

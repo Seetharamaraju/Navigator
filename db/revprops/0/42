@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+pradeep
+K 8
+svn:date
+V 27
+2016-06-10T13:47:15.260478Z
+K 7
+svn:log
+V 69
+Iteration #2.06:: BUG #31628:: Data is extracted twice
+This is fixed.
+END

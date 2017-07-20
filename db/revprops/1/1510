@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-03-23T08:59:01.391729Z
+K 7
+svn:log
+V 92
+#JIRA:PCP-83 (FTS) comments: Export the FTS report by getting the fts result batch by batch.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-07-26T16:13:42.690488Z
+K 7
+svn:log
+V 100
+#32288 comments: Check sso enable or not before initiating saml request and consume saml response.  
+END

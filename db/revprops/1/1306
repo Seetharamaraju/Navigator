@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-11T06:30:02.470224Z
+K 7
+svn:log
+V 101
+#35419 Comments:Added a unique key constraint on contract_id filed of the contracts_simplerules table
+END

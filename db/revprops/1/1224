@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-30T12:20:03.281951Z
+K 7
+svn:log
+V 91
+#35612 comment: Fix 1 Attribute Restriction by adding name, description in attr_accessible 
+END

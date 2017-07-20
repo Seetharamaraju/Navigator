@@ -1,0 +1,18 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2017-01-18T07:06:22.663362Z
+K 7
+svn:log
+V 223
+Merged revision(s) 1369, 1373 from trunk:
+comments: Add SFTP configuration for NCR production to deactivate Users.
+........
+comments: Updated configuration for Customers instance (Change from customer to Pramata).
+........
+
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-10T08:56:22.185666Z
+K 7
+svn:log
+V 101
+#33738 comments : Fix 5 file access issue by commenting all action of the contract_intake_controller.
+END

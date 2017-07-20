@@ -1,0 +1,539 @@
+id: b-262.e-405.r849/0
+type: file
+pred: b-262.e-405.r798/158995
+count: 7
+text: 847 0 390 15494 9350ccc3754909ff62c40f0776e95346 830431923203804a97910941e6532be2557a3208 848-o3/_5
+cpath: /trunk/lib/pramata/api/contract_util.rb
+copyroot: 405 /trunk/lib/pramata/api/contract_util.rb
+
+PLAIN
+K 16
+contract_util.rb
+V 23
+file b-262.e-405.r849/0
+K 18
+data_extraction.rb
+V 24
+file 3bo-1.0.r1/28409550
+END
+ENDREP
+id: 3bn-1.0.r849/403
+type: dir
+pred: 3bn-1.0.r798/159404
+count: 7
+text: 849 281 109 109 ee8058a198ce0c6f0f6b5eff5350d493
+cpath: /trunk/lib/pramata/api
+copyroot: 0 /
+
+PLAIN
+K 9
+amendment
+V 23
+dir 3bb-1.0.r1/28409398
+K 3
+api
+V 20
+dir 3bn-1.0.r849/403
+K 8
+cache.rb
+V 24
+file 3bq-1.0.r1/28409982
+K 5
+clone
+V 23
+dir 3br-1.0.r1/28410464
+K 20
+condition_evaluation
+V 23
+dir 3bu-1.0.r1/28411723
+K 8
+data_map
+V 23
+dir 3c0-1.0.r1/28412152
+K 18
+data_normalization
+V 23
+dir 3c3-1.0.r1/28412592
+K 10
+derivation
+V 23
+dir 3c6-1.0.r1/28417585
+K 18
+document_family.rb
+V 22
+file 3cr-1.0.r372/9639
+K 12
+exception.rb
+V 24
+file 3cs-1.0.r1/28417953
+K 18
+extraction_date.rb
+V 24
+file 3ct-1.0.r1/28418160
+K 16
+file_download.rb
+V 24
+file 3cu-1.0.r1/28418372
+K 16
+get_file_info.rb
+V 24
+file 3cv-1.0.r1/28418582
+K 9
+lifecycle
+V 23
+dir 3cw-1.0.r1/28419067
+K 12
+lifecycle.rb
+V 24
+file 3cz-1.0.r1/28419217
+K 14
+load_config.rb
+V 24
+file 3d0-1.0.r1/28419424
+K 20
+md5_key_generator.rb
+V 24
+file 3d1-1.0.r1/28419633
+K 8
+mysql.rb
+V 27
+file 4-22.6-278.r278/167256
+K 18
+reporting_cache.rb
+V 24
+file 3d2-1.0.r1/28419847
+K 19
+salesforce_cache.rb
+V 24
+file 3d3-1.0.r1/28420059
+K 31
+salesforce_session_key_cache.rb
+V 24
+file 3d4-1.0.r1/28420273
+K 24
+salesforce_soql_cache.rb
+V 24
+file 3d5-1.0.r1/28420497
+K 38
+salesforce_special_conditions_cache.rb
+V 24
+file 3d6-1.0.r1/28420715
+END
+ENDREP
+id: 3ba-1.0.r849/1751
+type: dir
+pred: 3ba-1.0.r798/160758
+count: 12
+text: 849 569 1169 1169 97dafeb23e473996b4a8b7e1f9e8963c
+cpath: /trunk/lib/pramata
+copyroot: 0 /
+
+PLAIN
+K 12
+TruvenHealth
+V 23
+dir 36k-1.0.r1/28375412
+K 4
+acts
+V 23
+dir 36p-1.0.r1/28375818
+K 9
+api_files
+V 23
+dir 36s-1.0.r1/28379280
+K 14
+api_request.rb
+V 24
+file 376-1.0.r1/28379424
+K 32
+auto_extraction_configuration.rb
+V 24
+file 377-1.0.r1/28379626
+K 35
+auto_extraction_response_handler.rb
+V 24
+file 378-1.0.r1/28379845
+K 24
+auto_extraction_utils.rb
+V 24
+file 379-1.0.r1/28380069
+K 15
+backend_jobs.rb
+V 24
+file 37a-1.0.r1/28380281
+K 14
+background_job
+V 23
+dir 37b-1.0.r1/28381146
+K 15
+common_utils.rb
+V 24
+file 37g-1.0.r1/28381295
+K 19
+contract_actions.rb
+V 24
+file 37h-1.0.r1/28381496
+K 26
+contract_family_builder.rb
+V 24
+file 37i-1.0.r1/28381703
+K 17
+contract_files.rb
+V 24
+file 37j-1.0.r1/28381918
+K 3
+ctl
+V 23
+dir 37k-1.0.r1/28382861
+K 13
+custom_events
+V 21
+dir 37q-1.0.r670/1088
+K 26
+custom_in_place_editing.rb
+V 24
+file 38j-1.0.r1/28388096
+K 14
+data_cipher.rb
+V 24
+file 38k-1.0.r1/28388308
+K 18
+data_extraction.rb
+V 24
+file 38l-1.0.r1/28388506
+K 17
+database_utils.rb
+V 24
+file 38m-1.0.r1/28388707
+K 13
+date_utils.rb
+V 24
+file 38n-1.0.r1/28388909
+K 18
+document_import.rb
+V 24
+file 38o-1.0.r1/28389107
+K 27
+elastic_search_utilities.rb
+V 24
+file 38p-1.0.r1/28389314
+K 21
+expression_evaluation
+V 23
+dir 38q-1.0.r1/28391747
+K 19
+filter_contracts.rb
+V 24
+file 390-1.0.r1/28391903
+K 12
+fts_index.rb
+V 24
+file 391-1.0.r1/28392111
+K 12
+fusioncharts
+V 23
+dir 392-1.0.r1/28395012
+K 22
+fusioncharts_helper.rb
+V 24
+file 39f-1.0.r1/28395157
+K 10
+generators
+V 23
+dir 39g-1.0.r1/28396417
+K 33
+generic_platform_configuration.rb
+V 24
+file 39o-1.0.r1/28396560
+K 2
+hp
+V 23
+dir 39p-1.0.r1/28397515
+K 14
+html_format.rb
+V 24
+file 39v-1.0.r1/28397650
+K 9
+intake.rb
+V 23
+file 39w-1.0.r707/43732
+K 21
+intake_post_processes
+V 23
+dir 39x-1.0.r1/28398921
+K 11
+integration
+V 23
+dir 3a2-1.0.r1/28400393
+K 14
+levenshtein.rb
+V 24
+file 3aa-1.0.r1/28400537
+K 7
+locales
+V 23
+dir 3ab-1.0.r1/28405917
+K 15
+mass_actions.rb
+V 24
+file 3b5-1.0.r1/28406059
+K 24
+ocr_controller_server.rb
+V 23
+file 3b6-1.0.r41/116164
+K 13
+parse_html.rb
+V 24
+file 3b7-1.0.r1/28406475
+K 16
+pdf_convertor.rb
+V 24
+file 3b8-1.0.r1/28406674
+K 12
+pdf_utils.rb
+V 24
+file 3b9-1.0.r1/28406877
+K 7
+pramata
+V 21
+dir 3ba-1.0.r849/1751
+K 21
+pramata_cas_filter.rb
+V 24
+file 3d7-1.0.r1/28422232
+K 22
+process_novelis_xml.rb
+V 24
+file 3d8-1.0.r1/28422441
+K 18
+remote_download.rb
+V 24
+file 3d9-1.0.r1/28422652
+K 16
+remote_intake.rb
+V 24
+file 3da-1.0.r1/28422855
+K 16
+report_export.rb
+V 23
+file 3db-1.0.r835/33230
+K 16
+require_files.rb
+V 24
+file 3dc-1.0.r1/28423262
+K 10
+salesforce
+V 23
+dir 3dd-1.0.r1/28425569
+K 13
+salesforce.rb
+V 24
+file 3dp-1.0.r1/28425714
+K 10
+sampler.rb
+V 24
+file 3dq-1.0.r1/28425916
+K 3
+se2
+V 23
+dir 3dr-1.0.r1/28426853
+K 26
+search_indexed_document.rb
+V 23
+file 3dx-1.0.r161/17571
+K 27
+secondary_authentication.rb
+V 24
+file 3dy-1.0.r1/28427202
+K 6
+sla.rb
+V 24
+file 3dz-1.0.r1/28427417
+K 5
+tasks
+V 23
+dir 3e0-1.0.r405/175725
+K 13
+term_cache.rb
+V 24
+file 3ez-1.0.r1/28436648
+K 29
+user_assignment_algorithms.rb
+V 24
+file 3f0-1.0.r1/28436847
+K 8
+yaml2csv
+V 23
+dir 3f1-1.0.r1/28440013
+END
+ENDREP
+id: 36j-1.0.r849/4959
+type: dir
+pred: 36j-1.0.r835/36499
+count: 25
+text: 849 1917 3029 3029 025e6a49c52ee96200e71fae75d69ad0
+cpath: /trunk/lib
+copyroot: 0 /
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 20
+dir 9-1.0.r843/23721
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 22
+dir 24j-1.0.r824/37413
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 23
+dir 2dg-1.0.r798/158835
+K 3
+doc
+V 23
+dir 365-1.0.r651/195269
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 21
+dir 36j-1.0.r849/4959
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 21
+dir 3fm-1.0.r846/7967
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 22
+dir 92z-1.0.r354/10427
+K 4
+spec
+V 22
+dir 9k8-1.0.r773/36625
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 26
+dir 2-495.1-626.r674/14108
+K 6
+vendor
+V 23
+dir 9wa-1.0.r1/31080149
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 985
+/branches/ae_development:33-40
+/branches/dev:13,15-18,24-27,30,32,47-48,50-51,53,57,67-68,73-74,80-92,96,104-116,119,122,160,216-217,269-270,284,298-304,306-327,329-332,341-349,365-366,393,395-397,402,406,414,429-430,433-434,440-446,486,488-489,491-507,509-511,514-518,526-527,539,546,577,579-590,595-597,600,609-610,612,618-619,622-624,629,643-647,661-662,667-672,682-685,700-703,705,709-743,745-767,769,818,827,833
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659,675-678,686,688,690-697,768,770-771,780-793,795-797,801,808,814-817,819,821-823,847
+END
+ENDREP
+id: 0-1.0.r849/7278
+type: dir
+pred: 0-1.0.r846/9261
+count: 105
+text: 849 5117 1120 1120 879b4f65b3e2796cada9c3dca9bc4624
+props: 849 6250 1015 0 8d2d054c03cf0270e881c3c5a1a019d6
+cpath: /trunk
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 8
+branches
+V 21
+dir 0-11.0.r848/47173
+K 4
+tags
+V 19
+dir 0-7.0.r839/2663
+K 5
+trunk
+V 19
+dir 0-1.0.r849/7278
+END
+ENDREP
+id: 0.0.r849/7637
+type: dir
+pred: 0.0.r848/47467
+count: 849
+text: 849 7511 113 113 d3780e3eb02156b43487839626db30a2
+cpath: /
+copyroot: 0 /
+minfo-cnt: 32
+
+0-1.0.t848-o3 modify-dir false true /trunk
+
+b-262.e-405.t848-o3 modify-file true false /trunk/lib/pramata/api/contract_util.rb
+
+
+7637 7791

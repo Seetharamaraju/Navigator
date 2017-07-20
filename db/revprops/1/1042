@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-22T11:17:39.673977Z
+K 7
+svn:log
+V 73
+#32288 comments : Add a uat configuration to read the sso configuration.
+
+END

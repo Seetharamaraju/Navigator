@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 7
+pradeep
+K 8
+svn:date
+V 27
+2016-06-20T06:54:46.314465Z
+K 7
+svn:log
+V 108
+Iteration #2.06:: BUG #31628:: Data is extracted twice
+Rollback it as by miss committed to NAV instead of DP
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-13T10:56:43.728609Z
+K 7
+svn:log
+V 82
+#35907 Comments: Fixed 4 SQL injection issue in total_report_alert_not_sent method
+END

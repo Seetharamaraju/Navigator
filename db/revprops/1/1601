@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2017-05-04T01:12:18.993733Z
+K 7
+svn:log
+V 66
+ Added all necessary fields and constraints for contract_statuses 
+END

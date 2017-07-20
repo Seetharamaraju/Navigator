@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-09-29T02:50:52.457895Z
+K 7
+svn:log
+V 109
+#33669 comments: Added the Base64 encoding and fixed the preview and pdf link for reporting and document list
+END

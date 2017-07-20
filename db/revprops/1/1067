@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-01T08:58:09.158276Z
+K 7
+svn:log
+V 99
+comments: Enable embed sign, authn requests signed attribute in saml request for digital signature.
+END

@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-10-20T14:42:27.923827Z
+K 7
+svn:log
+V 169
+Merged revision(s) 845 from trunk/public/javascripts/pramata/navigator/key_term/contract_detail.js:
+#34159 comments: Changing Company Group Name to Client Name
+........
+
+END

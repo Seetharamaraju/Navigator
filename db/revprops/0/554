@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-31T13:32:28.905058Z
+K 7
+svn:log
+V 83
+#32288 Use Case:#33306 Comments:Showing the is_sso_user info only if SSO is enabled
+END

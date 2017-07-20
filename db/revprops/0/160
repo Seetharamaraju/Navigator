@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-19T11:58:12.870528Z
+K 7
+svn:log
+V 167
+#32480 Comments: Bug Fix.Checking for the Po status type presence in the contract and then only pulling the name of the contract po status type oherwise showing blank.
+END

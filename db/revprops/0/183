@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-21T10:05:10.185671Z
+K 7
+svn:log
+V 166
+#32288 Comments:Accepting a parameter user_type in the URL to distinguishing a Pramata user from SSO user. Handled redirect URL after Logout for Pramata User as well.
+END

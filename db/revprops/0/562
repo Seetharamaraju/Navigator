@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-09-01T07:30:27.159600Z
+K 7
+svn:log
+V 118
+#32288 Use Case:#33306 Comments:Updating the role of the existing user only when Just in time user creation is enabled
+END

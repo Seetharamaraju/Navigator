@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-12T21:24:04.878771Z
+K 7
+svn:log
+V 65
+ #32697 comments: Uncommented get_file from contracts_controller 
+END

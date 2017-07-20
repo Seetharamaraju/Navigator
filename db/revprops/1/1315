@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2017-01-12T01:40:10.013019Z
+K 7
+svn:log
+V 151
+ Fixed the issue where on keyterms with more than 10 data pieces the See All link was showing customer editable terms along with particular terms data 
+END

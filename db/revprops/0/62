@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-06-15T07:30:19.687937Z
+K 7
+svn:log
+V 84
+comments : Fix mysql syntax error in sql statement(Need to be present on DP as well)
+END

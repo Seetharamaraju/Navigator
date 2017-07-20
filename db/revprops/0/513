@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-22T23:34:21.611277Z
+K 7
+svn:log
+V 234
+Merging revision 478 from navigator/branches/se_dev to navigator/trunk  
+SFDC>Consume SAML Bug>Analyze the debug information to identify the root cause comments: Moved the tracking session id to the first part of create_and_render_at 
+END

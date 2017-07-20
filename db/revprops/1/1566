@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-04-17T10:57:15.862999Z
+K 7
+svn:log
+V 97
+PA-135 Comments:Corrected the misalignment issue with the report criteria date field date-picker.
+END

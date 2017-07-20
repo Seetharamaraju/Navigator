@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-28T13:12:05.545103Z
+K 7
+svn:log
+V 231
+#34936 Comments: Removing the # $ ? & ^ ' characters from the blacklisted character set for the document title search for the Document List page. Including only *  % \ " < > character s to the blacklisted characters for the search.
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-01T09:27:59.647671Z
+K 7
+svn:log
+V 78
+#32550 comments : Generic method to fix mass assignment of the report columns.
+END

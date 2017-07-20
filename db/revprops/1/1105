@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-08T09:22:25.153744Z
+K 7
+svn:log
+V 95
+#34763 Comments: Fixed Mass Assignment issues related to AppTab, AppModule, AppSubModule tables
+END

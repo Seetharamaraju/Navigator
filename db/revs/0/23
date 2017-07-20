@@ -1,0 +1,57 @@
+id: 0-1.0-23.r23/0
+type: dir
+pred: 0-1.0-16.r22/31952
+count: 10
+text: 22 30879 1060 1060 edf4f2e6b27c8eee924c345b23597d83
+cpath: /branches/se_dev
+copyfrom: 22 /branches/se
+
+PLAIN
+K 3
+dev
+V 22
+dir 0-1.0-12.r19/24782
+K 6
+se_dev
+V 18
+dir 0-1.0-23.r23/0
+END
+ENDREP
+id: 0-11.0.r23/261
+type: dir
+pred: 0-11.0.r22/32208
+count: 9
+text: 23 173 75 75 60624d9fbcff9bde6f6146da7737656f
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-11.0.r23/261
+K 4
+tags
+V 17
+dir 0-7.0.r21/451
+K 5
+trunk
+V 19
+dir 0-1.0.r20/10456
+END
+ENDREP
+id: 0.0.r23/527
+type: dir
+pred: 0.0.r22/32480
+count: 23
+text: 23 406 108 108 e6402ba9101960a0d1519124a3669be0
+cpath: /
+copyroot: 0 /
+minfo-cnt: 2
+
+0-1.0-16.r22/31952 delete-dir false false /branches/se
+
+0-1._0.t22-r add-dir false false /branches/se_dev
+22 /branches/se
+
+527 674

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-07-20T07:04:28.261723Z
+K 7
+svn:log
+V 89
+#32268 comments: Seamlessly redirect to the idp while logging into navigator application 
+END

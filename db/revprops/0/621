@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-09-10T00:10:50.504622Z
+K 7
+svn:log
+V 93
+ #33456 comments: Fixed the grid border collapse, and customer editable terms broken tooltip 
+END

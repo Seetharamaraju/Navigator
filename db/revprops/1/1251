@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-05T09:11:12.064105Z
+K 7
+svn:log
+V 165
+#35649 Comments: Fixed Mass Assignment issues in the AuditTrailAppUser creation also restricting app_user_id and session_id from being available for mass assignment.
+END

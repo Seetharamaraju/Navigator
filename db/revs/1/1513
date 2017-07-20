@@ -1,0 +1,64 @@
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 24
+dir 0-1.0-12.r1512/31969
+K 6
+se_dev
+V 24
+dir 0-1.0-23.r1490/11565
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+END
+ENDREP
+id: 0-11.0.r1513/294
+type: dir
+pred: 0-11.0.r1512/32581
+count: 1209
+text: 1513 0 281 281 1b0fd5cfacd7d4302d80872bad76c07b
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 5
+
+PLAIN
+K 8
+branches
+V 20
+dir 0-11.0.r1513/294
+K 4
+tags
+V 20
+dir 0-7.0.r1499/5626
+K 5
+trunk
+V 21
+dir 0-1.0.r1503/12308
+END
+ENDREP
+id: 0.0.r1513/589
+type: dir
+pred: 0.0.r1512/32884
+count: 1513
+text: 1513 461 115 115 590965c599ae677315d9c43de9b1aa61
+cpath: /
+copyroot: 0 /
+minfo-cnt: 72
+
+0-1.0-1432.r1481/111672 delete-dir false false /branches/docusign_dev
+
+
+589 745

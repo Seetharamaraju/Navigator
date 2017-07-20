@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-06T06:27:31.284095Z
+K 7
+svn:log
+V 133
+comments : Add double colon before Mysql module for namespace issue and logging the exception if exception raises in document family.
+END

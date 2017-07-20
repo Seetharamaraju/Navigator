@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-29T13:41:03.541895Z
+K 7
+svn:log
+V 104
+#34933 Comments: Fixed the pagination page blocks to 30,60 for the documnet title and the number serach.
+END

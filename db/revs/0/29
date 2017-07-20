@@ -1,0 +1,74 @@
+PLAIN
+K 13
+svn:mergeinfo
+V 25
+/branches/dev:15-18,24-27
+END
+ENDREP
+id: 0-1.0-29.r29/67
+type: dir
+pred: 0-1.0.r28/20836
+count: 10
+text: 28 19706 1050 1050 db05343a086d9f83e8ab000fdb6c58e8
+props: 29 0 54 0 d3453ef13eb82a772ad7047ffe4ccda1
+cpath: /tags/release16.6.2.1
+copyfrom: 28 /trunk
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 13
+release16.6.1
+V 16
+dir 0-1.0-8.r8/0
+K 15
+release16.6.1.1
+V 18
+dir 0-1.0-10.r10/0
+K 13
+release16.6.2
+V 19
+dir 0-1.0-21.r21/61
+K 15
+release16.6.2.1
+V 19
+dir 0-1.0-29.r29/67
+END
+ENDREP
+id: 0-7.0.r29/507
+type: dir
+pred: 0-7.0.r21/451
+count: 4
+text: 29 314 180 180 fb3d7658da7a88044e8e3ed17c8b59eb
+cpath: /tags
+copyroot: 0 /
+minfo-cnt: 2
+
+PLAIN
+K 8
+branches
+V 19
+dir 0-11.0.r27/9251
+K 4
+tags
+V 17
+dir 0-7.0.r29/507
+K 5
+trunk
+V 19
+dir 0-1.0.r28/20836
+END
+ENDREP
+id: 0.0.r29/781
+type: dir
+pred: 0.0.r28/21187
+count: 29
+text: 29 659 109 109 6dd492620c0e8f7ad510855ffa578a0e
+cpath: /
+copyroot: 0 /
+minfo-cnt: 3
+
+0-1._0.t28-x add-dir false true /tags/release16.6.2.1
+28 /trunk
+
+781 928

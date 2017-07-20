@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-12T11:38:16.705021Z
+K 7
+svn:log
+V 95
+#31652 Comments: Replaced the ExtJS Tooltip for the Quick Search to Qtip 2 for all the browsers
+END

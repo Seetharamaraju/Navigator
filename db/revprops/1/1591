@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 4
+bala
+K 8
+svn:date
+V 27
+2017-04-21T11:11:55.203159Z
+K 7
+svn:log
+V 106
+DAAS-64 - QAer should be able to see the digital snapshot popup on hovering over any of the metadata terms
+END

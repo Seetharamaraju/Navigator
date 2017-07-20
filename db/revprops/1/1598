@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2017-04-27T20:37:41.040113Z
+K 7
+svn:log
+V 69
+ Removed Contract Status Migration to add status column in contracts 
+END

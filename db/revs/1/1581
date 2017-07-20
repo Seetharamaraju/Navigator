@@ -1,0 +1,38 @@
+id: 0-1581.0.r1581/0
+type: dir
+count: 0
+cpath: /qatags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 23
+dir 0-11.0.r1574/324719
+K 6
+qatags
+V 20
+dir 0-1581.0.r1581/0
+K 4
+tags
+V 21
+dir 0-7.0.r1578/16479
+K 5
+trunk
+V 20
+dir 0-1.0.r1580/5018
+END
+ENDREP
+id: 0.0.r1581/238
+type: dir
+pred: 0.0.r1580/5389
+count: 1581
+text: 1581 70 155 155 8b50470f51394f95c5e6f74bbfe19227
+cpath: /
+copyroot: 0 /
+minfo-cnt: 79
+
+_0.0.t1580-18u add-dir false false /qatags
+
+
+238 392

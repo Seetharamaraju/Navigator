@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-09T12:16:19.201539Z
+K 7
+svn:log
+V 93
+#35839 comments : Display "My Account" tab for SSO user by restricting the ability to update.
+END

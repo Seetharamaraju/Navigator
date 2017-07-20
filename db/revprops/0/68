@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-16T12:41:48.320455Z
+K 7
+svn:log
+V 137
+#31689 Comments: Giving the permission recursively for the folders for the Fix for File permission issue for file replace for SFTP intake
+END

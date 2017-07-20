@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-08T08:43:06.633517Z
+K 7
+svn:log
+V 64
+#32660 Comments: Fixed 1 SQL injection for named_scope :order_by
+END

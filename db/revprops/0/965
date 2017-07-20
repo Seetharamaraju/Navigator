@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-12T06:46:10.495658Z
+K 7
+svn:log
+V 120
+#34581 comments : Fix Idle Session Timeout vapt issue by decreasing the idle session timeout from 2 hours to 30 minutes.
+END

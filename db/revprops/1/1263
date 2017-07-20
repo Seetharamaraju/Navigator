@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-06T09:39:23.562219Z
+K 7
+svn:log
+V 166
+#35649 Comments: Added record_type, action, old_data, new_data, comments, parent_name, parent_type, record_name, created_at fields to be available for Mass Assignment
+END

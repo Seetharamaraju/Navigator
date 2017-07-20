@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-22T12:35:03.670804Z
+K 7
+svn:log
+V 92
+comments : Added 6 default reporting columns to intelligrated (Zendesk reference ID 45648). 
+END

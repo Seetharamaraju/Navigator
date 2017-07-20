@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-18T11:55:47.966749Z
+K 7
+svn:log
+V 167
+#32288 Comments: Updated the Test cases for the IdP Response to create a user or to get the existing user or to get a failure message when it is not a proper Use Role.
+END

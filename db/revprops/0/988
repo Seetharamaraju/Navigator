@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-11-15T12:22:29.299649Z
+K 7
+svn:log
+V 300
+Merged revision(s) 983 from trunk:
+Code Merge from Dev to Trunk. Revisions: 936-937. Bugs: #34440(Company Group label name change is not getting reflected in Exception module table), #34505(Update Internet explorer 7& 8 usage instruction message in initialize database script). No Conflicts
+........
+
+END

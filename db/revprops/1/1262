@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-06T08:33:05.081271Z
+K 7
+svn:log
+V 363
+#35649 Comments: Added report_title, report_description, report_type, report_start_date, report_end_date, date_selected_option, report_scale, selected_filter_option, selected_filter_ids, created_at, updated_at, report_category, record_limit, is_saved, question_criteria, wizard_ids, status_ids, status_tag_ids, include_weekends to be available for mass assignment
+END

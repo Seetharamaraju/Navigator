@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-09-19T07:18:12.433269Z
+K 7
+svn:log
+V 135
+#33311 comments : Add array of vertical in configuration and get the opportunity id from custom object for white listing the envelope. 
+END

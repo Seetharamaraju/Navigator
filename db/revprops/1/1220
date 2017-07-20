@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-30T11:35:24.955431Z
+K 7
+svn:log
+V 109
+#35612 comment: Fix 4 DE issue(Action: general_filter_result) by commenting general_filter_result code block.
+END

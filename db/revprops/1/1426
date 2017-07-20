@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-31T10:54:52.607273Z
+K 7
+svn:log
+V 86
+#35921 #36313 comments: Revert the removed TeamMgmtCode, revision number : 1327, 1364 
+END

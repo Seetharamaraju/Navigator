@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-09-30T23:59:31.601130Z
+K 7
+svn:log
+V 75
+ #33669 comments: Added the citation_tooltip partial with the fixed height 
+END

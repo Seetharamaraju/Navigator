@@ -1,0 +1,14 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-02T14:56:19.708772Z
+K 7
+svn:log
+V 332
+Code Merge from Core Platform Branch to Navigator Trunk. Revisions: 22447-22448,22455-22456,22458,22476,22480,22484,22488,22501, 22527-22528,22539-22541, 22547,22552, 22556, 22564, 22567, 22581,22583-22584,22587-22588,22596-22598.
+Conflicts: application_helper.rb, customer_view/_site_tour.html.erb, customer_view.html.erb, intro.js
+END

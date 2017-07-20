@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-29T07:16:44.284675Z
+K 7
+svn:log
+V 102
+#34936 Comments: Added Javascript check for the special characters before making making the AJAX call.
+END

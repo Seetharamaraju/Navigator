@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-23T12:34:45.183272Z
+K 7
+svn:log
+V 146
+#35517 Comments: Moved the Login Failure and log off messages to Configuration so that the support people are able to edit the respective messages
+END

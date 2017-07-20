@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-05T10:03:38.160904Z
+K 7
+svn:log
+V 117
+#32288 comments: TP#35370, Don't allow deactivated SSI user to login via IDP and update same in deactivation script. 
+END

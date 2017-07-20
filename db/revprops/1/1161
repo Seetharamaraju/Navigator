@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-19T12:03:43.785153Z
+K 7
+svn:log
+V 157
+#35403 Comments: Added Checkbox for disabling alerts at contract level and given the ability to allow specific users to be able to do so in the Pramata Admin
+END

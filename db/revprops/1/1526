@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-04-03T10:13:03.001506Z
+K 7
+svn:log
+V 93
+#JIRA:PCP-82 (FTS) comments: Get all fts result from ES without score for Sorting FTS report.
+END

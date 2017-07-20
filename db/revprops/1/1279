@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-06T14:22:48.069004Z
+K 7
+svn:log
+V 223
+#35649 Comments:Added title, description, created_date, modified_date, show_as_tab, sorted_column, sort_order, model_list, is_saved, status_list, include_drafts, include_non_current_drafts to b available for mass assignment
+END

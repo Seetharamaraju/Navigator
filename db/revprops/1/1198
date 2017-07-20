@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-28T07:26:20.985838Z
+K 7
+svn:log
+V 134
+#35403 Comments: Archiving the Alert for only those alerts for which should run now is true and the alert is disabled for the contract
+END

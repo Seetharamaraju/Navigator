@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-31T13:41:32.716079Z
+K 7
+svn:log
+V 101
+#32288 Use Case:#33306 Comments:Disabling edit of first_name, last_name, emal if the user is sso user
+END

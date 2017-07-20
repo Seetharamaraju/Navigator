@@ -1,0 +1,70 @@
+PLAIN
+K 13
+svn:mergeinfo
+V 28
+/branches/dev:15-18,24-27,30
+END
+ENDREP
+id: 0-1.0-33.r33/70
+type: dir
+pred: 0-1.0.r31/10396
+count: 11
+text: 31 9263 1050 1050 e7ea04f6206028a7000593c1206b6168
+props: 33 0 57 0 1a79546143ac4ac8d5a8ab852722e886
+cpath: /branches/ae_development
+copyfrom: 32 /trunk
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 19
+dir 0-1.0-33.r33/70
+K 3
+dev
+V 21
+dir 0-1.0-12.r32/8384
+K 6
+se_dev
+V 18
+dir 0-1.0-23.r23/0
+END
+ENDREP
+id: 0-11.0.r33/451
+type: dir
+pred: 0-11.0.r32/8644
+count: 16
+text: 33 319 119 119 2ae459d759ebe99162a02ce4fe59eccf
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 1
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-11.0.r33/451
+K 4
+tags
+V 17
+dir 0-7.0.r29/507
+K 5
+trunk
+V 19
+dir 0-1.0.r31/10396
+END
+ENDREP
+id: 0.0.r33/732
+type: dir
+pred: 0.0.r32/8914
+count: 33
+text: 33 611 108 108 f8350b2e05e8517b6e43cece25bd385d
+cpath: /
+copyroot: 0 /
+minfo-cnt: 4
+
+0-1._0.t32-12 add-dir false true /branches/ae_development
+32 /trunk
+
+732 878

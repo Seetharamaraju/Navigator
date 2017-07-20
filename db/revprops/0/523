@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-24T07:42:11.553532Z
+K 7
+svn:log
+V 135
+#32288 Use Case #33176 Comments: Removed the My Account link for the users where is_sso_user flag is set to true and the sso is enabled
+END

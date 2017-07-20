@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-13T07:13:59.644348Z
+K 7
+svn:log
+V 119
+#35921 comments: Remove Team mgmt, Training Set, Training Set contract, Training Set User code(controller/helper/views)
+END

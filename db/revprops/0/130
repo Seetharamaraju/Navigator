@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-14T09:00:32.379385Z
+K 7
+svn:log
+V 87
+#32288 Comments:Added the migration to add the field is_sso_user to the app user table.
+END

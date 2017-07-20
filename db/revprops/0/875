@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-10-27T10:14:16.274057Z
+K 7
+svn:log
+V 91
+#32288 comments :Add SAML security setting configurations(assertion signed and encryption).
+END

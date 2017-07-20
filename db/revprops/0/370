@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-06T00:11:43.672599Z
+K 7
+svn:log
+V 238
+ #32867 comments: Fixed bugs 1. Amendment tooltip after filter and show all comes up with the hidden  div 2. Amendment tooltip never appears because of css 3. Amendment tooltip increased size 4. Contract Term wihout category added locale 
+END

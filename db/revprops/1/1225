@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-30T12:30:14.784657Z
+K 7
+svn:log
+V 174
+#35612 comment: Fix 1 Attribute Restriction by adding :user_name, :api_service_name, :api_method_name, :result, :exception, :created_at, :input_parameters in attr_accessible 
+END

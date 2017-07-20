@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-24T08:37:57.317554Z
+K 7
+svn:log
+V 106
+#32288 : Rename controller name from sso_login to sso_auth and add metadata action to get the SP metadata.
+END

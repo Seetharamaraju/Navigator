@@ -1,0 +1,54 @@
+id: 0-1.0-16.r16/0
+type: dir
+pred: 0-1.0.r14/24791
+count: 8
+text: 14 23724 1054 1054 e157f3d2a4a907e19a08978057c65a42
+cpath: /branches/se
+copyfrom: 15 /trunk
+
+PLAIN
+K 3
+dev
+V 22
+dir 0-1.0-12.r15/11434
+K 2
+se
+V 18
+dir 0-1.0-16.r16/0
+END
+ENDREP
+id: 0-11.0.r16/243
+type: dir
+pred: 0-11.0.r15/11661
+count: 4
+text: 16 159 71 71 bcce6016126b591fbe64807f18c18b5e
+cpath: /branches
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 18
+dir 0-11.0.r16/243
+K 4
+tags
+V 17
+dir 0-7.0.r10/268
+K 5
+trunk
+V 19
+dir 0-1.0.r14/24791
+END
+ENDREP
+id: 0.0.r16/509
+type: dir
+pred: 0.0.r15/11933
+count: 16
+text: 16 388 108 108 92f5c4fc2583d8ecd06d6d8ac0bc7994
+cpath: /
+copyroot: 0 /
+
+0-1._0.t15-k add-dir false false /branches/se
+15 /trunk
+
+509 643

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-04T15:23:12.110412Z
+K 7
+svn:log
+V 142
+#34763 Comments: Added fields :name, :label, :enable_readonly_config to the white list of model attributes that can be set via mass-assignment
+END

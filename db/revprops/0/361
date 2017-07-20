@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-08-04T10:22:45.977087Z
+K 7
+svn:log
+V 250
+#32482 comments: 
+1. Adding Loader spinner when user clicks on Add Terms or Cancel in Enhanced Reporting View
+2. Adding Spinner for Loader key terms initial view
+3. Fixing extra data Cell in Grid terms.
+4. Fixing Alerts header label in Data Grid Term
+END

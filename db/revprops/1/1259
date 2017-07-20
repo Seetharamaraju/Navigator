@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-05T11:43:07.757353Z
+K 7
+svn:log
+V 172
+#35660 comments : Fix attribute restriction by adding contract_table_col_name, :selected_values, :model_term_type_name, :model_data_element_name columns in attr_accessible.
+END

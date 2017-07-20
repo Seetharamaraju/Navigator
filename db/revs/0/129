@@ -1,0 +1,99 @@
+PLAIN
+K 13
+svn:mergeinfo
+V 112
+/branches/ae_development:33-40
+/branches/dev:13,15-18,24-27,30,32,47-48,50-51,53,57,67-68,73-74,80-92,96,119,122
+END
+ENDREP
+id: 0-1.0-129.r129/155
+type: dir
+pred: 0-1.0.r123/6584
+count: 36
+text: 123 5364 1052 1052 01b111fbc506510307b2cf0d8caa3238
+props: 129 0 142 0 8353ed89a3cddc090c2605e1d5722328
+cpath: /tags/release16.7.3
+copyfrom: 128 /trunk
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 13
+Release16.6.3
+V 20
+dir 0-1.0-49.r49/104
+K 13
+release16.6.1
+V 16
+dir 0-1.0-8.r8/0
+K 15
+release16.6.1.1
+V 18
+dir 0-1.0-10.r10/0
+K 13
+release16.6.2
+V 19
+dir 0-1.0-21.r21/61
+K 15
+release16.6.2.1
+V 19
+dir 0-1.0-29.r29/67
+K 15
+release16.6.2.2
+V 19
+dir 0-1.0-38.r38/73
+K 15
+release16.6.3.3
+V 20
+dir 0-1.0-66.r66/119
+K 13
+release16.7.1
+V 22
+dir 0-1.0-100.r100/144
+K 13
+release16.7.2
+V 22
+dir 0-1.0-103.r103/144
+K 13
+release16.7.3
+V 22
+dir 0-1.0-129.r129/155
+END
+ENDREP
+id: 0-7.0.r129/878
+type: dir
+pred: 0-7.0.r103/822
+count: 10
+text: 129 406 459 459 148026530266c78d0674a4ed95e59dd9
+cpath: /tags
+copyroot: 0 /
+minfo-cnt: 8
+
+PLAIN
+K 8
+branches
+V 20
+dir 0-11.0.r128/9082
+K 4
+tags
+V 18
+dir 0-7.0.r129/878
+K 5
+trunk
+V 19
+dir 0-1.0.r123/6584
+END
+ENDREP
+id: 0.0.r129/1158
+type: dir
+pred: 0.0.r128/9371
+count: 129
+text: 129 1034 111 111 594220677c88b53a7fbc1f223d3b0bd7
+cpath: /
+copyroot: 0 /
+minfo-cnt: 11
+
+0-1._0.t128-3x add-dir false true /tags/release16.7.3
+128 /trunk
+
+1158 1311

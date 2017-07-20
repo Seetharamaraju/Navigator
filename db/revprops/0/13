@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-06T13:45:15.362531Z
+K 7
+svn:log
+V 146
+Code Merge from Core Platform to Navigator Dev branch. The merge is for the 10 security fixes for completing the 50% of the security fixes for Q2.
+END

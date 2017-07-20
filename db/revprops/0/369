@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-05T21:48:50.354618Z
+K 7
+svn:log
+V 84
+ #32867 comments: Fixed the issue with Amendment tooltip and padding on CET actions 
+END

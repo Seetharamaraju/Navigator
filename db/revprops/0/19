@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-07T06:31:29.077581Z
+K 7
+svn:log
+V 241
+Code Merge from Navigator Trunk to Navigator dev. Rvision: 14. No Conflicts. This merge is for Fixing the issue for performing export to excel for Usage reports > Reporting - Top searched Terms #Common Code "Need to be present on DP as well"
+END

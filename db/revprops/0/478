@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-18T19:50:27.775528Z
+K 7
+svn:log
+V 162
+ SFDC>Consume SAML Bug>Analyze the debug information to identify the root cause comments: Moved the tracking session id to the first part of create_and_render_at 
+END

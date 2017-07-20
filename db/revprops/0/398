@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+midhun
+K 8
+svn:date
+V 27
+2016-08-08T06:54:19.837543Z
+K 7
+svn:log
+V 40
+Removed inline css and moved to css file
+END

@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-11-21T07:17:39.310563Z
+K 7
+svn:log
+V 602
+Merged revision(s) 995, 1012-1013, 1024-1025, 1027, 1031-1032 from trunk:
+#34360 comments: Removing Q3 Beta Feature Flags
+........
+#comments : Add idp sso and slo endpoint Configure for NCR 
+........
+#comments : Add sso_mandatory_fields configuration for ncr.
+........
+#comments : App configuration for microsoft.
+........
+#comments : Mail fetcher configuration for microsoft.
+........
+comments: Fixing Enhanced Citation Issue on Novelis and Truven
+........
+comments: Enabling Beta Users for NCR and Configuring Enhanced Citation
+........
+comments: Configuring Enhanced Citation for Microsoft
+........
+
+END

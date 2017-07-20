@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-10-27T00:53:38.644864Z
+K 7
+svn:log
+V 57
+ Fixed the issue on escaping tooltip and guideline value 
+END

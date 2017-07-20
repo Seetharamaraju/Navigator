@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-04-13T12:55:26.372110Z
+K 7
+svn:log
+V 102
+#PA-220 (FTS) comments: The ^ ~ / ! \ { } [ ] ( ) < > ? special characters are not allowed for Search 
+END

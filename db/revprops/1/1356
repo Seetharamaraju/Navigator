@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-13T12:04:24.185139Z
+K 7
+svn:log
+V 69
+#35920 comments : Fix 1 Command injection issue (copy_to_ocr_folder).
+END

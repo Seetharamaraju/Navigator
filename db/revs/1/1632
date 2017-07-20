@@ -1,0 +1,84 @@
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 25
+dir 0-1.0-12.r1601/100940
+K 4
+erfa
+V 25
+dir 0-1.0-1535.r1556/6924
+K 2
+qa
+V 27
+dir 0-1.0-1514.r1515/108927
+K 6
+se_dev
+V 25
+dir 0-1.0-23.r1574/324020
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+K 19
+summer_2017_general
+V 26
+dir 0-1.0-1620.r1631/12676
+K 11
+ui_facelift
+V 25
+dir 0-1.0-1532.r1568/8417
+END
+ENDREP
+id: 0-11.0.r1632/481
+type: dir
+pred: 0-11.0.r1631/13504
+count: 1270
+text: 1632 0 468 468 ed3c79b6fb9d1f4448615301ad88f4b7
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 9
+
+PLAIN
+K 8
+branches
+V 20
+dir 0-11.0.r1632/481
+K 17
+summer2017_qatags
+V 23
+dir 0-1625.0.r1625/2475
+K 4
+tags
+V 20
+dir 0-7.0.r1627/6180
+K 5
+trunk
+V 20
+dir 0-1.0.r1619/4683
+END
+ENDREP
+id: 0.0.r1632/827
+type: dir
+pred: 0.0.r1631/13859
+count: 1632
+text: 1632 648 166 166 0d865cc9f66a70cc85874b6f46998507
+cpath: /
+copyroot: 0 /
+minfo-cnt: 84
+
+0-1.0-1618.r1629/11165 delete-dir false false /branches/PA-217
+
+
+827 983

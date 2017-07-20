@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-09T13:53:32.337377Z
+K 7
+svn:log
+V 64
+#35839 comments : restrict to edit profile details for SSO user.
+END

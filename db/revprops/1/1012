@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-16T13:05:14.525143Z
+K 7
+svn:log
+V 59
+#comments : Add idp sso and slo endpoint Configure for NCR 
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-01T14:38:43.836064Z
+K 7
+svn:log
+V 74
+#32550 Comments: Fixed 3 SQL injection issues in get_role_list_for_sorting
+END

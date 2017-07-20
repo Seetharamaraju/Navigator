@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-10-20T15:08:56.594996Z
+K 7
+svn:log
+V 582
+Merged revision(s) 854-857 from trunk:
+Code Merge from Dev to Trunk. Revision 853
+........
+Merged revision(s) 846 from trunk/public/javascripts/pramata/navigator/key_term/contract_detail_beta.js:
+#34159 comments: Changing Company Group Name to Client Name
+........
+Merged revision(s) 843 from trunk/app/models/contract.rb:
+#34159 comments: Changing Company Group Name to Client Name
+........
+
+
+........
+Merged revision(s) 845 from trunk/public/javascripts/pramata/navigator/key_term/contract_detail.js:
+#34159 comments: Changing Company Group Name to Client Name
+........
+
+........
+
+END

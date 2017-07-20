@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-09-16T00:13:01.384888Z
+K 7
+svn:log
+V 215
+ #33456 comments: Merge commit Merged revisions: 676-678 from navigator/se_dev branch to trunk, Fixing all the language issues 1. Key terms filter 2. Amendment tooltip 3. Non Standard tooltip 4. Remove overview tab 
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-21T11:37:01.829716Z
+K 7
+svn:log
+V 126
+#33836 Comments: Encoding to Base64 format before saving the key and iv to the database, and decoding the same before using it
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-02T13:11:39.108948Z
+K 7
+svn:log
+V 166
+#35419 Comments: Cresting  new entry in the contracts_simplerules table only when the entry is not already there(NOTE:This should also be merged to the DP repository)
+END

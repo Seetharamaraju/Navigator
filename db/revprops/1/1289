@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-09T14:14:21.673015Z
+K 7
+svn:log
+V 303
+#35588 Comments:Adding the App config 'customer' as the company name for a customer user created by the customer user management. Also kept a cleanup script as a migration that will change the company name to App config 'customer' for already existing users for whom the company name is not already set.
+END

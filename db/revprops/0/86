@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-29T08:05:45.897337Z
+K 7
+svn:log
+V 118
+#31984 Comments: Added delayed job Instant Report config for CTL. This will give insight into the delayed jobs easily.
+END

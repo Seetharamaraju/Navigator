@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-06T11:17:45.231254Z
+K 7
+svn:log
+V 165
+#33836 Comments: Removed the cipher_algo and the encrypted_data from the the login param. Passing a login param id instead to get the IV and Key stored in the table.
+END

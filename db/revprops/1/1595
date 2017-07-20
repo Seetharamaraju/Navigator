@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-04-25T10:17:53.074582Z
+K 7
+svn:log
+V 94
+#PA-220 (FTS) comments: Restrict user to add only less than 255 characters in keyword search. 
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-02-16T15:55:26.719648Z
+K 7
+svn:log
+V 68
+#36586 comment: Restrict user to select date range only with a Year.
+END

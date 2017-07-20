@@ -1,0 +1,204 @@
+id: 3-668.0-669.r669/0
+type: file
+pred: 3-668.0-12.r668/411607
+count: 1
+text: 668 0 397314 426360 e6659501ec2890ce254da85a9ae56a18 dc9907f95a0dcf3f39adfcee69c53a8e532f68ce 667-j1/_5
+props: 668 411541 53 0 113136892f2137aa0116093a524ade0b
+cpath: /branches/dev/user_responsibility_document/Application Description and User Responsibilities.pdf
+copyfrom: 668 /branches/dev/user_responsibility_document/Application Description & User Responsibilities.pdf
+
+PLAIN
+K 53
+Application Description and User Responsibilities.pdf
+V 23
+file 3-668.0-669.r669/0
+END
+ENDREP
+id: 2-495.0-12.r669/557
+type: dir
+pred: 2-495.0-12.r668/412057
+count: 7
+text: 669 452 92 92 34491722d4a49eafd29ec052fc670a31
+cpath: /branches/dev/user_responsibility_document
+copyroot: 12 /branches/dev
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 24
+dir 9-1.0-12.r668/411358
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 25
+dir 24j-1.0-12.r667/35327
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 26
+dir 2dg-1.0-12.r665/196497
+K 3
+doc
+V 26
+dir 365-1.0-12.r665/199452
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 26
+dir 36j-1.0-12.r665/205014
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 26
+dir 3fm-1.0-12.r665/233540
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 25
+dir 92z-1.0-12.r529/10319
+K 4
+spec
+V 26
+dir 9k8-1.0-12.r665/236993
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 23
+dir 2-495.0-12.r669/557
+K 6
+vendor
+V 23
+dir 9wa-1.0.r1/31080149
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+id: 0-1.0-12.r669/1920
+type: dir
+pred: 0-1.0-12.r668/413428
+count: 318
+text: 669 760 1147 1147 4e9588c03942d8f3c206ddb7b5fcca32
+props: 665 238342 653 0 f39dd68ac1527470921effcaedbbec94
+cpath: /branches/dev
+copyroot: 12 /branches/dev
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 22
+dir 0-1.0-12.r669/1920
+K 6
+se_dev
+V 22
+dir 0-1.0-23.r659/6877
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r538/17944
+END
+ENDREP
+id: 0-11.0.r669/2369
+type: dir
+pred: 0-11.0.r668/413883
+count: 567
+text: 669 2181 175 175 3227b987ad9e1d2fc8abef17a4722f6e
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 4
+
+PLAIN
+K 8
+branches
+V 20
+dir 0-11.0.r669/2369
+K 4
+tags
+V 19
+dir 0-7.0.r664/2150
+K 5
+trunk
+V 19
+dir 0-1.0.r666/7736
+END
+ENDREP
+id: 0.0.r669/2662
+type: dir
+pred: 0.0.r668/414181
+count: 669
+text: 669 2537 112 112 d8337a4e20275d363d8048f8d09c9c49
+cpath: /
+copyroot: 0 /
+minfo-cnt: 25
+
+3-668.0-12.r668/411607 delete-file false false /branches/dev/user_responsibility_document/Application Description & User Responsibilities.pdf
+
+3-668._0.t668-j2 add-file false false /branches/dev/user_responsibility_document/Application Description and User Responsibilities.pdf
+668 /branches/dev/user_responsibility_document/Application Description & User Responsibilities.pdf
+
+2662 2817

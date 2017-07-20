@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-13T13:55:17.181443Z
+K 7
+svn:log
+V 138
+#35086 Comments: Removing the document_intake_email_configuration_id, term_id, data_element_id from the allowed fields for mass assignment
+END

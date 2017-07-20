@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-08T08:46:26.326588Z
+K 7
+svn:log
+V 126
+#32288 Comments:  Removed restriction on showing logout button, and updated IE7 to IE9 in email template for SSO user sign up 
+END

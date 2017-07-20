@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-21T12:02:41.925249Z
+K 7
+svn:log
+V 144
+#32726 Comments: Taking the dp_app_base_url (DP URL) if the user created is a Pramata Internal user or else picking the base_url (Navigator URL)
+END

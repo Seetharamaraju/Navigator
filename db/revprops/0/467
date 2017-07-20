@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-16T18:47:24.190175Z
+K 7
+svn:log
+V 78
+ #33025 comments: Fixing the issue on novelis get_attachment with x_send_file 
+END

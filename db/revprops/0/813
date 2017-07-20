@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-10-06T09:40:52.510038Z
+K 7
+svn:log
+V 145
+#33826 Comments : Fixed the Security Issue identified by VAPT. Horizontal Privilege Escalation in Customer User Management for resetting password
+END

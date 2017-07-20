@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-29T09:51:06.271807Z
+K 7
+svn:log
+V 84
+comments: add 10 minutes idea timeout and help message in sso login and logout page.
+END

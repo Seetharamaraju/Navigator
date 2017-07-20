@@ -1,0 +1,28 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2017-01-11T12:18:05.374712Z
+K 7
+svn:log
+V 540
+Merged revision(s) 1283-1305 from trunk:
+comments : Set 10 minutes idea time for NCR production
+........
+Piwik Tracking for Quick Search
+........
+Piwik Tracking for Enhanced Citation View in Tooltip and Export SAP Account Data
+........
+Piwik Tracking for Enhanced Citation View in Tooltip and Export SAP Account Data
+........
+Code Merge from Dev to Trunk. Revisions: 1231,1235,1237. Bugs: #35589, #35419. No Conflicts
+........
+comments : Add SSO configuration for NCR Stage.
+........
+comments : Update NCR stage SSO configuration.
+........
+
+END

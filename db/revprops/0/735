@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-09-21T10:10:36.298055Z
+K 7
+svn:log
+V 95
+#33679 Comments: Fixed 2 Mass Assignment issues in add_document_intake_notification_rule method
+END

@@ -1,0 +1,119 @@
+#!/bin/sh
+
+# POST-COMMIT HOOK
+#
+# The post-commit hook is invoked after a commit.  Subversion runs
+# this hook by invoking a program (script, executable, binary, etc.)
+# named 'post-commit' (for which this file is a template) with the 
+# following ordered arguments:
+#
+#   [1] REPOS-PATH   (the path to this repository)
+#   [2] REV          (the number of the revision just committed)
+#
+# The default working directory for the invocation is undefined, so
+# the program should set one explicitly if it cares.
+#
+# Because the commit has already completed and cannot be undone,
+# the exit code of the hook program is ignored.  The hook program
+# can use the 'svnlook' utility to help it examine the
+# newly-committed tree.
+#
+# On a Unix system, the normal procedure is to have 'post-commit'
+# invoke other programs to do the real work, though it may do the
+# work itself too.
+#
+# Note that 'post-commit' must be executable by the user(s) who will
+# invoke it (typically the user httpd runs as), and that user must
+# have filesystem-level permission to access the repository.
+#
+# On a Windows system, you should name the hook program
+# 'post-commit.bat' or 'post-commit.exe',
+# but the basic idea is the same.
+# 
+# The hook program typically does not inherit the environment of
+# its parent process.  For example, a common problem is for the
+# PATH environment variable to not be set to its usual value, so
+# that subprograms fail to launch unless invoked via absolute path.
+# If you're having unexpected problems with a hook program, the
+# culprit may be unusual (or missing) environment variables.
+# 
+# Here is an example hook script, for a Unix /bin/sh interpreter.
+# For more examples and pre-written hooks, see those in
+# the Subversion repository at
+# http://svn.collab.net/repos/svn/trunk/tools/hook-scripts/ and
+# http://svn.collab.net/repos/svn/trunk/contrib/hook-scripts/
+
+
+REPOS="$1"
+REV="$2"
+
+/usr/bin/ruby /home/scripts/svn_commit_navigator.rb "$1"  "$2"
+
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'trunk/'; then
+##  TRUNK_SENDTO=""
+#TRUNK_SENDTO="lohith.mv@pramata.com,rejith.t@pramata.com,nagajyothi.v@pramata.com,bharath.kumar@pramata.com,asha.kumari@pramata.com"
+# 
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$TRUNK_SENDTO" "Trunk"
+#fi
+#
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'core_platform/'; then
+#  CP_SENDTO="tech-core@pramata.com, bharath.kumar@pramata.com, lohith.mv@pramata.com, santhosh.devadiga@pramata.com, richa.sinha@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$CP_SENDTO" "Core_platform"
+#fi
+#
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'cim/'; then
+#  CIM_SENDTO="tech-data-management@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$CIM_SENDTO" "CIM"
+#fi
+#
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'script_management/'; then
+#  SCRIPT_SENDTO="tech-data-management@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SCRIPT_SENDTO" "Script_management"
+#fi
+#
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'robocop/'; then
+#  AE_SENDTO="tech-auto-extraction@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$AE_SENDTO" "Robocop"
+#fi
+#
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'se/'; then
+#  SE_SENDTO="se-dev-team@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SE_SENDTO" "SE"
+#fi
+
+if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'trunk/'; then
+  SE_SENDTO="richa.sinha@pramata.com, lohith.mv@pramata.com, santhosh.devadiga@pramata.com"
+  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SE_SENDTO" "Navigator"
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorTrunkRspec/build?token=pramatarocks`
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorTrunkBrakeman/build?token=pramatarocks`	
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorTrunkBrakemanBlacklist/build?token=pramatarocks`
+fi
+
+if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'branches/dev'; then
+  SE_SENDTO="richa.sinha@pramata.com, lohith.mv@pramata.com, santhosh.devadiga@pramata.com"
+  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SE_SENDTO" "Navigator"
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorDevRspec/build?token=pramatarocks`
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorDevBrakeman/build?token=pramatarocks`
+  `curl --user santhosh:18b01fd7d701f29ca2c5d5fe18d0ee2a https://ci.pramata.com/job/NavigatorDevBrakemanBlacklist/build?token=pramatarocks`
+fi
+
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe 'branches/navigator_upload/'; then
+#  SE_SENDTO="richa.sinha@pramata.com, lohith.mv@pramata.com, santhosh.devadiga@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SE_SENDTO" "Navigator"
+#fi
+
+#if /usr/bin/svnlook dirs-changed -r "$REV" "$REPOS" | grep -qEe '/'; then
+#  SE_SENDTO="tech-core@pramata.com, karthik.k@pramata.com"
+#  /scripts/svn_commit_email_navigator.rb "$REPOS" "$REV" "$SE_SENDTO" "Navigator"
+#fi
+
+#path=$(/usr/bin/svnlook changed "$REPOS" -r "$REV"|awk -F/ '{print $1"/"$2}'|awk '{ print $2}')
+#svn log -r"$REV" svn://svn.pontusglobal.com/buddha/"$path"|grep "deploy_dev:" >/tmp/commit_log.txt
+#if_deploy=$(cat /tmp/commit_log.txt|wc -l)
+#if [ "$if_deploy" -gt 0 ]
+#then
+#instance=$(cat /tmp/commit_log.txt|awk '{ print $NF }')
+#ssh "$instance"_user@dev.pramata.com "./autodeploy.sh svn://svn.pontusglobal.com/buddha/$path"
+#fi
+exit 0
+

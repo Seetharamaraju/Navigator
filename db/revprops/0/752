@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-09-22T10:58:19.348892Z
+K 7
+svn:log
+V 113
+#33737 Comments: Added attribute accessor for contract_model_term_type_id, contract_model_data_element_id, values
+END

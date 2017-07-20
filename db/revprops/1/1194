@@ -1,0 +1,16 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-27T08:44:59.574027Z
+K 7
+svn:log
+V 203
+Merged from dev to trunk: Added Checkbox for disabling alerts at contract level and given the ability to allow specific users to be able to do.  
+Revision(s) 1161, 1163-1164, 1170
+TP : #35403
+No conflict
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-03T07:56:28.426133Z
+K 7
+svn:log
+V 201
+#31361 Comments:Changing the style property visibility: hidden to display:none for both the site tours. Also rendering the site tour partial inside the body tag(first element) for customer_view layout.
+END

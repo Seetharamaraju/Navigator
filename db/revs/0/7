@@ -1,0 +1,29 @@
+id: 0-7.0.r7/0
+type: dir
+count: 0
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 4
+tags
+V 14
+dir 0-7.0.r7/0
+K 5
+trunk
+V 18
+dir 0-1.0.r6/22385
+END
+ENDREP
+id: 0.0.r7/142
+type: dir
+pred: 0.0.r6/22582
+count: 7
+text: 7 62 67 67 b162337f948257cf28dec139686abfd7
+cpath: /
+copyroot: 0 /
+
+_0.0.t6-8 add-dir false false /tags
+
+
+142 269

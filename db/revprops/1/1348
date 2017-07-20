@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-13T10:55:45.993678Z
+K 7
+svn:log
+V 88
+#35907 Comments: Fixed 2 SQL injection issue in total_email_notification_not_sent method
+END

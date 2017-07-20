@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-01-06T10:24:50.366152Z
+K 7
+svn:log
+V 115
+#35660 comments : Fix attribute restriction by removing :config_parameter_id, :user_id fields from attr_accessible.
+END

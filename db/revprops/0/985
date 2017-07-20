@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-11-15T10:11:58.850973Z
+K 7
+svn:log
+V 113
+#34606 Comments: Added ability to assign a document exception to any of the members of a document exception group
+END

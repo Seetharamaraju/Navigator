@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-21T12:57:26.378390Z
+K 7
+svn:log
+V 159
+#32288 Comments: Handle Login Page redirect for "Redirect after a locked out or inactive Pramata user Logs in", "Authentic Pramata user from invalid location."
+END

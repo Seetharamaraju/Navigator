@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-20T10:15:45.132543Z
+K 7
+svn:log
+V 173
+#32288 Comments: Adding audit trail entry for SSO user creation or Updation. Also Moved the App User and User Role specific code to the model code from the sso_login module.
+END

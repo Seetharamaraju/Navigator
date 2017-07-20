@@ -1,0 +1,28 @@
+PLAIN
+K 8
+branches
+V 21
+dir 0-11.0.r1620/3044
+K 4
+tags
+V 20
+dir 0-7.0.r1617/6201
+K 5
+trunk
+V 20
+dir 0-1.0.r1619/4683
+END
+ENDREP
+id: 0.0.r1624/128
+type: dir
+pred: 0.0.r1623/2826
+count: 1624
+text: 1624 0 115 115 88befec74ce5b00638d309379f3e707b
+cpath: /
+copyroot: 0 /
+minfo-cnt: 83
+
+0-1622.0.r1623/2471 delete-dir false false /summer2017_qatags
+
+
+128 281

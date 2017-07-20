@@ -1,0 +1,1660 @@
+id: 3u-1.0-1426.r1426/0
+type: file
+pred: 3u-1.0.r1/27242941
+count: 1
+text: 1 15329645 32909 180196 224c6e0a40ae4c4c602a8f333cce2f37 775b78204e4a584149db560d67a04567a2546e6b 0-0/_fo2
+cpath: /branches/dev/app/controllers/team_mgmt_controller.rb
+copyfrom: 1326 /branches/dev/app/controllers/team_mgmt_controller.rb
+
+id: 3w-1.1-1426.r1426/313
+type: file
+pred: 3w-1.0.r1/27243386
+count: 1
+text: 1 20203320 1536 4910 3e70d4d11c5de731a58dd8ab87a967b9 d55f4bf48644d81a2202c955bda83738d4e384f4 0-0/_h1t
+cpath: /branches/dev/app/controllers/training_set_contract_controller.rb
+copyfrom: 1326 /branches/dev/app/controllers/training_set_contract_controller.rb
+
+id: 3x-1.2-1426.r1426/649
+type: file
+pred: 3x-1.0.r1/27243620
+count: 1
+text: 1 16998713 4101 22934 e3aa217dfd6006275bc9b4323b5cda3f d394048ab6dfcd7f754fd4f946fec7c23b1cb90c 0-0/_g4s
+cpath: /branches/dev/app/controllers/training_set_controller.rb
+copyfrom: 1326 /branches/dev/app/controllers/training_set_controller.rb
+
+id: 3y-1.3-1426.r1426/968
+type: file
+pred: 3y-1.0.r1/27243846
+count: 1
+text: 1 25693991 10494 69615 c2b54901433773af15776d74845ee954 0d167bf8913c4a9203a7d7d5c6b2f9b668cc83b9 0-0/_ij6
+cpath: /branches/dev/app/controllers/training_set_users_controller.rb
+copyfrom: 1326 /branches/dev/app/controllers/training_set_users_controller.rb
+
+PLAIN
+K 28
+administration_controller.rb
+V 22
+file g-1.0.r1/27217032
+K 27
+alert_configs_controller.rb
+V 24
+file i-1.0-12.r1138/1211
+K 19
+alert_controller.rb
+V 22
+file j-1.0.r1/27217480
+K 30
+alert_recipients_controller.rb
+V 22
+file k-1.0.r1/27217697
+K 23
+analytics_controller.rb
+V 22
+file l-1.0.r1/27217921
+K 3
+api
+V 23
+dir m-1.0-12.r1011/2833
+K 28
+app_exceptions_controller.rb
+V 22
+file p-1.0.r1/27218597
+K 23
+app_users_controller.rb
+V 22
+file q-1.0-12.r313/581
+K 25
+application_controller.rb
+V 24
+file r-1.0-12.r1257/2102
+K 28
+auto_amendment_controller.rb
+V 22
+file s-1.0.r1/27219265
+K 27
+chart_configs_controller.rb
+V 22
+file t-1.0.r1/27219490
+K 35
+contract_audit_errors_controller.rb
+V 22
+file u-1.0.r1/27219714
+K 37
+contract_exception_flag_controller.rb
+V 22
+file v-1.0.r1/27219946
+K 29
+contract_intake_controller.rb
+V 23
+file w-1.0-12.r955/2699
+K 28
+contract_model_controller.rb
+V 22
+file x-1.0-12.r975/341
+K 43
+contract_model_data_dropdowns_controller.rb
+V 22
+file y-1.0.r1/27220634
+K 42
+contract_model_data_elements_controller.rb
+V 22
+file z-1.0.r1/27220873
+K 44
+contract_model_term_categories_controller.rb
+V 23
+file 10-1.0.r1/27221110
+K 39
+contract_model_term_types_controller.rb
+V 23
+file 11-1.0.r1/27221350
+K 41
+contract_model_term_updates_controller.rb
+V 23
+file 12-1.0.r1/27221587
+K 29
+contract_models_controller.rb
+V 23
+file 13-1.0.r1/27221824
+K 30
+contract_request_controller.rb
+V 24
+file 14-1.0-12.r1343/418
+K 29
+contract_upload_controller.rb
+V 23
+file 15-1.0-12.r1298/48
+K 23
+contracts_controller.rb
+V 25
+file 16-1.0-12.r1317/5788
+K 3
+ctl
+V 22
+dir 19-1.0.r1/27224366
+K 22
+customer_controller.rb
+V 25
+file 1g-1.0-12.r1384/1122
+K 27
+customer_task_controller.rb
+V 23
+file 1h-1.0.r1/27224735
+K 38
+customer_user_management_controller.rb
+V 23
+file 1j-1.0-12.r1300/71
+K 27
+customer_view_controller.rb
+V 25
+file 1k-1.0-12.r1384/1394
+K 24
+data_audit_controller.rb
+V 23
+file 1l-1.0.r1/27225657
+K 29
+data_extraction_controller.rb
+V 23
+file 1n-1.0.r1/27226107
+K 25
+data_import_controller.rb
+V 23
+file 1o-1.0.r1/27226336
+K 34
+data_management_jobs_controller.rb
+V 23
+file 1p-1.0.r1/27226561
+K 42
+data_management_term_configs_controller.rb
+V 23
+file 1q-1.0.r1/27226793
+K 27
+data_mappings_controller.rb
+V 23
+file 1r-1.0.r1/27227033
+K 23
+data_maps_controller.rb
+V 23
+file 1s-1.0.r1/27227258
+K 31
+delayed_job_admin_controller.rb
+V 23
+file 1t-1.0.r1/27227478
+K 33
+delayed_job_monitor_controller.rb
+V 23
+file 1u-1.0-12.r270/345
+K 46
+derived_data_element_definitions_controller.rb
+V 23
+file 1v-1.0.r1/27227938
+K 28
+document_audit_controller.rb
+V 23
+file 1w-1.0.r1/27228184
+K 40
+document_exception_details_controller.rb
+V 23
+file 1x-1.0-12.r717/296
+K 33
+document_exceptions_controller.rb
+V 24
+file 1y-1.0-12.r1030/227
+K 29
+document_intake_controller.rb
+V 24
+file 1z-1.0-12.r1010/291
+K 50
+document_intake_email_configurations_controller.rb
+V 23
+file 20-1.0-12.r961/518
+K 43
+document_intake_notifications_controller.rb
+V 23
+file 21-1.0.r1/27229358
+K 36
+document_intake_report_controller.rb
+V 24
+file 22-1.0-12.r1141/751
+K 22
+docusign_controller.rb
+V 24
+file 23-1.0-12.r1140/592
+K 27
+email_configs_controller.rb
+V 23
+file 24-1.0-12.r1354/76
+K 30
+exception_groups_controller.rb
+V 23
+file 25-1.0.r1/27230278
+K 32
+execution_requests_controller.rb
+V 23
+file 26-1.0-12.r763/133
+K 22
+feedback_controller.rb
+V 23
+file 27-1.0-12.r731/588
+K 26
+file_uploads_controller.rb
+V 23
+file 29-1.0.r1/27231177
+K 30
+full_text_search_controller.rb
+V 23
+file 2a-1.0.r1/27231402
+K 12
+fusioncharts
+V 22
+dir 2b-1.0.r1/27231944
+K 24
+gatepasses_controller.rb
+V 23
+file 2e-1.0.r1/27232100
+K 21
+graylog_controller.rb
+V 23
+file 2f-1.0.r1/27232321
+K 20
+groups_controller.rb
+V 23
+file 2g-1.0.r1/27232539
+K 24
+helloadmin_controller.rb
+V 23
+file 2h-1.0.r1/27232759
+K 2
+hp
+V 22
+dir 2i-1.0.r1/27234424
+K 25
+integration_controller.rb
+V 23
+file 2q-1.0-12.r926/660
+K 22
+job_mgmt_controller.rb
+V 23
+file 2r-1.0.r1/27234797
+K 23
+lifecycle_controller.rb
+V 23
+file 2s-1.0.r1/27235017
+K 19
+login_controller.rb
+V 23
+file 2t-1.0-12.r1383/58
+K 33
+meta_deta_criterias_controller.rb
+V 23
+file 2u-1.0.r1/27235458
+K 24
+milestones_controller.rb
+V 23
+file 2v-1.0.r1/27235689
+K 24
+monitoring_controller.rb
+V 26
+file 4-1202.0-12.r1349/292
+K 28
+ocr_automation_controller.rb
+V 22
+file 2w-1.0-12.r52/257
+K 32
+ocr_server_configs_controller.rb
+V 23
+file 2x-1.0.r1/27236137
+K 23
+ocr_stats_controller.rb
+V 23
+file 2y-1.0.r1/27236367
+K 27
+pdf_convertor_controller.rb
+V 23
+file 2z-1.0.r1/27236588
+K 21
+release_controller.rb
+V 23
+file 30-1.0.r1/27236813
+K 22
+reporter_controller.rb
+V 23
+file 31-1.0.r1/27237031
+K 23
+reporting_controller.rb
+V 24
+file 32-1.0-12.r1417/292
+K 28
+request_wizard_controller.rb
+V 23
+file 33-1.0.r1/27237476
+K 12
+restful_apis
+V 22
+dir 34-1.0.r1/27237701
+K 29
+role_categories_controller.rb
+V 23
+file 35-1.0.r1/27237801
+K 19
+rules_controller.rb
+V 23
+file 36-1.0.r1/27238027
+K 10
+salesforce
+V 22
+dir 37-1.0.r1/27238547
+K 36
+salesforce_application_controller.rb
+V 23
+file 3a-1.0-12.r926/927
+K 34
+salesforce_envelopes_controller.rb
+V 23
+file 3b-1.0.r1/27238937
+K 38
+salesforce_opportunities_controller.rb
+V 23
+file 3c-1.0.r1/27239170
+K 47
+salesforce_pramata_field_mappings_controller.rb
+V 23
+file 3d-1.0.r1/27239405
+K 23
+saml_auth_controller.rb
+V 24
+file 3e-1.0-12.r871/2485
+K 20
+sample_controller.rb
+V 23
+file 3f-1.0.r1/27239871
+K 3
+se2
+V 22
+dir 3h-1.0.r1/27241458
+K 22
+searcher_controller.rb
+V 23
+file 3o-1.0.r1/27241605
+K 37
+security_administration_controller.rb
+V 23
+file 3p-1.0.r1/27241827
+K 8
+services
+V 25
+dir 4-768.0-834.r834/4258
+K 29
+snapshot_config_controller.rb
+V 23
+file 3r-1.0.r1/27242283
+K 22
+sso_auth_controller.rb
+V 24
+file 4-125.0-524.r1275/0
+K 18
+tags_controller.rb
+V 23
+file 3s-1.0.r1/27242510
+K 19
+tasks_controller.rb
+V 23
+file 3t-1.0.r1/27242724
+K 23
+team_mgmt_controller.rb
+V 24
+file 3u-1.0-1426.r1426/0
+K 24
+tour_visit_controller.rb
+V 21
+file 3v-1.0.r5/204988
+K 35
+training_set_contract_controller.rb
+V 26
+file 3w-1.1-1426.r1426/313
+K 26
+training_set_controller.rb
+V 26
+file 3x-1.2-1426.r1426/649
+K 32
+training_set_users_controller.rb
+V 26
+file 3y-1.3-1426.r1426/968
+K 32
+transaction_review_controller.rb
+V 23
+file 3z-1.0.r1/27244079
+K 30
+transaction_view_controller.rb
+V 23
+file 40-1.0-12.r13/1779
+K 26
+usage_report_controller.rb
+V 23
+file 41-1.0-12.r742/582
+K 18
+user_controller.rb
+V 25
+file 42-1.0-12.r1251/3663
+K 24
+user_roles_controller.rb
+V 23
+file 43-1.0-12.r343/565
+K 18
+view_controller.rb
+V 22
+file 44-1.0-12.r1129/0
+END
+ENDREP
+id: f-1.0-12.r1426/7707
+type: dir
+pred: f-1.0-12.r1417/6704
+count: 286
+text: 1426 1300 6394 6394 8ac9d522e936d781413cb51368614aec
+cpath: /branches/dev/app/controllers
+copyroot: 12 /branches/dev
+
+id: 65-1.4-1426.r1426/7902
+type: file
+pred: 65-1.0.r1/27266087
+count: 1
+text: 1 5802617 1626 5844 b86d01080358c796030645176ab9f465 69471de320d67b4ae4b6c1eac97341e41fbb0500 0-0/_ceb
+cpath: /branches/dev/app/helpers/team_mgmt_helper.rb
+copyfrom: 1326 /branches/dev/app/helpers/team_mgmt_helper.rb
+
+PLAIN
+K 24
+administration_helper.rb
+V 23
+file 46-1.0-12.r501/480
+K 23
+alert_configs_helper.rb
+V 23
+file 48-1.0.r1/27252458
+K 15
+alert_helper.rb
+V 23
+file 49-1.0.r1/27252672
+K 19
+analytics_helper.rb
+V 23
+file 4a-1.0.r1/27252878
+K 24
+app_exceptions_helper.rb
+V 23
+file 4b-1.0.r1/27253093
+K 19
+app_users_helper.rb
+V 23
+file 4c-1.0.r1/27253308
+K 21
+application_helper.rb
+V 26
+file 4d-1.0-12.r1317/13657
+K 24
+auto_amendment_helper.rb
+V 23
+file 4e-1.0.r1/27253737
+K 23
+chart_configs_helper.rb
+V 23
+file 4f-1.0.r1/27253952
+K 25
+contract_intake_helper.rb
+V 23
+file 4g-1.0.r1/27254166
+K 24
+contract_model_helper.rb
+V 23
+file 4h-1.0.r1/27254382
+K 25
+contract_models_helper.rb
+V 23
+file 4i-1.0.r1/27254601
+K 26
+contract_request_helper.rb
+V 23
+file 4j-1.0.r1/27254820
+K 25
+contract_upload_helper.rb
+V 23
+file 4k-1.0.r1/27255038
+K 19
+contracts_helper.rb
+V 26
+file 4l-1.0-12.r1317/13928
+K 3
+ctl
+V 22
+dir 4n-1.0.r1/27256236
+K 18
+customer_helper.rb
+V 23
+file 4s-1.0.r1/27256379
+K 23
+customer_task_helper.rb
+V 23
+file 4t-1.0.r1/27256592
+K 34
+customer_user_management_helper.rb
+V 24
+file 4v-1.0-12.r1173/966
+K 23
+customer_view_helper.rb
+V 26
+file 4w-1.0-12.r1037/13442
+K 20
+data_audit_helper.rb
+V 23
+file 4x-1.0.r1/27257467
+K 25
+data_extraction_helper.rb
+V 23
+file 4z-1.0.r1/27257895
+K 21
+data_import_helper.rb
+V 23
+file 50-1.0.r1/27258116
+K 30
+data_management_jobs_helper.rb
+V 23
+file 51-1.0.r1/27258330
+K 38
+data_management_term_configs_helper.rb
+V 23
+file 52-1.0.r1/27258551
+K 23
+data_mappings_helper.rb
+V 23
+file 53-1.0.r1/27258780
+K 42
+derived_data_element_definitions_helper.rb
+V 23
+file 54-1.0.r1/27258993
+K 24
+document_audit_helper.rb
+V 23
+file 55-1.0.r1/27259229
+K 36
+document_exception_details_helper.rb
+V 23
+file 56-1.0.r1/27259444
+K 29
+document_exceptions_helper.rb
+V 25
+file 57-1.0-12.r1015/8887
+K 46
+document_intake_email_configurations_helper.rb
+V 23
+file 58-1.0.r1/27259897
+K 43
+document_intake_notification_rule_helper.rb
+V 23
+file 59-1.0.r1/27260136
+K 26
+exception_groups_helper.rb
+V 23
+file 5a-1.0.r1/27260370
+K 18
+feedback_helper.rb
+V 23
+file 5b-1.0.r1/27260587
+K 22
+file_uploads_helper.rb
+V 23
+file 5c-1.0.r1/27260795
+K 20
+gatepasses_helper.rb
+V 23
+file 5d-1.0.r1/27261010
+K 2
+hp
+V 22
+dir 5e-1.0.r1/27261763
+K 21
+integration_helper.rb
+V 23
+file 5j-1.0.r1/27261905
+K 15
+login_helper.rb
+V 23
+file 5k-1.0.r1/27262116
+K 29
+meta_deta_criterias_helper.rb
+V 23
+file 5l-1.0.r1/27262321
+K 20
+milestones_helper.rb
+V 23
+file 5m-1.0.r1/27262541
+K 17
+release_helper.rb
+V 23
+file 5n-1.0.r1/27262752
+K 23
+remote_link_renderer.rb
+V 23
+file 5o-1.0.r1/27262960
+K 18
+reporter_helper.rb
+V 23
+file 5p-1.0.r1/27263176
+K 19
+reporting_helper.rb
+V 26
+file 5q-1.0-12.r1037/13707
+K 12
+restful_apis
+V 22
+dir 5r-1.0.r1/27263598
+K 15
+rules_helper.rb
+V 23
+file 5s-1.0.r1/27263694
+K 29
+salesforce_accounts_helper.rb
+V 23
+file 5t-1.0.r1/27263900
+K 43
+salesforce_pramata_field_mappings_helper.rb
+V 23
+file 5u-1.0.r1/27264123
+K 16
+sample_helper.rb
+V 23
+file 5v-1.0.r1/27264361
+K 3
+se2
+V 22
+dir 5w-1.0.r1/27265109
+K 25
+snapshot_config_helper.rb
+V 23
+file 61-1.0.r1/27265252
+K 14
+sort_helper.rb
+V 23
+file 62-1.0.r1/27265470
+K 18
+sso_auth_helper.rb
+V 26
+file 4-171.0-528.r557/1574
+K 14
+tags_helper.rb
+V 23
+file 63-1.0.r1/27265677
+K 15
+tasks_helper.rb
+V 23
+file 64-1.0.r1/27265882
+K 19
+team_mgmt_helper.rb
+V 27
+file 65-1.4-1426.r1426/7902
+K 28
+transaction_review_helper.rb
+V 23
+file 66-1.0.r1/27266300
+K 26
+transaction_view_helper.rb
+V 23
+file 67-1.0.r1/27266518
+K 22
+usage_report_helper.rb
+V 23
+file 68-1.0.r1/27266737
+K 14
+user_helper.rb
+V 23
+file 69-1.0.r1/27266955
+K 20
+user_roles_helper.rb
+V 23
+file 6a-1.0.r1/27267163
+K 14
+view_helper.rb
+V 23
+file 6b-1.0.r1/27267374
+END
+ENDREP
+id: 45-1.0-12.r1426/11846
+type: dir
+pred: 45-1.0-12.r1363/10096
+count: 32
+text: 1426 8198 3635 3635 03bc12f46dc4ddcc9a7ef5ae6d66e55e
+cpath: /branches/dev/app/helpers
+copyroot: 12 /branches/dev
+
+id: sp-1.5-1426.r1426/12040
+type: dir
+pred: sp-1.0.r1/27492728
+count: 1
+text: 1 27492423 292 292 0076ff618aa33c20dda54264d832baa9
+cpath: /branches/dev/app/views/contract_models
+copyfrom: 1363 /branches/dev/app/views/contract_models
+
+id: 1ep-1.6-1426.r1426/12273
+type: file
+pred: 1ep-1.0.r1/27709947
+count: 1
+text: 1 14269637 5306 20948 51296479c1dec45c75cdb0553854be05 b3ba7b47ac2470709e036c4865e9b085836dceb6 0-0/_f58
+cpath: /branches/dev/app/views/layouts/contract_model.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/contract_model.html.erb
+
+id: 1f1-1.7-1426.r1426/12594
+type: file
+pred: 1f1-1.0.r1/27712285
+count: 1
+text: 1 11320277 1240 3832 9326e5ae8f84584f78ada57f5014d566 22ec11d0ad801ea1a520e5447b36a5b131683131 0-0/_e3h
+cpath: /branches/dev/app/views/layouts/customer_team_mgmt.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/customer_team_mgmt.html.erb
+
+id: 1f4-1.8-1426.r1426/12922
+type: file
+pred: 1f4-1.0.r1/27712973
+count: 1
+text: 1 12033855 8362 33257 e5ad7c867c6847e5caa2c51a882a54eb 650d31e28a9c27c3e7895144966047afa08fae1d 0-0/_edy
+cpath: /branches/dev/app/views/layouts/data_entry.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/data_entry.html.erb
+
+id: 1gj-1.9-1426.r1426/13235
+type: file
+pred: 1gj-1.0.r1/27724531
+count: 1
+text: 1 4230439 4068 16473 1234bbb5835ece0f586a83a12562c4da 4aedd62384100f0d4ee8a453bb9d1876e6d47992 0-0/_bom
+cpath: /branches/dev/app/views/layouts/team_mgmt.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/team_mgmt.html.erb
+
+id: 1gk-1.a-1426.r1426/13545
+type: file
+pred: 1gk-1.0.r1/27724751
+count: 1
+text: 1 13299369 794 2354 57bc186a79a20c92666a3b5d16b21067 ff618b074886b47d0b101c8d1f61521fde464a45 0-0/_exo
+cpath: /branches/dev/app/views/layouts/training_set.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/training_set.html.erb
+
+id: 1gl-1.b-1426.r1426/13860
+type: file
+pred: 1gl-1.0.r1/27724973
+count: 1
+text: 1 24417794 2166 8341 59f14be69c732eb4ab81c197b2a54da4 6a0510d645a0f9a2467d50a70d8b0e9719427fe6 0-0/_i55
+cpath: /branches/dev/app/views/layouts/training_set_users.html.erb
+copyfrom: 1363 /branches/dev/app/views/layouts/training_set_users.html.erb
+
+PLAIN
+K 23
+administration.html.erb
+V 24
+file 1ek-1.0.r1/27709057
+K 22
+alert_configs.html.erb
+V 24
+file 1em-1.0.r1/27709282
+K 18
+analytics.html.erb
+V 24
+file 1en-1.0.r1/27709505
+K 24
+contract_intake.html.erb
+V 24
+file 1eo-1.0.r1/27709723
+K 23
+contract_model.html.erb
+V 29
+file 1ep-1.6-1426.r1426/12273
+K 25
+contract_request.html.erb
+V 24
+file 1eq-1.0.r1/27710173
+K 24
+contract_upload.html.erb
+V 24
+file 1er-1.0.r1/27710399
+K 18
+contracts.html.erb
+V 24
+file 1es-1.0.r1/27710623
+K 3
+ctl
+V 23
+dir 1et-1.0.r1/27711693
+K 17
+customer.html.erb
+V 25
+file 1ez-1.0-12.r1326/583
+K 22
+customer_task.html.erb
+V 24
+file 1f0-1.0.r1/27712063
+K 27
+customer_team_mgmt.html.erb
+V 29
+file 1f1-1.7-1426.r1426/12594
+K 33
+customer_user_management.html.erb
+V 25
+file 1f2-1.0-12.r615/7884
+K 22
+customer_view.html.erb
+V 27
+file 1f3-1.0-12.r1037/55824
+K 19
+data_entry.html.erb
+V 29
+file 1f4-1.8-1426.r1426/12922
+K 29
+data_management_jobs.html.erb
+V 24
+file 1f5-1.0.r1/27713195
+K 37
+data_management_term_configs.html.erb
+V 24
+file 1f6-1.0.r1/27713424
+K 26
+delayed_job_admin.html.erb
+V 24
+file 1f7-1.0.r1/27713656
+K 23
+document_audit.html.erb
+V 24
+file 1f8-1.0.r1/27713883
+K 28
+document_exceptions.html.erb
+V 23
+file 1f9-1.0-12.r980/60
+K 14
+draft.html.erb
+V 24
+file 1fa-1.0.r1/27714335
+K 17
+feedback.html.erb
+V 24
+file 1fb-1.0.r1/27714551
+K 21
+file_uploads.html.erb
+V 24
+file 1fc-1.0.r1/27714769
+K 25
+full_text_search.html.erb
+V 24
+file 1fd-1.0.r1/27714990
+K 2
+hp
+V 23
+dir 1fe-1.0.r1/27716061
+K 14
+login.html.erb
+V 25
+file 1fk-1.0-12.r838/9438
+K 28
+meta_deta_criterias.html.erb
+V 24
+file 1fl-1.0.r1/27716424
+K 11
+old_layouts
+V 23
+dir 1fm-1.0.r1/27721605
+K 16
+release.html.erb
+V 24
+file 1g5-1.0.r1/27721765
+K 18
+reporting.html.erb
+V 27
+file 1g6-1.0-12.r1037/56099
+K 23
+request_wizard.html.erb
+V 24
+file 1g7-1.0.r1/27722202
+K 14
+rules.html.erb
+V 24
+file 1g8-1.0.r1/27722427
+K 33
+salesforce_opportunities.html.erb
+V 24
+file 1g9-1.0.r1/27722642
+K 3
+se2
+V 23
+dir 1ga-1.0.r1/27723724
+K 17
+searcher.html.erb
+V 24
+file 1gg-1.0.r1/27723874
+K 24
+snapshot_config.html.erb
+V 24
+file 1gh-1.0.r1/27724092
+K 17
+sso_auth.html.erb
+V 25
+file 5-162.1-528.r536/891
+K 14
+tasks.html.erb
+V 24
+file 1gi-1.0.r1/27724317
+K 18
+team_mgmt.html.erb
+V 29
+file 1gj-1.9-1426.r1426/13235
+K 21
+training_set.html.erb
+V 29
+file 1gk-1.a-1426.r1426/13545
+K 27
+training_set_users.html.erb
+V 29
+file 1gl-1.b-1426.r1426/13860
+K 27
+transaction_review.html.erb
+V 24
+file 1gm-1.0.r1/27725202
+K 25
+transaction_view.html.erb
+V 24
+file 1gn-1.0.r1/27725431
+K 21
+usage_report.html.erb
+V 24
+file 1go-1.0.r1/27725658
+K 13
+user.html.erb
+V 24
+file 1gp-1.0.r1/27725881
+K 13
+view.html.erb
+V 25
+file 1gq-1.0-12.r1171/509
+K 21
+view_request.html.erb
+V 24
+file 1gr-1.0.r1/27726310
+END
+ENDREP
+id: 1ej-1.0-12.r1426/16890
+type: dir
+pred: 1ej-1.0-12.r1364/2321
+count: 32
+text: 1426 14188 2689 2689 6f93b027861a3497a16df654b2692bbd
+cpath: /branches/dev/app/views/layouts
+copyroot: 12 /branches/dev
+
+id: 1tk-1.c-1426.r1426/17092
+type: dir
+pred: 1tk-1.0.r1/27888377
+count: 1
+text: 1 27880073 8291 8291 4e50f779d6461c972891d0b9d05a096e
+cpath: /branches/dev/app/views/team_mgmt
+copyfrom: 1326 /branches/dev/app/views/team_mgmt
+
+id: 1x0-1.d-1426.r1426/17317
+type: dir
+pred: 1x0-1.0.r1/27889745
+count: 1
+text: 1 27889464 268 268 32ec92470c0a580b8207063e95fe277e
+cpath: /branches/dev/app/views/training_set
+copyfrom: 1326 /branches/dev/app/views/training_set
+
+id: 1x6-1.e-1426.r1426/17546
+type: dir
+pred: 1x6-1.0.r1/27891178
+count: 1
+text: 1 27890886 279 279 fb4d2c129b72bd022a38197a44cb93bf
+cpath: /branches/dev/app/views/training_set_contract
+copyfrom: 1326 /branches/dev/app/views/training_set_contract
+
+id: 1xc-1.f-1426.r1426/17793
+type: dir
+pred: 1xc-1.0.r1/27904681
+count: 1
+text: 1 27901689 2979 2979 567b632125fc1989f32ee37245c93c3c
+cpath: /branches/dev/app/views/training_set_users
+copyfrom: 1326 /branches/dev/app/views/training_set_users
+
+PLAIN
+K 14
+administration
+V 23
+dir i3-1.0-12.r501/5235
+K 5
+alert
+V 24
+dir ia-1.0-12.r1333/3221
+K 13
+alert_configs
+V 22
+dir jj-1.0.r1/27402920
+K 9
+analytics
+V 22
+dir k2-1.0.r1/27411999
+K 14
+app_exceptions
+V 22
+dir ky-1.0-12.r13/9598
+K 9
+app_users
+V 22
+dir l8-1.0.r1/27417550
+K 14
+auto_amendment
+V 22
+dir lk-1.0.r1/27417995
+K 13
+chart_configs
+V 22
+dir ln-1.0.r1/27418699
+K 21
+contract_audit_errors
+V 22
+dir lr-1.0.r1/27420042
+K 15
+contract_intake
+V 22
+dir lx-1.0.r1/27423701
+K 14
+contract_model
+V 22
+dir mb-1.0.r1/27486471
+K 29
+contract_model_data_dropdowns
+V 22
+dir s3-1.0.r1/27486973
+K 28
+contract_model_data_elements
+V 22
+dir s6-1.0.r1/27487483
+K 30
+contract_model_term_categories
+V 22
+dir s9-1.0.r1/27489854
+K 25
+contract_model_term_types
+V 22
+dir si-1.0.r1/27490624
+K 27
+contract_model_term_updates
+V 22
+dir sm-1.0.r1/27491114
+K 15
+contract_models
+V 27
+dir sp-1.5-1426.r1426/12040
+K 16
+contract_request
+V 23
+dir sw-1.0-12.r216/7832
+K 15
+contract_upload
+V 22
+dir vr-1.0-12.r740/829
+K 9
+contracts
+V 25
+dir w1-1.0-12.r1317/48986
+K 3
+ctl
+V 24
+dir x8-1.0-12.r334/41383
+K 8
+customer
+V 25
+dir yc-1.0-12.r1317/51458
+K 13
+customer_task
+V 22
+dir z7-1.0.r1/27558454
+K 24
+customer_user_management
+V 25
+dir zm-1.0-12.r1173/29444
+K 13
+customer_view
+V 25
+dir zv-1.0-12.r1384/16507
+K 10
+data_audit
+V 23
+dir 136-1.0.r1/27602120
+K 15
+data_extraction
+V 23
+dir 17u-1.0.r1/27656298
+K 11
+data_import
+V 23
+dir 18j-1.0.r1/27657984
+K 20
+data_management_jobs
+V 23
+dir 18q-1.0.r1/27659843
+K 28
+data_management_term_configs
+V 23
+dir 18y-1.0.r1/27662910
+K 13
+data_mappings
+V 23
+dir 19a-1.0.r1/27665277
+K 9
+data_maps
+V 23
+dir 19k-1.0.r1/27665701
+K 17
+delayed_job_admin
+V 23
+dir 19n-1.0.r1/27666430
+K 32
+derived_data_element_definitions
+V 23
+dir 19r-1.0.r1/27673645
+K 14
+document_audit
+V 23
+dir 1ag-1.0.r1/27674106
+K 26
+document_exception_details
+V 23
+dir 1aj-1.0.r1/27675999
+K 19
+document_exceptions
+V 25
+dir 1ar-1.0-12.r1409/1105
+K 36
+document_intake_email_configurations
+V 23
+dir 1b0-1.0.r1/27681143
+K 29
+document_intake_notifications
+V 23
+dir 1bb-1.0.r1/27681945
+K 22
+document_intake_report
+V 23
+dir 1bf-1.0.r1/27682816
+K 13
+email_configs
+V 23
+dir 1bj-1.0.r1/27683565
+K 16
+exception_groups
+V 23
+dir 1bn-1.0.r1/27684820
+K 18
+execution_requests
+V 23
+dir 1bt-1.0.r1/27685540
+K 8
+feedback
+V 26
+dir 1bx-1.0-12.r668/405904
+K 9
+file_sync
+V 23
+dir 1c6-1.0.r1/27688179
+K 12
+file_uploads
+V 23
+dir 1c9-1.0-12.r160/970
+K 16
+full_text_search
+V 23
+dir 1cm-1.0.r1/27691538
+K 10
+gatepasses
+V 23
+dir 1cn-1.0.r1/27691637
+K 6
+groups
+V 23
+dir 1co-1.0.r1/27694817
+K 10
+helloadmin
+V 23
+dir 1d1-1.0.r1/27698490
+K 2
+hp
+V 23
+dir 1df-1.0.r1/27705981
+K 11
+integration
+V 25
+dir 1e6-1.0-12.r334/50556
+K 8
+job_mgmt
+V 23
+dir 1ec-1.0.r1/27708908
+K 7
+layouts
+V 26
+dir 1ej-1.0-12.r1426/16890
+K 5
+login
+V 25
+dir 1gs-1.0-12.r1294/9183
+K 19
+meta_deta_criterias
+V 23
+dir 1h5-1.0.r1/27733636
+K 10
+milestones
+V 23
+dir 1hb-1.0.r1/27734105
+K 8
+notifier
+V 23
+dir 1he-1.0.r1/27734846
+K 18
+ocr_server_configs
+V 23
+dir 1hi-1.0.r1/27735605
+K 9
+ocr_stats
+V 23
+dir 1hm-1.0.r1/27736056
+K 7
+release
+V 23
+dir 1hp-1.0.r1/27736489
+K 8
+reporter
+V 23
+dir 1hs-1.0.r1/27751797
+K 9
+reporting
+V 26
+dir 1jb-1.0-12.r1317/69481
+K 14
+request_wizard
+V 23
+dir 1mu-1.0.r1/27789311
+K 15
+role_categories
+V 23
+dir 1my-1.0.r1/27789784
+K 5
+rules
+V 23
+dir 1n1-1.0.r1/27797789
+K 22
+salesforce_application
+V 23
+dir 1nv-1.0.r1/27798258
+K 20
+salesforce_envelopes
+V 23
+dir 1ny-1.0.r1/27799043
+K 24
+salesforce_opportunities
+V 25
+dir 1o2-1.0-12.r334/64267
+K 33
+salesforce_pramata_field_mappings
+V 23
+dir 1oa-1.0.r1/27801908
+K 6
+sample
+V 23
+dir 1oe-1.0.r1/27804221
+K 7
+sampler
+V 23
+dir 1oo-1.0.r1/27804669
+K 3
+se2
+V 23
+dir 1or-1.0.r1/27816154
+K 8
+searcher
+V 23
+dir 1pv-1.0.r1/27820459
+K 23
+security_administration
+V 23
+dir 1qc-1.0.r1/27823295
+K 9
+send_mail
+V 23
+dir 1qn-1.0.r1/27835501
+K 21
+send_test_report_mail
+V 23
+dir 1rt-1.0.r1/27835958
+K 6
+shared
+V 26
+dir 1rw-1.0-12.r1294/10637
+K 14
+simple_captcha
+V 23
+dir 4-842.0-12.r842/314
+K 15
+snapshot_config
+V 23
+dir 1se-1.0.r1/27844772
+K 8
+sso_auth
+V 27
+dir 7-162.2-528.r1232/32293
+K 4
+tags
+V 23
+dir 1st-1.0.r1/27845980
+K 5
+tasks
+V 23
+dir 1sz-1.0.r1/27851319
+K 9
+team_mgmt
+V 28
+dir 1tk-1.c-1426.r1426/17092
+K 12
+training_set
+V 28
+dir 1x0-1.d-1426.r1426/17317
+K 21
+training_set_contract
+V 28
+dir 1x6-1.e-1426.r1426/17546
+K 18
+training_set_users
+V 28
+dir 1xc-1.f-1426.r1426/17793
+K 18
+transaction_review
+V 24
+dir 1yk-1.0-12.r13/18803
+K 16
+transaction_view
+V 24
+dir 1yt-1.0-12.r13/20749
+K 12
+usage_report
+V 24
+dir 1z8-1.0-12.r738/3163
+K 4
+user
+V 26
+dir 20d-1.0-12.r1161/46853
+K 10
+user_roles
+V 23
+dir 22e-1.0.r1/27945235
+K 4
+view
+V 26
+dir 22j-1.0-12.r1151/19650
+END
+ENDREP
+id: i2-1.0-12.r1426/22649
+type: dir
+pred: i2-1.0-12.r1409/5652
+count: 142
+text: 1426 18036 4600 4600 e227dc053ed53b131ee73ca1dee72e00
+cpath: /branches/dev/app/views
+copyroot: 12 /branches/dev
+
+PLAIN
+K 4
+apis
+V 21
+dir a-1.0.r1/27216895
+K 11
+controllers
+V 23
+dir f-1.0-12.r1426/7707
+K 7
+helpers
+V 25
+dir 45-1.0-12.r1426/11846
+K 5
+metal
+V 22
+dir 6c-1.0.r1/27271772
+K 6
+models
+V 25
+dir 6f-1.0-12.r1416/23663
+K 5
+views
+V 25
+dir i2-1.0-12.r1426/22649
+END
+ENDREP
+id: 9-1.0-12.r1426/23105
+type: dir
+pred: 9-1.0-12.r1417/7160
+count: 556
+text: 1426 22842 250 250 54f74a516c3cdfafa30c3c7220ef985e
+cpath: /branches/dev/app
+copyroot: 12 /branches/dev
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 24
+dir 9-1.0-12.r1426/23105
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 26
+dir 24j-1.0-12.r1424/11051
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 26
+dir 2dg-1.0-12.r1306/87982
+K 3
+doc
+V 27
+dir 365-1.0-12.r1037/180838
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 25
+dir 36j-1.0-12.r1359/4165
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 27
+dir 3fm-1.0-12.r1317/135293
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 26
+dir 92z-1.0-12.r1420/25987
+K 4
+spec
+V 27
+dir 9k8-1.0-12.r1317/140384
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 23
+dir 2-495.0-12.r672/563
+K 6
+vendor
+V 24
+dir 9wa-1.0-12.r844/2822
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+PLAIN
+K 13
+svn:mergeinfo
+V 1283
+/branches/ae_development:33-40
+/branches/se:22
+/branches/se_dev:45,54,60-61,65,77-79,98,137-146,148,150-152,159,165,168,175,179-181,184-185,188-189,192,196-197,200,202,206-215,218-219,221-222,226,230-231,234-235,238,242-243,246-249,254,257-262,271,273-277,279-283,285-294,296,305,328,333,337-338,350-353,356-357,359,361-363,367-371,373-384,386-392,394,398-400,403-404,407,415-452,455-456,458,461-462,467,469-477,479-483,485,487,490,512,521,569-575,591-594,620-621,627-628,630,632,634-642,648-649,652-653,655,657,659,675-678,686,688,690-697,768,770-771,780-793,795-797,801,808,814-817,819,821-823,847,860-863,872,879-881,884-885,897-913,916-917,923,928-932,935,938-947,949-951,953,956-957,962,981,987,1007,1064,1099,1109-1110,1113-1117,1119,1139,1155-1156,1158,1165-1169,1172,1174-1177,1185,1187,1192,1195,1201,1204,1226,1239,1245,1260,1281-1282,1285,1287,1290,1307,1361,1366,1370,1374-1378
+/branches/se_dev_patches:887-889,894
+/trunk:41-46,56,59,62,69,71-72,84-93,99-102,278-297,336-339,354-408,417-419,454-468,508-513,603-605,651-660,666,670-671,679-680,687,689,691,698,779-824,843,845-846,849,856-857,864,890-927,989-1032,1042-1060,1063-1068,1093-1094,1118-1120,1153-1162,1184,1186,1188-1189,1191,1196,1198,1205-1208,1216-1217,1227-1228,1234,1246,1283,1295-1316,1319-1382,1390-1414
+END
+ENDREP
+id: 0-1.0-12.r1426/25780
+type: dir
+pred: 0-1.0-12.r1424/12407
+count: 706
+text: 1426 23288 1152 1152 6738a5660648a220dbc1aecdd754475a
+props: 1426 24453 1314 0 02d933f939a4c9091c8b0516a566c528
+cpath: /branches/dev
+copyroot: 12 /branches/dev
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 24
+dir 0-1.0-12.r1426/25780
+K 6
+se_dev
+V 23
+dir 0-1.0-23.r1412/9923
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+END
+ENDREP
+id: 0-11.0.r1426/26340
+type: dir
+pred: 0-11.0.r1424/12967
+count: 1145
+text: 1426 26047 280 280 6daa37913f4347489d475bb8e825107d
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 5
+
+PLAIN
+K 8
+branches
+V 22
+dir 0-11.0.r1426/26340
+K 4
+tags
+V 20
+dir 0-7.0.r1425/5152
+K 5
+trunk
+V 21
+dir 0-1.0.r1423/27012
+END
+ENDREP
+id: 0.0.r1426/26643
+type: dir
+pred: 0.0.r1425/5447
+count: 1426
+text: 1426 26513 117 117 a9bd631dc3c3040d41f73a8aa2942e09
+cpath: /
+copyroot: 0 /
+minfo-cnt: 65
+
+0-1.0-12.t1425-14i modify-dir false true /branches/dev
+
+3u-1._0.t1425-14i add-file false false /branches/dev/app/controllers/team_mgmt_controller.rb
+1326 /branches/dev/app/controllers/team_mgmt_controller.rb
+3w-1._1.t1425-14i add-file false false /branches/dev/app/controllers/training_set_contract_controller.rb
+1326 /branches/dev/app/controllers/training_set_contract_controller.rb
+3x-1._2.t1425-14i add-file false false /branches/dev/app/controllers/training_set_controller.rb
+1326 /branches/dev/app/controllers/training_set_controller.rb
+3y-1._3.t1425-14i add-file false false /branches/dev/app/controllers/training_set_users_controller.rb
+1326 /branches/dev/app/controllers/training_set_users_controller.rb
+65-1._4.t1425-14i add-file false false /branches/dev/app/helpers/team_mgmt_helper.rb
+1326 /branches/dev/app/helpers/team_mgmt_helper.rb
+sp-1._5.t1425-14i add-dir false false /branches/dev/app/views/contract_models
+1363 /branches/dev/app/views/contract_models
+1ep-1._6.t1425-14i add-file false false /branches/dev/app/views/layouts/contract_model.html.erb
+1363 /branches/dev/app/views/layouts/contract_model.html.erb
+1f1-1._7.t1425-14i add-file false false /branches/dev/app/views/layouts/customer_team_mgmt.html.erb
+1363 /branches/dev/app/views/layouts/customer_team_mgmt.html.erb
+1f4-1._8.t1425-14i add-file false false /branches/dev/app/views/layouts/data_entry.html.erb
+1363 /branches/dev/app/views/layouts/data_entry.html.erb
+1gj-1._9.t1425-14i add-file false false /branches/dev/app/views/layouts/team_mgmt.html.erb
+1363 /branches/dev/app/views/layouts/team_mgmt.html.erb
+1gk-1._a.t1425-14i add-file false false /branches/dev/app/views/layouts/training_set.html.erb
+1363 /branches/dev/app/views/layouts/training_set.html.erb
+1gl-1._b.t1425-14i add-file false false /branches/dev/app/views/layouts/training_set_users.html.erb
+1363 /branches/dev/app/views/layouts/training_set_users.html.erb
+1tk-1._c.t1425-14i add-dir false false /branches/dev/app/views/team_mgmt
+1326 /branches/dev/app/views/team_mgmt
+1x0-1._d.t1425-14i add-dir false false /branches/dev/app/views/training_set
+1326 /branches/dev/app/views/training_set
+1x6-1._e.t1425-14i add-dir false false /branches/dev/app/views/training_set_contract
+1326 /branches/dev/app/views/training_set_contract
+1xc-1._f.t1425-14i add-dir false false /branches/dev/app/views/training_set_users
+1326 /branches/dev/app/views/training_set_users
+
+26643 26802

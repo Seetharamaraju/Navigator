@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 7
+bharath
+K 8
+svn:date
+V 27
+2016-08-12T19:00:34.332335Z
+K 7
+svn:log
+V 120
+Comments: Fixed issues of loading key terms page when effective date is blank. Displaying of beta flag in key terms view
+END

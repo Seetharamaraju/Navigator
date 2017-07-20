@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-30T07:59:26.842204Z
+K 7
+svn:log
+V 172
+#35612 Comments: Fixed one Mass Assignment in audit_company_group method, also limited mass assignment access to the action_time field for the CompanyGroupAuditTrail model.
+END

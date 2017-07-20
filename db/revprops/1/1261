@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-06T07:35:47.592013Z
+K 7
+svn:log
+V 371
+#35649 Comments: Allowed orginal_name, comment, file_size, location, name, pontus_number, document_checksum, active_version, is_ocred, ocr_quality, has_pdf, is_processed, external_params, upload_source, custom_fields, text_availability_percentage, created_at, updated_at to be available for Mass Assignment. Also Removed the Mass Assignment issues related to Upload File.
+END

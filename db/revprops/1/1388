@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-19T09:37:35.244743Z
+K 7
+svn:log
+V 134
+Comments: Cleaning up the Simplerules entry for contracts where no policy term is present after all the policy term are looped through
+END

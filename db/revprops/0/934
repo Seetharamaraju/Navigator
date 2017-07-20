@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-11-08T15:07:21.178746Z
+K 7
+svn:log
+V 114
+#33830 comments : Rescue from ActionController::InvalidAuthenticityToken and log it into the app_exception logger.
+END

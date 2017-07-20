@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-29T07:39:56.428570Z
+K 7
+svn:log
+V 65
+#35563 comment: Deactivate the users which are provided in sftp. 
+END

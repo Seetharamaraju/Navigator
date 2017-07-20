@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-14T02:21:24.887814Z
+K 7
+svn:log
+V 104
+ #32697 comments: Reverted old fix and applied removal of amendment categories in show_left_nav partial 
+END

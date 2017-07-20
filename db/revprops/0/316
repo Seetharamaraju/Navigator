@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-01T14:45:09.393746Z
+K 7
+svn:log
+V 68
+#32550 Comments: Fixed one SQL injection issue in search_alert_count
+END

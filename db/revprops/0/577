@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-09-06T07:15:14.991098Z
+K 7
+svn:log
+V 110
+#33272 comments : Fix application down issue when instance failed to connect salesforce (external_identifier).
+END

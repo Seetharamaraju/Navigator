@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-29T09:34:23.423950Z
+K 7
+svn:log
+V 141
+#31984 Comments: Fetching the Error messages for the failed delayed jobs. so that it can be available  in the mail alert for the failed jobs.
+END

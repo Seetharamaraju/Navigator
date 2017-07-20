@@ -1,0 +1,38 @@
+id: 0-1622.0.r1622/0
+type: dir
+count: 0
+cpath: /summer2017_qatags
+copyroot: 0 /
+
+PLAIN
+K 8
+branches
+V 21
+dir 0-11.0.r1620/3044
+K 17
+summer2017_qatags
+V 20
+dir 0-1622.0.r1622/0
+K 4
+tags
+V 20
+dir 0-7.0.r1617/6201
+K 5
+trunk
+V 20
+dir 0-1.0.r1619/4683
+END
+ENDREP
+id: 0.0.r1622/258
+type: dir
+pred: 0.0.r1621/128
+count: 1622
+text: 1622 81 164 164 0c9612dc5086020c96e9aac27ee0374a
+cpath: /
+copyroot: 0 /
+minfo-cnt: 83
+
+_0.0.t1621-19z add-dir false false /summer2017_qatags
+
+
+258 411

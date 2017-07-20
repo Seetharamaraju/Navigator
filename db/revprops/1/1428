@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-01-31T13:31:43.170366Z
+K 7
+svn:log
+V 116
+#36313 Comments: Changed the security filter for ajax_load_de action to check for the sub module Alert Configuration
+END

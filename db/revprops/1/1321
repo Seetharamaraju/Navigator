@@ -1,0 +1,30 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2017-01-12T07:14:28.602514Z
+K 7
+svn:log
+V 845
+Merged revision(s) 1309-1310, 1313-1316, 1318-1319 from trunk:
+
+........
+comments : Revert property changes of the trunk (Revision No 1309)
+........
+Comments: Changed api service url for truvenhealth
+........
+ Fixed issues on Winter 17 release 1. Added tooltip color for Non Standard reporting badge 2. Removed beta flag from export 3. Added document title in enhanced citation 
+........
+ Fixed the issue where on keyterms with more than 10 data pieces the See All link was showing customer editable terms along with particular terms data 
+........
+comments: ZD ID: 2938 update app configuration for clean energy prod instance.
+........
+Code Merge from Dev to Trunk. Revisions: 838,840-842,844,851,965. Bugs: #33832(CAPTCHA), #34581(Session Timeout). Conflicts: appconfig.ncr.yml
+........
+#Comments: Adding new users to beta users list
+........
+
+END

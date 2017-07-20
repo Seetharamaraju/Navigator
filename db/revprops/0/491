@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-22T07:22:20.307928Z
+K 7
+svn:log
+V 62
+#33140 Comments:Fixed 1 SQL injection for Named Scope :by_date
+END

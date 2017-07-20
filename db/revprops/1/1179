@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-22T08:58:29.638397Z
+K 7
+svn:log
+V 93
+Comments: Finding the contracts in batch of 1000 so that there is not much load on the memory
+END

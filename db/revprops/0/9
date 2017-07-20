@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-06-03T18:27:47.246641Z
+K 7
+svn:log
+V 169
+ Merge Commit Revision 22459-22607, Merged the Email Id Invalid prompt to Saml users and Consume Saml Failure error fix from buddha/branches/se_trunk to navigator/trunk 
+END

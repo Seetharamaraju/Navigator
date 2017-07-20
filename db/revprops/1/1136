@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-12-13T11:20:25.915383Z
+K 7
+svn:log
+V 113
+#34763 Comments: Added a check for the presence of the app_config :alert_config before actually reading the value
+END

@@ -1,0 +1,781 @@
+id: g-34.6-41.r44/0
+type: file
+pred: g-34.6-41.r41/121739
+count: 2
+text: 43 0 312 4722 150c594ad7d6fd22747419c17dae1fd2 1d29c449c8538d249c9bb6cddf6d88a913f7bfcc 43-1d/_3
+cpath: /trunk/script/get_preprocess_information.rb
+copyroot: 41 /trunk/script/get_preprocess_information.rb
+
+PLAIN
+K 20
+13074_all_modules.rb
+V 24
+file 930-1.0.r1/30723338
+K 35
+24015_app_users_last_login_issue.rb
+V 24
+file 932-1.0.r1/30723547
+K 8
+8633.xls
+V 24
+file 933-1.0.r1/30723838
+K 14
+Clone_Contract
+V 24
+file 934-1.0.r1/30724094
+K 8
+actimize
+V 23
+dir 935-1.0.r1/30726058
+K 25
+add_deployment_details.rb
+V 24
+file 93e-1.0.r1/30726202
+K 15
+alert_engine.rb
+V 24
+file 93f-1.0.r1/30726415
+K 24
+audit_trail_migration.rb
+V 24
+file 93g-1.0.r1/30726620
+K 25
+auto_assignment_engine.rb
+V 24
+file 93h-1.0.r1/30726835
+K 36
+auto_extraction_monitoring_script.rb
+V 24
+file 93i-1.0.r1/30727050
+K 14
+background_job
+V 23
+dir 93j-1.0.r1/30727841
+K 26
+brakeman_summary_report.rb
+V 24
+file 93n-1.0.r1/30727993
+K 12
+breakpointer
+V 24
+file 93o-1.0.r1/30728210
+K 22
+bulk_api_query_test.rb
+V 24
+file 93p-1.0.r1/30728411
+K 8
+callaway
+V 23
+dir 93q-1.0.r1/30730557
+K 11
+centurylink
+V 23
+dir 941-1.0.r1/30731847
+K 27
+check_total_delayed_jobs.rb
+V 24
+file 948-1.0.r1/30731994
+K 34
+check_total_failed_delayed_jobs.rb
+V 24
+file 949-1.0.r1/30732211
+K 5
+cisco
+V 23
+dir 94a-1.0.r1/30732908
+K 35
+clean_contracts_simplerules_data.rb
+V 24
+file 94e-1.0.r1/30733051
+K 43
+cleanup_docusign_contract_creation_issue.rb
+V 24
+file 94f-1.0.r1/30733276
+K 9
+click.au3
+V 24
+file 94g-1.0.r1/30733508
+K 19
+code_improvement.rb
+V 24
+file 94h-1.0.r1/30733704
+K 7
+comcast
+V 23
+dir 94i-1.0.r1/30734936
+K 47
+company_group_contracts_and_account_mapping.csv
+V 24
+file 94q-1.0.r1/30735079
+K 13
+configuration
+V 23
+dir 94r-1.0.r1/30735959
+K 7
+console
+V 24
+file 94v-1.0.r1/30736110
+K 33
+contract_dummy_data_generation.rb
+V 24
+file 94w-1.0.r1/30736305
+K 28
+contract_term_soft_delete.rb
+V 24
+file 94x-1.0.r1/30736529
+K 29
+create_cache_for_reporting.rb
+V 24
+file 94y-1.0.r1/30736747
+K 27
+create_doc_server_config.rb
+V 24
+file 94z-1.0.r1/30736968
+K 18
+create_qa_users.rb
+V 24
+file 950-1.0.r1/30737183
+K 15
+create_roles.rb
+V 24
+file 951-1.0.r1/30737390
+K 39
+create_term_data_cache_for_snapshots.rb
+V 24
+file 952-1.0.r1/30737596
+K 3
+ctl
+V 23
+dir 953-1.0.r1/30756851
+K 34
+ctl_check_and_fix_intake_issues.rb
+V 24
+file 971-1.0.r1/30756992
+K 39
+ctl_download_pdf_from_doc_salesforce.rb
+V 24
+file 972-1.0.r1/30757216
+K 37
+ctl_exception_workflow_align_phase.rb
+V 24
+file 973-1.0.r1/30757446
+K 28
+ctl_mail_templates_config.rb
+V 24
+file 974-1.0.r1/30757673
+K 33
+ctl_sftp_download_pdf_from_doc.rb
+V 24
+file 975-1.0.r1/30757890
+K 37
+ctl_sftp_upload_doc_for_conversion.rb
+V 24
+file 976-1.0.r1/30758113
+K 37
+ctl_update_billing_account_mapping.rb
+V 24
+file 977-1.0.r1/30758341
+K 35
+ctl_update_deal_source_for_deals.rb
+V 24
+file 978-1.0.r1/30758568
+K 33
+ctl_word_to_pdf_ole_salesforce.rb
+V 24
+file 979-1.0.r1/30758793
+K 15
+ctl_wrod2pdf.rb
+V 24
+file 97a-1.0.r1/30759016
+K 9
+dbconsole
+V 24
+file 97b-1.0.r1/30759221
+K 29
+deactivate_non_active_user.rb
+V 24
+file 97c-1.0.r1/30759419
+K 11
+delayed_job
+V 24
+file 97d-1.0.r1/30759638
+K 41
+delayed_job_errors_notification_report.rb
+V 24
+file 97e-1.0.r1/30759838
+K 22
+delete_cloned_contract
+V 24
+file 97f-1.0.r1/30760070
+K 44
+delete_data_from_track_of_training_errors.rb
+V 24
+file 97g-1.0.r1/30760282
+K 32
+delete_duplicate_script_entry.rb
+V 24
+file 97h-1.0.r1/30760515
+K 25
+demo_session_cleanup.cron
+V 24
+file 97i-1.0.r1/30760737
+K 39
+derived_copy_to_child_fix_amendments.rb
+V 24
+file 97j-1.0.r1/30760949
+K 7
+destroy
+V 24
+file 97k-1.0.r1/30761178
+K 18
+drop_temp_table.rb
+V 24
+file 97l-1.0.r1/30761373
+K 18
+drop_term_cache.rb
+V 24
+file 97m-1.0.r1/30761580
+K 9
+dropdowns
+V 24
+file 97n-1.0.r1/30761787
+K 15
+email_engine.rb
+V 24
+file 97o-1.0.r1/30761984
+K 16
+email_fetcher.rb
+V 24
+file 97p-1.0.r1/30762189
+K 39
+enable_full_text_search_to_all_roles.rb
+V 20
+file 3-15.0-20.r20/0
+K 3
+esi
+V 23
+dir 97q-1.0.r1/30764039
+K 41
+export_app_settings_pre_db_restoration.rb
+V 24
+file 97z-1.0.r1/30764178
+K 10
+extraction
+V 22
+dir 980-1.0.r41/121568
+K 24
+fic_session_cleanup.cron
+V 24
+file 9bf-1.0.r1/30794542
+K 4
+fico
+V 23
+dir 9bg-1.0.r1/30797438
+K 21
+find_searchability.rb
+V 24
+file 9bs-1.0.r1/30797578
+K 22
+fts_indexing_engine.rb
+V 24
+file 9bt-1.0.r1/30797789
+K 8
+generate
+V 24
+file 9bu-1.0.r1/30798000
+K 7
+generic
+V 23
+dir 9bv-1.0.r1/30803793
+K 22
+get_ocr_stats_daily.rb
+V 24
+file 9ci-1.0.r1/30803936
+K 34
+get_pramata_active_user_details.rb
+V 24
+file 9cj-1.0.r1/30804147
+K 41
+get_pramata_active_users_with_comments.rb
+V 24
+file 9ck-1.0.r1/30804371
+K 29
+get_preprocess_information.rb
+V 20
+file g-34.6-41.r44/0
+K 2
+hp
+V 23
+dir 9cl-1.0.r1/30805217
+K 42
+import_app_settings_post_db_restoration.rb
+V 24
+file 9cr-1.0.r1/30805355
+K 33
+index_documents_elastic_server.rb
+V 24
+file 9cs-1.0.r1/30805587
+K 22
+initialize_database.rb
+V 24
+file 9ct-1.0.r1/30805810
+K 25
+initialize_folder_info.rb
+V 24
+file 9cu-1.0.r1/30806026
+K 16
+intake_engine.rb
+V 24
+file 9cv-1.0.r1/30806239
+K 15
+intake_files.rb
+V 24
+file 9cw-1.0.r1/30806443
+K 13
+intelligrated
+V 23
+dir 9cx-1.0.r1/30807166
+K 16
+keyword_list.csv
+V 24
+file 9d2-1.0.r1/30807315
+K 7
+lockton
+V 23
+dir 9d3-1.0.r1/30808413
+K 15
+log_analyzer.rb
+V 24
+file 9d9-1.0.r1/30808556
+K 27
+mail_app_exception_stats.rb
+V 24
+file 9da-1.0.r1/30808761
+K 40
+map_is_ocred_flag_for_ocred_documents.rb
+V 18
+file 9db-1.0.r31/0
+K 8
+mckesson
+V 23
+dir 9dc-1.0.r1/30811191
+K 80
+migrate_text_availability_data_from_upload_file_preprocessees_to_upload_files.rb
+V 24
+file 9do-1.0.r1/30811337
+K 59
+migrate_user_module_avilability_for_api_navigator_upload.rb
+V 24
+file 9dp-1.0.r1/30811606
+K 15
+migrate_yaml.rb
+V 24
+file 9dq-1.0.r1/30811854
+K 26
+move_to_split_po_status.rb
+V 24
+file 9dr-1.0.r1/30812060
+K 17
+mysecondscript.rb
+V 24
+file 9ds-1.0.r1/30812276
+K 31
+new_user_mgmt_password_aging.rb
+V 24
+file 9dt-1.0.r1/30812481
+K 7
+novelis
+V 23
+dir 9du-1.0.r1/30816337
+K 4
+nybc
+V 23
+dir 9e9-1.0.r1/30819809
+K 6
+ocr.sh
+V 24
+file 9en-1.0.r1/30819949
+K 26
+ocr_analysis_sprint2.03.rb
+V 24
+file 9eo-1.0.r1/30820143
+K 17
+ocr_ee_manager.rb
+V 24
+file 9ep-1.0.r1/30820359
+K 12
+olderscripts
+V 23
+dir 9eq-1.0.r1/30831174
+K 18
+omniproc_close.au3
+V 24
+file 9fs-1.0.r1/30831392
+K 19
+omniproc_config.yml
+V 24
+file 9ft-1.0.r1/30831653
+K 18
+omniproc_start.au3
+V 24
+file 9fu-1.0.r1/30831926
+K 10
+pdf2tif.sh
+V 24
+file 9fv-1.0.r1/30832190
+K 11
+performance
+V 23
+dir 9fw-1.0.r1/30832916
+K 35
+piwik_vs_server_vs_client_report.rb
+V 24
+file 9g0-1.0.r1/30833063
+K 6
+plugin
+V 24
+file 9g1-1.0.r1/30833287
+K 33
+pramata_number_account_mapping.rb
+V 24
+file 9g2-1.0.r1/30833481
+K 27
+pramata_number_migration.rb
+V 24
+file 9g3-1.0.r1/30833705
+K 7
+process
+V 23
+dir 9g4-1.0.r1/30834427
+K 3
+ptc
+V 23
+dir 9g8-1.0.r1/30835093
+K 23
+qlikview_star_schema.rb
+V 24
+file 9gd-1.0.r1/30835232
+K 7
+queries
+V 23
+dir 9ge-1.0.r1/30836003
+K 19
+release_date_fix.rb
+V 24
+file 9gi-1.0.r1/30836148
+K 22
+report_alert_engine.rb
+V 24
+file 9gj-1.0.r1/30836356
+K 52
+report_criteria_selection_performance_measurement.rb
+V 24
+file 9gk-1.0.r1/30836567
+K 44
+report_generation_performance_measurement.rb
+V 24
+file 9gl-1.0.r1/30836810
+K 39
+run_tests_for_salesforce_pramata_job.rb
+V 24
+file 9gm-1.0.r1/30837044
+K 6
+runner
+V 24
+file 9gn-1.0.r1/30837273
+K 10
+salesforce
+V 23
+dir 9go-1.0.r1/30853792
+K 13
+script_lib.rb
+V 24
+file 9id-1.0.r1/30853940
+K 21
+script_lib_updated.rb
+V 24
+file 9ie-1.0.r1/30854144
+K 20
+seed_data_test_db.rb
+V 24
+file 9if-1.0.r1/30854354
+K 6
+server
+V 24
+file 9ig-1.0.r1/30854565
+K 15
+session_cleanup
+V 24
+file 9ih-1.0.r1/30854758
+K 18
+session_cleanup.sh
+V 24
+file 9ii-1.0.r1/30854963
+K 28
+sfdc_fix_ink2paper_issue2.rb
+V 24
+file 9ij-1.0.r1/30855169
+K 31
+sftp_bulk_download_ocr_files.rb
+V 24
+file 9ik-1.0.r1/30855387
+K 26
+sftp_download_ocr_files.rb
+V 24
+file 9il-1.0.r1/30855607
+K 29
+sftp_download_pdf_from_doc.rb
+V 24
+file 9im-1.0.r1/30855822
+K 33
+sftp_upload_doc_for_conversion.rb
+V 24
+file 9in-1.0.r1/30856041
+K 32
+sftp_upload_pdf_files_for_ocr.rb
+V 24
+file 9io-1.0.r1/30856265
+K 47
+sftp_upload_pdf_files_for_ocr_by_pramata_num.rb
+V 24
+file 9ip-1.0.r1/30856487
+K 27
+snapshot_dynamic_quaters.rb
+V 24
+file 9iq-1.0.r1/30856724
+K 4
+spec
+V 24
+file 9ir-1.0.r1/30856941
+K 23
+split_file_ocr_check.rb
+V 24
+file 9is-1.0.r1/30857133
+K 21
+start_alert_engine.sh
+V 24
+file 9it-1.0.r1/30857345
+K 22
+start_email_fetcher.sh
+V 24
+file 9iu-1.0.r1/30857555
+K 20
+stop_alert_engine.sh
+V 24
+file 9iv-1.0.r1/30857765
+K 21
+stop_email_fetcher.sh
+V 24
+file 9iw-1.0.r1/30857973
+K 8
+sunovion
+V 23
+dir 9ix-1.0.r1/30860213
+K 40
+test_salesforce_pramata_field_mapping.rb
+V 24
+file 9j7-1.0.r1/30860357
+K 23
+test_salesforce_sync.rb
+V 24
+file 9j8-1.0.r1/30860589
+K 27
+test_snapshot_processing.rb
+V 24
+file 9j9-1.0.r1/30860803
+K 27
+thomson_security_updated.rb
+V 24
+file 9ja-1.0.r1/30861021
+K 11
+tiff2pdf.sh
+V 24
+file 9jb-1.0.r1/30861239
+K 18
+truncate_tables.rb
+V 24
+file 9jc-1.0.r1/30861439
+K 12
+truvenhealth
+V 23
+dir 9jd-1.0.r1/30864665
+K 23
+updating_our_company.rb
+V 24
+file 9jq-1.0.r1/30864815
+K 22
+upload_alert_script.rb
+V 24
+file 9jr-1.0.r1/30865028
+K 31
+upload_help_text_app_setting.rb
+V 24
+file 9js-1.0.r1/30865241
+K 7
+valspar
+V 23
+dir 9jt-1.0.r1/30866899
+K 28
+valspar_session_cleanup.cron
+V 24
+file 9k1-1.0.r1/30867044
+K 5
+wpahs
+V 23
+dir 9k2-1.0.r1/30868075
+END
+ENDREP
+id: 92z-1.0.r44/9204
+type: dir
+pred: 92z-1.0.r41/130975
+count: 6
+text: 44 279 8912 8912 89ca424d1750b6e88f168a95f3ab548a
+cpath: /trunk/script
+copyroot: 0 /
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 19
+dir 9-1.0.r41/31094
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 23
+dir 24j-1.0.r1/28037073
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 22
+dir 2dg-1.0.r41/116008
+K 3
+doc
+V 23
+dir 365-1.0.r1/28372867
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 22
+dir 36j-1.0.r41/119444
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 20
+dir 3fm-1.0.r37/6972
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 20
+dir 92z-1.0.r44/9204
+K 4
+spec
+V 23
+dir 9k8-1.0.r1/30926493
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 6
+vendor
+V 23
+dir 9wa-1.0.r1/31080149
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+id: 0-1.0.r44/10426
+type: dir
+pred: 0-1.0.r41/132308
+count: 15
+text: 44 9361 1052 1052 7db61a5cb9234c99672964839bf25668
+props: 41 132204 91 0 ec4c6672a9c9d99bf572c2e10510d0b4
+cpath: /trunk
+copyroot: 0 /
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 8
+branches
+V 20
+dir 0-11.0.r43/11236
+K 4
+tags
+V 17
+dir 0-7.0.r38/557
+K 5
+trunk
+V 19
+dir 0-1.0.r44/10426
+END
+ENDREP
+id: 0.0.r44/10780
+type: dir
+pred: 0.0.r43/11525
+count: 44
+text: 44 10657 110 110 58c54b6247aa0353c439e04f06e3a8df
+cpath: /
+copyroot: 0 /
+minfo-cnt: 5
+
+g-34.6-41.t43-1d modify-file true false /trunk/script/get_preprocess_information.rb
+
+
+10780 10931

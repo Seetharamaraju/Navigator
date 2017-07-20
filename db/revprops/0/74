@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-27T13:39:43.711421Z
+K 7
+svn:log
+V 170
+#31991 Comments: Cleanup of the Release toggle and the showing up the beta image for enhanced document family, thus making it the default family view for a customer user.
+END

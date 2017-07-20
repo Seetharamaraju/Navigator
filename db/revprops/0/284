@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-07-29T14:56:24.892003Z
+K 7
+svn:log
+V 140
+#32500 comments: Update api_name of the contract model term type and contract model data elements for fixing document family filter function
+END

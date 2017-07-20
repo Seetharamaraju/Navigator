@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 7
+bharath
+K 8
+svn:date
+V 27
+2016-09-08T06:39:17.445690Z
+K 7
+svn:log
+V 151
+Merged revision(s) 603 from trunk:
+#33400 Comments: Fixed issue of scale of decimal number being truncated 
+........
+
+All revisions upto 605 are merged
+END

@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+sachin
+K 8
+svn:date
+V 27
+2016-07-27T19:00:10.747387Z
+K 7
+svn:log
+V 72
+#32601 comments: changing templates according to new api response format
+END

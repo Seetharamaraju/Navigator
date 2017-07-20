@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-10-19T08:36:40.824516Z
+K 7
+svn:log
+V 75
+comments : Add a script to get the document list columns of customer users.
+END

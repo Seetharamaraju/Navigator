@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-03-22T10:42:42.621466Z
+K 7
+svn:log
+V 94
+#JIRA:PCP-80 (FTS) comments:Remove ACL fts rake task and increase FTS API timeout(20s to 300s)
+END

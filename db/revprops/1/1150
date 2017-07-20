@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-12-13T15:51:32.142229Z
+K 7
+svn:log
+V 90
+#35086 comments: Fix 1 Attribute restriction issue by allowing fields for mass assignment.
+END

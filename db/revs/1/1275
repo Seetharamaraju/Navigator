@@ -1,0 +1,680 @@
+id: 4-125.0-524.r1275/0
+type: file
+pred: 4-125.0-524.r1253/1216
+count: 37
+text: 1190 1357 165 6796 20cd669c858fa5fdbeb1d8356b686875 c20edea39527d3664a8bb3d9f1b107ca7a469feb 1274-107/_5
+cpath: /branches/dev/app/controllers/sso_auth_controller.rb
+copyroot: 524 /branches/dev/app/controllers/sso_auth_controller.rb
+
+PLAIN
+K 28
+administration_controller.rb
+V 22
+file g-1.0.r1/27217032
+K 27
+alert_configs_controller.rb
+V 24
+file i-1.0-12.r1138/1211
+K 19
+alert_controller.rb
+V 22
+file j-1.0.r1/27217480
+K 30
+alert_recipients_controller.rb
+V 22
+file k-1.0.r1/27217697
+K 23
+analytics_controller.rb
+V 22
+file l-1.0.r1/27217921
+K 3
+api
+V 23
+dir m-1.0-12.r1011/2833
+K 28
+app_exceptions_controller.rb
+V 22
+file p-1.0.r1/27218597
+K 23
+app_users_controller.rb
+V 22
+file q-1.0-12.r313/581
+K 25
+application_controller.rb
+V 24
+file r-1.0-12.r1257/2102
+K 28
+auto_amendment_controller.rb
+V 22
+file s-1.0.r1/27219265
+K 27
+chart_configs_controller.rb
+V 22
+file t-1.0.r1/27219490
+K 35
+contract_audit_errors_controller.rb
+V 22
+file u-1.0.r1/27219714
+K 37
+contract_exception_flag_controller.rb
+V 22
+file v-1.0.r1/27219946
+K 29
+contract_intake_controller.rb
+V 23
+file w-1.0-12.r955/2699
+K 28
+contract_model_controller.rb
+V 22
+file x-1.0-12.r975/341
+K 43
+contract_model_data_dropdowns_controller.rb
+V 22
+file y-1.0.r1/27220634
+K 42
+contract_model_data_elements_controller.rb
+V 22
+file z-1.0.r1/27220873
+K 44
+contract_model_term_categories_controller.rb
+V 23
+file 10-1.0.r1/27221110
+K 39
+contract_model_term_types_controller.rb
+V 23
+file 11-1.0.r1/27221350
+K 41
+contract_model_term_updates_controller.rb
+V 23
+file 12-1.0.r1/27221587
+K 29
+contract_models_controller.rb
+V 23
+file 13-1.0.r1/27221824
+K 30
+contract_request_controller.rb
+V 24
+file 14-1.0-12.r1127/445
+K 29
+contract_upload_controller.rb
+V 25
+file 15-1.0-12.r1261/1360
+K 23
+contracts_controller.rb
+V 24
+file 16-1.0-12.r834/3721
+K 40
+contracts_mass_action_jobs_controller.rb
+V 23
+file 17-1.0.r1/27222733
+K 45
+contracts_mass_action_undo_jobs_controller.rb
+V 23
+file 18-1.0.r1/27222971
+K 3
+ctl
+V 22
+dir 19-1.0.r1/27224366
+K 22
+customer_controller.rb
+V 24
+file 1g-1.0-12.r1054/162
+K 27
+customer_task_controller.rb
+V 23
+file 1h-1.0.r1/27224735
+K 32
+customer_team_mgmt_controller.rb
+V 23
+file 1i-1.0.r1/27224960
+K 38
+customer_user_management_controller.rb
+V 25
+file 1j-1.0-12.r1251/3108
+K 27
+customer_view_controller.rb
+V 25
+file 1k-1.0-12.r1164/1916
+K 24
+data_audit_controller.rb
+V 23
+file 1l-1.0.r1/27225657
+K 24
+data_entry_controller.rb
+V 23
+file 1m-1.0.r1/27225881
+K 29
+data_extraction_controller.rb
+V 23
+file 1n-1.0.r1/27226107
+K 25
+data_import_controller.rb
+V 23
+file 1o-1.0.r1/27226336
+K 34
+data_management_jobs_controller.rb
+V 23
+file 1p-1.0.r1/27226561
+K 42
+data_management_term_configs_controller.rb
+V 23
+file 1q-1.0.r1/27226793
+K 27
+data_mappings_controller.rb
+V 23
+file 1r-1.0.r1/27227033
+K 23
+data_maps_controller.rb
+V 23
+file 1s-1.0.r1/27227258
+K 31
+delayed_job_admin_controller.rb
+V 23
+file 1t-1.0.r1/27227478
+K 33
+delayed_job_monitor_controller.rb
+V 23
+file 1u-1.0-12.r270/345
+K 46
+derived_data_element_definitions_controller.rb
+V 23
+file 1v-1.0.r1/27227938
+K 28
+document_audit_controller.rb
+V 23
+file 1w-1.0.r1/27228184
+K 40
+document_exception_details_controller.rb
+V 23
+file 1x-1.0-12.r717/296
+K 33
+document_exceptions_controller.rb
+V 24
+file 1y-1.0-12.r1030/227
+K 29
+document_intake_controller.rb
+V 24
+file 1z-1.0-12.r1010/291
+K 50
+document_intake_email_configurations_controller.rb
+V 23
+file 20-1.0-12.r961/518
+K 43
+document_intake_notifications_controller.rb
+V 23
+file 21-1.0.r1/27229358
+K 36
+document_intake_report_controller.rb
+V 24
+file 22-1.0-12.r1141/751
+K 22
+docusign_controller.rb
+V 24
+file 23-1.0-12.r1140/592
+K 27
+email_configs_controller.rb
+V 23
+file 24-1.0.r1/27230053
+K 30
+exception_groups_controller.rb
+V 23
+file 25-1.0.r1/27230278
+K 32
+execution_requests_controller.rb
+V 23
+file 26-1.0-12.r763/133
+K 22
+feedback_controller.rb
+V 23
+file 27-1.0-12.r731/588
+K 23
+file_sync_controller.rb
+V 23
+file 28-1.0.r1/27230957
+K 26
+file_uploads_controller.rb
+V 23
+file 29-1.0.r1/27231177
+K 30
+full_text_search_controller.rb
+V 23
+file 2a-1.0.r1/27231402
+K 12
+fusioncharts
+V 22
+dir 2b-1.0.r1/27231944
+K 24
+gatepasses_controller.rb
+V 23
+file 2e-1.0.r1/27232100
+K 21
+graylog_controller.rb
+V 23
+file 2f-1.0.r1/27232321
+K 20
+groups_controller.rb
+V 23
+file 2g-1.0.r1/27232539
+K 24
+helloadmin_controller.rb
+V 23
+file 2h-1.0.r1/27232759
+K 2
+hp
+V 22
+dir 2i-1.0.r1/27234424
+K 25
+integration_controller.rb
+V 23
+file 2q-1.0-12.r926/660
+K 22
+job_mgmt_controller.rb
+V 23
+file 2r-1.0.r1/27234797
+K 23
+lifecycle_controller.rb
+V 23
+file 2s-1.0.r1/27235017
+K 19
+login_controller.rb
+V 25
+file 2t-1.0-12.r1251/3395
+K 33
+meta_deta_criterias_controller.rb
+V 23
+file 2u-1.0.r1/27235458
+K 24
+milestones_controller.rb
+V 23
+file 2v-1.0.r1/27235689
+K 24
+monitoring_controller.rb
+V 26
+file 4-1202.0-12.r1241/196
+K 28
+ocr_automation_controller.rb
+V 22
+file 2w-1.0-12.r52/257
+K 32
+ocr_server_configs_controller.rb
+V 23
+file 2x-1.0.r1/27236137
+K 23
+ocr_stats_controller.rb
+V 23
+file 2y-1.0.r1/27236367
+K 27
+pdf_convertor_controller.rb
+V 23
+file 2z-1.0.r1/27236588
+K 21
+release_controller.rb
+V 23
+file 30-1.0.r1/27236813
+K 22
+reporter_controller.rb
+V 23
+file 31-1.0.r1/27237031
+K 23
+reporting_controller.rb
+V 25
+file 32-1.0-12.r1097/1810
+K 28
+request_wizard_controller.rb
+V 23
+file 33-1.0.r1/27237476
+K 12
+restful_apis
+V 22
+dir 34-1.0.r1/27237701
+K 29
+role_categories_controller.rb
+V 23
+file 35-1.0.r1/27237801
+K 19
+rules_controller.rb
+V 23
+file 36-1.0.r1/27238027
+K 10
+salesforce
+V 22
+dir 37-1.0.r1/27238547
+K 36
+salesforce_application_controller.rb
+V 23
+file 3a-1.0-12.r926/927
+K 34
+salesforce_envelopes_controller.rb
+V 23
+file 3b-1.0.r1/27238937
+K 38
+salesforce_opportunities_controller.rb
+V 23
+file 3c-1.0.r1/27239170
+K 47
+salesforce_pramata_field_mappings_controller.rb
+V 23
+file 3d-1.0.r1/27239405
+K 23
+saml_auth_controller.rb
+V 24
+file 3e-1.0-12.r871/2485
+K 20
+sample_controller.rb
+V 23
+file 3f-1.0.r1/27239871
+K 21
+sampler_controller.rb
+V 23
+file 3g-1.0.r1/27240087
+K 3
+se2
+V 22
+dir 3h-1.0.r1/27241458
+K 22
+searcher_controller.rb
+V 23
+file 3o-1.0.r1/27241605
+K 37
+security_administration_controller.rb
+V 23
+file 3p-1.0.r1/27241827
+K 8
+services
+V 25
+dir 4-768.0-834.r834/4258
+K 22
+services_controller.rb
+V 23
+file 3q-1.0.r1/27242063
+K 29
+snapshot_config_controller.rb
+V 23
+file 3r-1.0.r1/27242283
+K 22
+sso_auth_controller.rb
+V 24
+file 4-125.0-524.r1275/0
+K 18
+tags_controller.rb
+V 23
+file 3s-1.0.r1/27242510
+K 19
+tasks_controller.rb
+V 23
+file 3t-1.0.r1/27242724
+K 23
+team_mgmt_controller.rb
+V 23
+file 3u-1.0.r1/27242941
+K 24
+tour_visit_controller.rb
+V 21
+file 3v-1.0.r5/204988
+K 35
+training_set_contract_controller.rb
+V 23
+file 3w-1.0.r1/27243386
+K 26
+training_set_controller.rb
+V 23
+file 3x-1.0.r1/27243620
+K 32
+training_set_users_controller.rb
+V 23
+file 3y-1.0.r1/27243846
+K 32
+transaction_review_controller.rb
+V 23
+file 3z-1.0.r1/27244079
+K 30
+transaction_view_controller.rb
+V 23
+file 40-1.0-12.r13/1779
+K 26
+usage_report_controller.rb
+V 23
+file 41-1.0-12.r742/582
+K 18
+user_controller.rb
+V 25
+file 42-1.0-12.r1251/3663
+K 24
+user_roles_controller.rb
+V 23
+file 43-1.0-12.r343/565
+K 18
+view_controller.rb
+V 22
+file 44-1.0-12.r1129/0
+END
+ENDREP
+id: f-1.0-12.r1275/7167
+type: dir
+pred: f-1.0-12.r1261/8491
+count: 260
+text: 1275 313 6841 6841 243ff1d2abf1e47e63e21d816397232b
+cpath: /branches/dev/app/controllers
+copyroot: 12 /branches/dev
+
+PLAIN
+K 4
+apis
+V 21
+dir a-1.0.r1/27216895
+K 11
+controllers
+V 23
+dir f-1.0-12.r1275/7167
+K 7
+helpers
+V 24
+dir 45-1.0-12.r1173/5070
+K 5
+metal
+V 22
+dir 6c-1.0.r1/27271772
+K 6
+models
+V 25
+dir 6f-1.0-12.r1274/23733
+K 5
+views
+V 25
+dir i2-1.0-12.r1242/13163
+END
+ENDREP
+id: 9-1.0-12.r1275/7623
+type: dir
+pred: 9-1.0-12.r1274/24190
+count: 505
+text: 1275 7361 249 249 74ad5689bc43cb4ff9f43bf25c121c7f
+cpath: /branches/dev/app
+copyroot: 12 /branches/dev
+
+PLAIN
+K 9
+.loadpath
+V 22
+file 2-1.0.r1/27215231
+K 8
+.project
+V 22
+file 4-1.0.r1/27215420
+K 6
+.rspec
+V 22
+file 5-1.0.r1/27215606
+K 6
+.rvmrc
+V 22
+file 6-1.0.r1/27215790
+K 6
+README
+V 22
+file 7-1.0.r1/27215974
+K 8
+Rakefile
+V 22
+file 8-1.0.r1/27216161
+K 3
+app
+V 23
+dir 9-1.0-12.r1275/7623
+K 6
+aspnet
+V 23
+dir 24e-1.0.r1/27970327
+K 10
+components
+V 23
+dir 24i-1.0.r1/27970464
+K 6
+config
+V 26
+dir 24j-1.0-12.r1256/11863
+K 3
+ctl
+V 23
+dir 2cd-1.0.r1/28044554
+K 17
+database_dump.txt
+V 24
+file 2df-1.0.r1/28044688
+K 2
+db
+V 26
+dir 2dg-1.0-12.r1203/87505
+K 3
+doc
+V 27
+dir 365-1.0-12.r1037/180838
+K 10
+extraction
+V 23
+dir 369-1.0.r1/28374669
+K 3
+lib
+V 26
+dir 36j-1.0-12.r1261/36232
+K 3
+log
+V 23
+dir 3fj-1.0.r1/28443606
+K 6
+public
+V 25
+dir 3fm-1.0-12.r1237/7980
+K 13
+replace_files
+V 23
+dir 92y-1.0.r1/30723252
+K 6
+script
+V 26
+dir 92z-1.0-12.r1267/35603
+K 4
+spec
+V 27
+dir 9k8-1.0-12.r1037/205105
+K 9
+templates
+V 23
+dir 9pj-1.0.r1/30927037
+K 4
+test
+V 23
+dir 9pm-1.0.r1/30989249
+K 3
+tmp
+V 23
+dir 9w4-1.0.r1/30989893
+K 28
+user_responsibility_document
+V 23
+dir 2-495.0-12.r672/563
+K 6
+vendor
+V 24
+dir 9wa-1.0-12.r844/2822
+K 16
+wizard_templates
+V 23
+dir a8m-1.0.r1/31089132
+END
+ENDREP
+id: 0-1.0-12.r1275/8968
+type: dir
+pred: 0-1.0-12.r1274/25538
+count: 632
+text: 1275 7805 1150 1150 6eeb655c9e2c61b4d0295b460b3efd8d
+props: 1242 14964 1119 0 cb8c60b79c896be4ddb800b915734330
+cpath: /branches/dev
+copyroot: 12 /branches/dev
+minfo-cnt: 1
+minfo-here: y
+
+PLAIN
+K 14
+ae_development
+V 22
+dir 0-1.0-33.r88/25015
+K 3
+dev
+V 23
+dir 0-1.0-12.r1275/8968
+K 6
+se_dev
+V 24
+dir 0-1.0-23.r1260/27080
+K 14
+se_dev_patches
+V 24
+dir 0-1.0-886.r894/22785
+K 18
+se_dev_phabricator
+V 22
+dir 1-1100.0.r1101/258
+K 12
+se_prototype
+V 24
+dir 0-1.0-166.r772/74336
+END
+ENDREP
+id: 0-11.0.r1275/9526
+type: dir
+pred: 0-11.0.r1274/26099
+count: 1038
+text: 1275 9233 280 280 ec1a9f12186afc67c9d7c84e1a6e2ccd
+cpath: /branches
+copyroot: 0 /
+minfo-cnt: 5
+
+PLAIN
+K 8
+branches
+V 21
+dir 0-11.0.r1275/9526
+K 4
+tags
+V 20
+dir 0-7.0.r1244/4409
+K 5
+trunk
+V 21
+dir 0-1.0.r1246/12161
+END
+ENDREP
+id: 0.0.r1275/9826
+type: dir
+pred: 0.0.r1274/26402
+count: 1275
+text: 1275 9697 116 116 b3505a70e55f9d22b250e4199221f822
+cpath: /
+copyroot: 0 /
+minfo-cnt: 55
+
+4-125.0-524.t1274-107 modify-file true false /branches/dev/app/controllers/sso_auth_controller.rb
+
+
+9826 9984

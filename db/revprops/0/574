@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-09-06T01:39:48.944596Z
+K 7
+svn:log
+V 80
+ #33405 comments: Removed the highlight css and the basic auth for core_service 
+END

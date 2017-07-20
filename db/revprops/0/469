@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-08-16T22:49:46.766909Z
+K 7
+svn:log
+V 99
+ #33406 comments: Fixed the api specification and modified the functional spec for older base urls 
+END

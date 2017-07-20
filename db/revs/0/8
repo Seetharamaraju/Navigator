@@ -1,0 +1,46 @@
+id: 0-1.0-8.r8/0
+type: dir
+pred: 0-1.0.r6/22385
+count: 6
+text: 6 21319 1053 1053 6993aa4635c2c8499db9b199ec3cb0c5
+cpath: /tags/release16.6.1
+copyfrom: 7 /trunk
+
+PLAIN
+K 13
+release16.6.1
+V 16
+dir 0-1.0-8.r8/0
+END
+ENDREP
+id: 0-7.0.r8/219
+type: dir
+pred: 0-7.0.r7/0
+count: 1
+text: 8 161 45 45 0ae4d714a4447bae825e3757b79c3d47
+cpath: /tags
+copyroot: 0 /
+
+PLAIN
+K 4
+tags
+V 16
+dir 0-7.0.r8/219
+K 5
+trunk
+V 18
+dir 0-1.0.r6/22385
+END
+ENDREP
+id: 0.0.r8/433
+type: dir
+pred: 0.0.r7/142
+count: 8
+text: 8 351 69 69 3fc0838bb5a16a5697bd271466d193ca
+cpath: /
+copyroot: 0 /
+
+0-1._0.t7-9 add-dir false false /tags/release16.6.1
+7 /trunk
+
+433 559

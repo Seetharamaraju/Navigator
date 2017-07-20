@@ -1,0 +1,17 @@
+K 10
+svn:author
+V 5
+richa
+K 15
+svn:check-locks
+V 4
+true
+K 8
+svn:date
+V 27
+2016-06-29T05:37:53.707703Z
+K 7
+svn:log
+V 116
+Comments: Updated the jumploader_z.jar for the latest certificate. This revision should be merged to DP App as well.
+END

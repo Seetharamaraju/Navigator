@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-08-24T07:04:25.219682Z
+K 7
+svn:log
+V 129
+#32288 Use Case#33175 Comments: Syncing all the attributes from SAML response sent with the sso login(first,last name,email,role)
+END

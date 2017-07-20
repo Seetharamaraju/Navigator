@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-06-06T13:50:09.606244Z
+K 7
+svn:log
+V 163
+#31621 Comments: Fixing the issue for performing export to excel for Usage reports > Reporting - Top searched Terms #Common Code "Need to be present on DP as well"
+END

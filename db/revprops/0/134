@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2016-07-14T13:43:30.388673Z
+K 7
+svn:log
+V 105
+#32288 Comments: Notify user when User Role names are edited in User Management only when SSO is enabled.
+END

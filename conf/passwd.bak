@@ -1,0 +1,34 @@
+### This file is an example password file for svnserve.
+### Its format is similar to that of svnserve.conf. As shown in the
+### example below it contains one section labelled [users].
+### The name and password for each user follow, one account per line.
+
+# [users]
+# harry = harryssecret
+# sally = sallyssecret
+[users]
+bharath=5vnBhara!h
+ravis=5vnRav!s
+lohith=5vnLoh!th
+kselva=5vn@kev
+abhilash=5vn@abh!
+asha=5vnash@!
+megha=5vnmegh@!
+santhosh=5vnsanth0sh!
+prasanta=5vnprasant@!
+rejith=5vnrej1th
+richa=5vnr1ch@
+bharathg=5vnbhar@th
+pradeep=5vnpr@d!p
+sachin=5vn5@chin
+karthik=!karthik
+nagajyothi=5vnnagajyt!
+amrish=5vniAmrish!
+vipul=5vnVipul!
+nikita=5vnNikita!1
+ashish=$vn@sh!sh
+jaswinder=5vnJa$Win!8
+bala=5vnbala!2
+shubhendra=5vnsHubeN%
+kulshresht=%kulshRe!@
+rajiv=5vnRaj1v%

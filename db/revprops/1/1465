@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 5
+richa
+K 8
+svn:date
+V 27
+2017-02-21T12:06:29.933178Z
+K 7
+svn:log
+V 151
+#36479 Comments:#36722 Added the Retry mechanism for the get_info_from_salesforce API. Also added logging for the various stages of the API processing.
+END

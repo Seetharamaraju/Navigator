@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2017-04-07T15:02:29.221985Z
+K 7
+svn:log
+V 82
+#JIRA:PCP-82 (FTS) comments: Cache the FTS hits after getting all results from ES.
+END

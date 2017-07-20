@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 8
+santhosh
+K 8
+svn:date
+V 27
+2016-08-31T13:06:45.675774Z
+K 7
+svn:log
+V 40
+#32288 : Remove app split handling code.
+END

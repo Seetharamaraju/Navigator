@@ -1,0 +1,13 @@
+K 10
+svn:author
+V 6
+kselva
+K 8
+svn:date
+V 27
+2016-07-22T21:53:59.881497Z
+K 7
+svn:log
+V 113
+ #32541 comments: Added SamlActivityLog to capture the end to end login activity of Salesforce SAML users in CTL 
+END
